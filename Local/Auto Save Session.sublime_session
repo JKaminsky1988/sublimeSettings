@@ -1,0 +1,402 @@
+{
+	"folder_history":
+	[
+		"/D/work_bet/mobile",
+		"/D/work_bet/core",
+		"/D/work_bet/front_tpl",
+		"/D/work_bet/front_www",
+		"/D/work_bet/1111111"
+	],
+	"last_version": 3211,
+	"last_window_id": 10,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 769.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"che",
+						"Git: Checkout Current File"
+					],
+					[
+						"checko",
+						"Git: Checkout Current File"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/AutoBackups (Windows).sublime-settings",
+				"/C/Users/JaineKaminsky/package.json",
+				"/C/Users/JaineKaminsky/.babel.json"
+			],
+			"find":
+			{
+				"height": 49.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"convert_command"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 283.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"checkout ",
+						"Git: Checkout Current File"
+					],
+					[
+						"che",
+						"Git: Checkout Current File"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"checko",
+						"Git: Checkout Current File"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/work_bet/core",
+				"/D/work_bet/core/src",
+				"/D/work_bet/core/src/components",
+				"/D/work_bet/core/src/components/common",
+				"/D/work_bet/core/src/components/common/Button"
+			],
+			"file_history":
+			[
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
+				"/D/work_bet/core/src/components/common/Button/index.module.css",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/AutoBackups (Windows).sublime-settings",
+				"/C/Users/JaineKaminsky/package.json",
+				"/C/Users/JaineKaminsky/.babel.json"
+			],
+			"find":
+			{
+				"height": 49.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"convert_command"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,831,82,3,738",
+			"project": "betinvest.sublime-project",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 283.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/betinvest.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/betinvest.sublime-workspace"
+		]
+	}
+}

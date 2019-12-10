@@ -109,7 +109,7 @@
 
     //Defines how to deal with whitespace differences. Array consisting of the following:
     //"begin" - ignore at line begin, "middle" - ignore in the middle, "end" - ignore at line end
-    "ignore_whitespace": ["begin", "middle", "end"],
+    "ignore_whitespace": [],
 
     //Set to true if you want to ignore differences in new line characters (CR/LF)
     "ignore_crlf": true,
@@ -139,13 +139,13 @@
     "intraline_combine_threshold": 3,
 
     //EXPERIMENTAL! All strings matching these regular expressions will be marked as unimportant
-    //while doing intraline differences analysis. They apply to a line so ^ and $ operators will match
-    //line begin and line end. Expressions are case-sensitive.
+    //while doing intraline differences analysis. They apply to a line so ^ and $ operators will match 
+    //line begin and line end. Expressions are case-sensitive. 
     //
     // Important Notes:
     //  - Expressions are applied in order of appearing in this list.
-    //  - Expression must have at least one capturing group - only capturing groups are considered to be
-    //    treated as unimportant.
+    //  - Expression must have at least one capturing group - only capturing groups are considered to be 
+    //    treated as unimportant. 
     //  - You should not use nested capturing groups. If your expression requires nested groups, mark
     //    the other ones as non-capturing using "?:" operator, i.e. (?:(cat|dog))?. Otherwise it will
     //    result in undefined behavior.
@@ -221,7 +221,7 @@
     //User-defined whitelist for commands to be available to run in diff view. Some commands may cause
     //the diff view to work not properly and lead to undefined behavior. Use with caution!
     //
-    //Example:
+    //Example: 
     //  {
     //     "command1": "*",                                  //accepts command with any arguments
     //     "command2": {"arg1": "*"},                        //accepts command with certain arguments and any arguments' values

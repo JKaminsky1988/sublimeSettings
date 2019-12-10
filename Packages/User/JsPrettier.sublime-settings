@@ -1,17 +1,7 @@
 {
-  "auto_format_on_save": true,
-  "use_local_babel": true,
-  "node_modules": {
-    "windows": "C:/Program Files/nodejs/node_modules",
-  },
   "prettier_cli_path": "C:/Users/JaineKaminsky/AppData/Roaming/npm/prettier.cmd",
-
-    "prettier_options": {
-        "useTabs": false,
-        "semi": false,
-    "tabWidth": 2,
-    "singleQuote": true,
-    "trailingComma": "all",
-    "parser": "babylon",
-    },
+  "auto_format_on_save": true,
+  "auto_format_on_save_excludes": [
+    "*/node_modules/*"
+  ]
 }

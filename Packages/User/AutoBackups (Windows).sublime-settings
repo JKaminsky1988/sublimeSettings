@@ -1,5 +1,4 @@
 {
-
 	// Files older than X days will be deleted. If 0 - auto delete disabled
 	"delete_old_backups": 10, // days to delete
 }

@@ -1,0 +1,1765 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lh",
+				"lh\tline-height"
+			],
+			[
+				"is",
+				"isActive\tabc"
+			],
+			[
+				"boxs",
+				"box-sizing\tabc"
+			],
+			[
+				"padd",
+				"padding-top\tabc"
+			],
+			[
+				"tra",
+				"translateY()\ttransform"
+			],
+			[
+				"tran",
+				"translateY()\ttransform"
+			],
+			[
+				"bgz",
+				"bgz:ct\tbackground-size:contain"
+			],
+			[
+				"bor",
+				"border-box\tbox-sizing"
+			],
+			[
+				"im",
+				"img_4.svg"
+			],
+			[
+				"class",
+				"className\tabc"
+			],
+			[
+				"vip",
+				"vip_page\tabc"
+			],
+			[
+				"sli",
+				"slick_slide\tabc"
+			],
+			[
+				"bg_",
+				"bg_2.png\tw:1429 h:550"
+			],
+			[
+				"cont",
+				"contact_button\t(App.js)"
+			],
+			[
+				"м",
+				"менеджером\t(App.js)"
+			],
+			[
+				"no",
+				"no-repeat\tabc"
+			],
+			[
+				"Car",
+				"CarouselForItems\tabc"
+			],
+			[
+				"slick",
+				"slick-slide\tabc"
+			],
+			[
+				"pad",
+				"padding-right\tabc"
+			],
+			[
+				"trans",
+				"translate()\ttransform"
+			],
+			[
+				"po_icon",
+				"po_icon_wrapp\t(icon.scss)"
+			],
+			[
+				"box",
+				"box-shadow\tabc"
+			],
+			[
+				"input",
+				"inputDisabled\t(Input.js)"
+			],
+			[
+				"inpu",
+				"inputPlaceholder\t(Input.js)"
+			],
+			[
+				"T",
+				"Tooltip.js"
+			],
+			[
+				"disa",
+				"disable\tabc"
+			],
+			[
+				"icon",
+				"iconClassName\tabc"
+			],
+			[
+				"cu",
+				"cur:p\tcursor:pointer"
+			],
+			[
+				"ico",
+				"iconSize\tabc"
+			],
+			[
+				"po_date",
+				"po_datePicker_single\t(DatePickerSingle.js)"
+			],
+			[
+				"num",
+				"numberOfMonths\tabc"
+			],
+			[
+				"po_",
+				"po_box\t(library.stories.js)"
+			],
+			[
+				"un",
+				"unchecked\t(library.stories.js)"
+			],
+			[
+				"row",
+				"rowStart\t(Box.js)"
+			],
+			[
+				"dis",
+				"disabled\tabc"
+			],
+			[
+				"da",
+				"darken\t(_mixins.scss)"
+			],
+			[
+				"su",
+				"super\t(Incoming.js)"
+			],
+			[
+				"I",
+				"Icon.js"
+			],
+			[
+				"ali",
+				"align-items\tabc"
+			],
+			[
+				"flex",
+				"flex-direction\tabc"
+			],
+			[
+				"bac",
+				"background-size\tabc"
+			],
+			[
+				"lo_stat",
+				"lo_status_i\t(Tab2.js)"
+			],
+			[
+				"spac",
+				"spacing={5\t(Tab3.js)"
+			],
+			[
+				"lo_",
+				"lo_blue\tabc"
+			],
+			[
+				"lo_tab",
+				"lo_tab1_Content\tabc"
+			],
+			[
+				"ou",
+				"outline\tabc"
+			],
+			[
+				"cl",
+				"className\tabc"
+			],
+			[
+				"ar",
+				"arLeft\tabc"
+			],
+			[
+				"lo",
+				"lo_statusTable_th\tabc"
+			],
+			[
+				"lo_statu",
+				"lo_statusTable_td\tabc"
+			],
+			[
+				"lo_statusTable_",
+				"lo_statusTable_rowName\tabc"
+			],
+			[
+				"lo_sta",
+				"lo_statusTable_row\tabc"
+			],
+			[
+				"space",
+				"space-evenly\tabc"
+			],
+			[
+				"tab_",
+				"tab_icon_1.svg"
+			],
+			[
+				"in",
+				"inline\tdisplay"
+			],
+			[
+				"tab",
+				"tab-link\tabc"
+			],
+			[
+				"bdr",
+				"bdra\tborder-radius"
+			],
+			[
+				"tabCo",
+				"tabsConst\tabc"
+			],
+			[
+				"Te",
+				"TextArea\tabc"
+			],
+			[
+				"ta",
+				"ta\ttext-align: ${1:left};"
+			],
+			[
+				"c",
+				"Checkbox.js"
+			],
+			[
+				"const",
+				"constructor\t(Incoming.js)"
+			],
+			[
+				"po_che",
+				"po_checkbox\t(checkbox.stories.js)"
+			],
+			[
+				"po_checkbox_",
+				"po_checkbox_checked\t(checkbox.stories.js)"
+			],
+			[
+				"chec",
+				"checkboxClassName\t(Checkbox.js)"
+			],
+			[
+				"con",
+				"containerClassName\t(Container.js)"
+			],
+			[
+				"PropsT",
+				"PropTypes"
+			],
+			[
+				"de",
+				"defaultProps\t(UserData.js)"
+			],
+			[
+				"prop",
+				"propTypes\t(LeftSideBar.js)"
+			],
+			[
+				"Selec",
+				"SelectPhone\tabc"
+			],
+			[
+				"Select",
+				"SelectSearch\tabc"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"Co",
+				"Container"
+			],
+			[
+				"sub",
+				"subtabContent"
+			],
+			[
+				"Tab",
+				"TabContent"
+			],
+			[
+				"subT",
+				"subtabLink"
+			],
+			[
+				"header",
+				"headerTitle\t(profile.stories.js)"
+			],
+			[
+				"t",
+				"TabConst.js"
+			],
+			[
+				"L",
+				"LeftSideBar.js"
+			],
+			[
+				"Cha",
+				"ChangePass"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"pen",
+				"pencil_normal"
+			],
+			[
+				"clos",
+				"close_dangerous"
+			],
+			[
+				"error",
+				"errorText"
+			],
+			[
+				"er",
+				"errorText"
+			],
+			[
+				"Pass",
+				"Password"
+			],
+			[
+				"po_ic",
+				"po_icon_wrapp"
+			],
+			[
+				"po_inp",
+				"po_input_wrapp\t(form.scss)"
+			],
+			[
+				"cur",
+				"cur:p\tcursor:pointer"
+			],
+			[
+				"pass",
+				"passVisible\t(PasswordInput.js)"
+			],
+			[
+				"Status",
+				"StatusDocs"
+			],
+			[
+				"state",
+				"stateOfDocs"
+			],
+			[
+				"siz",
+				"size-of-icons"
+			],
+			[
+				"si",
+				"size-of-icons"
+			],
+			[
+				"di",
+				"disabled"
+			],
+			[
+				"pencil_",
+				"pencil_active"
+			],
+			[
+				"disabl",
+				"disabled\t(Notification.js)"
+			],
+			[
+				"img",
+				"img/"
+			],
+			[
+				"type",
+				"typeOfNotify\t(Notification.js)"
+			],
+			[
+				"mi",
+				"_mixins.scss"
+			],
+			[
+				"acce",
+				"accessory\t(_mixins.scss)"
+			],
+			[
+				"N",
+				"Notification.js"
+			],
+			[
+				"po-",
+				"po-bets-logo-18"
+			],
+			[
+				"po-bets",
+				"po-bets-logo-18"
+			],
+			[
+				"color",
+				"color-hover\t(_mixins.scss)"
+			],
+			[
+				"seco",
+				"secondaryModal.scss"
+			],
+			[
+				"show",
+				"showDayPicker"
+			],
+			[
+				"sho",
+				"showDayPicker"
+			],
+			[
+				"day",
+				"_datePickerStyle.scss"
+			],
+			[
+				"setDee",
+				"setDateRange\t(index.js)"
+			],
+			[
+				"white",
+				"white-space\tproperty"
+			],
+			[
+				"v",
+				"visible"
+			],
+			[
+				"bonus_a",
+				"bonus_agree\t(index.js)"
+			],
+			[
+				"free",
+				"freespinStatesMap\t(bonusConst.js)"
+			],
+			[
+				"po",
+				"potencial"
+			],
+			[
+				"statu",
+				"statusMap\t(index.js)"
+			],
+			[
+				"BOU",
+				"BONUS_PROPOSED"
+			],
+			[
+				"risk",
+				"riskfreeBonusStates"
+			],
+			[
+				"bon",
+				"bonusStates"
+			],
+			[
+				"freesp",
+				"freespinBonusStates"
+			],
+			[
+				"wrap",
+				"wrap_payment_form"
+			],
+			[
+				"out",
+				"outputAmount\t(index.js)"
+			],
+			[
+				"depo",
+				"depositAmount"
+			],
+			[
+				"bala",
+				"balance"
+			],
+			[
+				"deposit",
+				"depositStatus\t(index.js)"
+			],
+			[
+				"balan",
+				"balanceAmount\t(index.js)"
+			],
+			[
+				"dayP",
+				"dayPickerOutput\t(index.js)"
+			],
+			[
+				"his",
+				"historyData"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Nodejs/Nodejs.sublime-build",
+					""
+				],
+				[
+					"Packages/JSHint/JSHint.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Nodejs/Nodejs.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/SASS Build/SASS - Compressed.sublime-build",
+					""
+				],
+				[
+					"Packages/SASS Build/SASS.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SASS Build/SASS - Compressed.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 335.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"check",
+				"Git: Checkout Current File"
+			],
+			[
+				"checkou",
+				"Git: Checkout Current File"
+			],
+			[
+				"checkout ",
+				"Git: Checkout Current File"
+			],
+			[
+				"git checko",
+				"Git: Checkout Current File"
+			],
+			[
+				"Prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"chekcout ",
+				"Git: Checkout Current File"
+			],
+			[
+				"checkout",
+				"Git: Checkout Current File"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"checko",
+				"Git: Checkout Current File"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"compare",
+				"Sublimerge: Compare to Other Branch..."
+			],
+			[
+				"comp",
+				"Sublimerge: Compare to Other Branch..."
+			],
+			[
+				"chekco",
+				"Git: Checkout Current File"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"compa",
+				"Sublimerge: Compare to Other Branch..."
+			],
+			[
+				"cheko",
+				"Git: Checkout Current File"
+			],
+			[
+				"git checkout ",
+				"Git: Checkout Current File"
+			],
+			[
+				"che",
+				"Git: Checkout Current File"
+			],
+			[
+				"merge",
+				"Sublimerge: Compare to Revision..."
+			],
+			[
+				"git mer",
+				"Git: Merge Branch"
+			],
+			[
+				"mer",
+				"Git: Merge Branch"
+			],
+			[
+				"com",
+				"Sublimerge: Compare to Other Branch..."
+			],
+			[
+				"new",
+				"Git: New Branch"
+			],
+			[
+				"git branch",
+				"Git: New Branch"
+			],
+			[
+				"re",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"git che",
+				"Git: Checkout Current File"
+			],
+			[
+				"gheckou",
+				"Git: Checkout Current File"
+			],
+			[
+				"back",
+				"AutoBackups: Open File Backup"
+			],
+			[
+				"bac",
+				"AutoBackups: Open File Backup"
+			],
+			[
+				"git checkout",
+				"Git: Checkout Current File"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git checkou",
+				"Git: Checkout Current File"
+			],
+			[
+				"git merge",
+				"Git: Merge Branch"
+			],
+			[
+				"sublimerge compare",
+				"Sublimerge: Compare Revision to Revision..."
+			],
+			[
+				"compare to",
+				"Sublimerge: Compare to Other Branch..."
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git ",
+				"Git: Add All"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"commi",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"scss",
+				"SassBeautify: Convert from SCSS to current type"
+			],
+			[
+				"das",
+				"Package Control: Disable Package"
+			],
+			[
+				"dif",
+				"Git: Diff Current File"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"gif",
+				"Git: Diff Staged Files"
+			],
+			[
+				"merg",
+				"Sublimerge: Take Snapshot"
+			],
+			[
+				"auto",
+				"AutoBackups: Open File Backup"
+			],
+			[
+				"git commit ",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"color",
+				"Preferences: Color Highlight Settings"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"gu",
+				"Guna"
+			],
+			[
+				"gun",
+				"Guna : Tweak Theme"
+			],
+			[
+				"gru",
+				"gruvbox: Select Theme"
+			],
+			[
+				"guna",
+				"Guna : Tweak Theme"
+			],
+			[
+				"gruvbox",
+				"gruvbox: Select Theme"
+			],
+			[
+				"g",
+				"Guna : Tweak Theme"
+			],
+			[
+				"the",
+				"gruvbox: Select Theme"
+			],
+			[
+				"git qu",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"git blam",
+				"Git Blame Erase All"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"git his",
+				"Git: Commit history"
+			],
+			[
+				"git ano",
+				"Git: Toggle Annotations"
+			],
+			[
+				"git sta",
+				"Git: Show Tags"
+			],
+			[
+				"git dif",
+				"Git: Diff Current File"
+			],
+			[
+				"git",
+				"Git: Pull"
+			],
+			[
+				"di",
+				"Git: Diff Current File"
+			],
+			[
+				"gruv",
+				"gruvbox: Select Theme"
+			],
+			[
+				"jspret",
+				"JsPrettier: Format Code"
+			],
+			[
+				"babel",
+				"Babel Transform"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"set",
+				"Set Syntax: JSX"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"s",
+				"Set Syntax: JSX"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			],
+			[
+				"se",
+				"Set Syntax: JSX"
+			],
+			[
+				"sync",
+				"Sync Settings: Download"
+			],
+			[
+				"syn",
+				"Sync Settings: Download"
+			],
+			[
+				"bea",
+				"Javascript Beautify"
+			],
+			[
+				"html be",
+				"HTMLBeautify"
+			],
+			[
+				"html beau",
+				"HTMLBeautify"
+			],
+			[
+				"j",
+				"Javascript Beautify"
+			],
+			[
+				"set ",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ja",
+				"Javascript Beautify"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"emmet ",
+				"Set Syntax: Emmet"
+			],
+			[
+				"!",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"IN",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"node",
+				"Nodejs::NPM::Install"
+			],
+			[
+				"sni",
+				"Nodejs::NPM::Install"
+			],
+			[
+				"nod",
+				"Nodejs::User File Settings"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"rempac",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 493.0,
+		"history":
+		[
+			"List",
+			"ls -l",
+			"git status",
+			"view.run_command(\"htmlprettify\")",
+			"view.encoding()",
+			"sublime.message_dialog(view.encoding())",
+			"view.encoding()",
+			"viev.encoding()",
+			"npm start",
+			"git status",
+			"subl style.css",
+			"git status",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/work_bet/front_www/js/src/pages",
+		"/D/work_bet/front_www/js/src/pages/mark-146",
+		"/D/work_bet/front_www/js/src/pages/mark-146/node_modules",
+		"/D/work_bet/front_www/js/src/pages/mark-146/node_modules/slick-carousel",
+		"/D/work_bet/front_www/js/src/pages/mark-146/node_modules/slick-carousel/slick",
+		"/D/work_bet/front_www/js/src/pages/mark-146/node_modules/slick-carousel/slick/fonts"
+	],
+	"file_history":
+	[
+		"/D/work_bet/front_www/js/src/pages/mark-146/src/scss/base.scss",
+		"/D/work_bet/front_www/js/src/pages/mark-146/src/components/CarouselForItems.js",
+		"/D/work_bet/front_www/js/src/pages/mark-146/package.json",
+		"/D/work_bet/front_www/js/src/pages/mark-146/src/App.js",
+		"/D/work_bet/front_www/js/src/pages/mark-146/build/index.html",
+		"/C/Users/JaineKaminsky/Desktop/test.css",
+		"/D/work_bet/front_www/js/src/pages/mark-146/src/vip_main.js",
+		"/D/work_bet/front_www/js/src/pages/mark-146/src/containers/Wrapper3.js",
+		"/D/work_bet/front_www/js/src/pages/mark-146/src/components/Item.js",
+		"/D/work_bet/front_www/js/src/pages/mark-146/src/components/Carousel.js",
+		"/D/work_bet/front_www/js/src/pages/mark-146/public/index.html",
+		"/D/work_bet/front_www/js/src/pages/mark-146/src/containers/Wrapper6.js",
+		"/D/work_bet/front_www/js/src/pages/mark-146/src/containers/Wrapper4.js",
+		"/D/work_bet/front_www/js/src/pages/mark-146/.gitignore",
+		"/D/work_bet/front_www/js/src/pages/mark-146/build/static/css/main.61efbb1c.chunk.css",
+		"/D/work_bet/front_www/js/src/pages/mark-146/build/static/js/2.c15b6224.chunk.js",
+		"/D/work_bet/front_www/js/src/pages/mark-146/src/index.js",
+		"/D/work_bet/front_www/js/src/pages/mark-146/src/containers/Wrapper8.js",
+		"/D/work_bet/front_www/js/src/pages/mark-146/src/containers/Wrapper1.js",
+		"/D/work_bet/front_www/js/src/pages/mark-146/build/asset-manifest.json",
+		"/D/work_bet/front_www/js/src/pages/mark-146/src/containers/Wrapper2.js",
+		"/D/work_bet/front_www/js/src/pages/mark-146/src/containers/Wrapper5.js",
+		"/D/work_bet/front_www/js/src/pages/mark-146/src/containers/Wrapper7.js",
+		"/D/work_bet/front_www/js/src/pages/mark-61/src/App.js",
+		"/D/work_bet/front_www/js/src/pages/mark-61/src/scss/base.scss",
+		"/D/work_bet/front_www/js/src/pages/mark-146/src/containers/Tab3.js",
+		"/D/work_bet/front_www/js/src/pages/mark-146/src/containers/Tab2.js",
+		"/D/work_bet/front_www/js/src/pages/mark-146/src/containers/Tab1.js",
+		"/D/work_bet/front_www/js/src/pages/mark-146/src/css/style.min.css",
+		"/D/work_bet/front_www/js/src/pages/mark-146/gulpfile.js",
+		"/D/work_bet/1111111/create-react.txt",
+		"/D/work_bet/front_www/js/src/pages/mark-146/index.html",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/components/Icon.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/scss/base.scss",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/scss/_mixins.scss",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/scss/icon.scss",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/scss/stories.scss",
+		"/D/work_bet/front_www/js/src/personal-office-2/stories/icons.stories.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/components/Checkbox.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/stories/buttons.stories.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/stories/checkbox.stories.js",
+		"/d/work_bet/front_www/js/src/personal-office-2/stories/icons.stories.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/components/Tooltip.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/scss/checkbox.scss",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/img/svg/filter_disable.svg",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/img/svg/arrow_next_disabled.svg",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/img/svg/filter.svg",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/img/svg/help_hover.svg",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/components/Table.js",
+		"/d/work_bet/front_www/js/src/personal-office-2/stories/datepicker.stories.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/scss/_datePickerStyle.scss",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/components/DatePickerSingle.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/components/DatePickerMultiple.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/node_modules/react-day-picker/DayPicker.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/components/Box.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/stories/box.stories.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/components/Counter.js",
+		"/d/work_bet/front_www/js/src/personal-office-2/stories/counter.stories.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/scss/counter.scss",
+		"/D/work_bet/front_www/js/src/personal-office-2/stories/components/UI_kit/library.stories.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/scss/box.scss",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/scss/common.scss",
+		"/D/work_bet/front_www/js/src/personal-office-2/stories/components/Table/table.stories.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/stories/components/Checkbox/checkbox.stories.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/stories/components/Counter/counter.stories.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/stories/components/DatePicker/datePicker.stories.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/stories/components/Icons/icons.stories.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/stories/components/Inputs/inputs.stories.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/stories/components/Notification/notification.stories.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/stories/components/Statuses/status.stories.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/stories/components/Step/step.stories.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/components/PaperBox.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/containers/balance/Wallets.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/containers/messages/Incoming.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/containers/messages/Outcoming.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/containers/messages/Write.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/containers/profile/Documents.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/containers/profile/Security.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/containers/profile/UserData.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/scss/form.scss",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/scss/btn.scss",
+		"/D/work_bet/1111111/erlybet.txt",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/containers/tabsConst.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/components/Button.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/stories/components/UI_kit/box.stories.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/stories/components/UI_kit/ui_kit.stories.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/containers/balance/AddWallet.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/containers/balance/Wallet.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/containers/bets/BetsDetails.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/css/personal-office.min.css",
+		"/D/work_bet/front_www/js/src/personal-office-2/stories/components/Buttons/button.stories.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/components/Container.js",
+		"/d/work_bet/front_www/js/src/personal-office-2/stories/components/ui_kit/ui_kit.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/App.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/components/SwitchBtn.js",
+		"/D/work_bet/1111111/user_partners.txt",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/components/IndentBlock.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/node_modules/@material-ui/core/ExpansionPanelSummary/index.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/node_modules/@material-ui/core/Switch/index.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/node_modules/@material-ui/core/Switch/Switch.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/containers/profile/Profile.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/containers/profile/profileConst.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/containers/balance/walletList.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/containers/balance/WalletList.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/node_modules/react/cjs/react.development.js",
+		"/D/work_bet/front_www/js/src/personal-office-2/src/containers/balance/index.js",
+		"/D/work_bet/front_www/js/src/pages/mark-61/package.json",
+		"/D/work_bet/tasks/mark-61/src/components/Carousel.js",
+		"/D/work_bet/tasks/mark-61/src/containers/Tab3.js",
+		"/D/work_bet/tasks/mark-61/src/containers/Tab2.js",
+		"/D/work_bet/tasks/mark-61/src/containers/Tab1.js",
+		"/D/work_bet/tasks/mark-61/src/App.js",
+		"/D/work_bet/tasks/mark-61/src/scss/base.scss",
+		"/D/work_bet/front_www/package.json",
+		"/D/work_bet/front_www/partners/58/pages/mark-61/package.json",
+		"/D/work_bet/tasks/mark-61/node_modules/slick-carousel/slick/slick.css",
+		"/D/work_bet/tasks/mark-61/node_modules/slick-carousel/slick/slick-theme.css",
+		"/D/work_bet/tasks/mark-61/src/css/slick-theme.css",
+		"/D/work_bet/tasks/mark-61/src/css/slick.css",
+		"/D/work_bet/tasks/mark-61/node_modules/react-slick/lib/index.js",
+		"/D/work_bet/tasks/mark-61/src/scss/slick-theme.scss",
+		"/D/work_bet/tasks/mark-61/node_modules/slick-carousel/slick/slick-theme.scss",
+		"/D/work_bet/tasks/mark-61/src/components/Slide.js",
+		"/D/work_bet/tasks/mark-61/src/components/ShopCarousel.js",
+		"/D/work_bet/tasks/mark-61/package.json",
+		"/D/work_bet/tasks/mark-61/src/components/Header.js",
+		"/D/work_bet/tasks/mark-61/node_modules/react-responsive-carousel/lib/styles/carousel.min.css",
+		"/D/work_bet/tasks/mark-61/src/img/icon-a.svg"
+	],
+	"find":
+	{
+		"height": 49.0
+	},
+	"find_in_files":
+	{
+		"height": 177.0,
+		"where_history":
+		[
+			"D:\\work_bet\\front_www\\js\\src\\pages\\mark-146\\src\\containers",
+			"D:\\work_bet\\front_www\\js\\src\\pages\\mark-146\\src\\containers,<open files>",
+			"D:\\work_bet\\front_www\\js\\src\\pages\\mark-146\\src\\containers",
+			"D:\\work_bet\\front_www\\js\\src\\pages\\mark-146\\src\\",
+			"D:\\work_bet\\front_www\\js\\src\\pages\\mark-146\\src\\css",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\components,D:\\work_bet\\front_www\\js\\src\\personal-office-2\\stories",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\components",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\stories",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\scss",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\stories,D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\components",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\,D:\\work_bet\\front_www\\js\\src\\personal-office-2\\stories",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\components",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\com",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\co",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src,D:\\work_bet\\front_www\\js\\src\\personal-office-2\\stories",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\scss",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\stories",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src",
+			"D:\\work_bet\\tasks\\mark-61\\node_modules",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\scss",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\components",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\scss",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\components",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\containers",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\components",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\scss",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\components",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\scss",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\components",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\Bonus",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\Balance",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\stories",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\scss",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\,D:\\work_bet\\front_www\\js\\src\\personal-office-2\\stories",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\fonts,D:\\work_bet\\front_www\\js\\src\\personal-office-2\\stories",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\scss",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\stories",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src",
+			"D:\\work_bet\\front_www\\.source\\base\\po_v2",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\Balance",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\scss",
+			"D:\\work_bet\\front_tpl",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src,D:\\work_bet\\front_www\\js\\src\\personal-office-2\\stories",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\stories,D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\stories",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\scss",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\stories",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\scss",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src,-*.scss",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src",
+			"D:\\work_bet\\front_tpl\\private_office",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\Bonus",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\Bonus\\CommonBonus",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\Bonus",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\BalanceModal",
+			"D:\\work_bet\\front_www\\.source",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\scss",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\scss",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src",
+			"D:\\work_bet\\front_www\\.source\\base\\po_v2",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\scss",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\scss,D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\components,D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\containers",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\stories",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\stories",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src\\scss",
+			"D:\\work_bet\\front_www\\.source",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2\\src",
+			"D:\\work_bet\\front_www\\js\\src\\personal-office-2",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\WithdrawalModal",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew",
+			"D:\\work_bet\\front_www\\",
+			"D:\\work_bet\\front_www\\.source",
+			"D:\\work_bet\\front_www\\.source\\base\\",
+			"D:\\work_bet\\front_www\\.source\\base\\po_v2",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\WithdrawalModal\\views",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src",
+			"D:\\work_bet\\front_www\\.source\\base\\po_v2",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\Bonus",
+			"D:\\work_bet\\front_www\\.source",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src",
+			"D:\\work_bet\\front_www\\.source",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src",
+			"D:\\work_bet\\front_www\\",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\Bet",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\Bet\\CardHistory",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src",
+			"C:\\Users\\JaineKaminsky\\AppData\\Roaming\\Sublime Text 3\\Packages,*.sublime-settings",
+			"C:\\Users\\JaineKaminsky\\AppData\\Roaming\\Sublime Text 3\\Packages",
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src",
+			"D:\\work_bet\\front_www\\",
+			"D:\\work_bet\\front_www\\.source"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"sticky",
+			".vip_page",
+			"prev",
+			"vip_page",
+			"slick",
+			"vip_menu",
+			";",
+			"vip_txt_imp",
+			"import",
+			"svg",
+			"vip_title ",
+			"vip_contacts",
+			"vip_relax",
+			"vip_billion",
+			"vip_cash_prog",
+			"vip_limits_info",
+			"vip_order",
+			".for_contact",
+			"vip_work_time",
+			"svg",
+			"img ",
+			"img",
+			"svg",
+			"svg {",
+			"svg",
+			"xs={",
+			"<Grid item",
+			"root",
+			"null",
+			"this.state.isActive ?",
+			"onClick={this.addActiveClass}",
+			"this.addActiveClass",
+			"<button\n                    onClick",
+			"e => this.addActiveClass()",
+			"<button\n                    id=\"",
+			"<button",
+			"this.addActiveClass",
+			"\"vip_tab_active\" : \"\"",
+			"activeBtnHandler",
+			"addActiveClass",
+			"this.activeBtnHandler",
+			"e => this.activeBtnHandler()",
+			"vip_link_8",
+			"vip_link_7",
+			"vip_link_6",
+			"vip_link_5",
+			"vip_link_4",
+			"vip_link_3",
+			"vip_link_2",
+			"vip_link_1",
+			"link_1",
+			"vip_link_1",
+			"vip_tab",
+			"vip_ta",
+			"className=\"vip_tab",
+			"activeBtnHandler(e)",
+			"<button",
+			"vip_wrapp",
+			"15px",
+			"sm",
+			"vip_tab1_Content",
+			"vip_img",
+			"162",
+			"content_items",
+			"vip_tab7_Content",
+			"content_items",
+			"2А",
+			"vip_cash_prog",
+			"vip_item_content",
+			"item_slide",
+			"vip_item_title",
+			"vip_bet_info",
+			"item_slide ",
+			"vip_order",
+			"16",
+			"vip_order",
+			"for_contact",
+			"vip_tab2_Content",
+			"vip_txt_imp",
+			"t",
+			"tra",
+			"trans",
+			"svg",
+			"tab4",
+			"vip_item_content",
+			"0",
+			"225",
+			"0",
+			"tab6",
+			"tab4",
+			"bet",
+			"ua",
+			"Wrapper7",
+			"ic",
+			".item_1",
+			"vip_club",
+			"vip_billion",
+			"Wrapper6",
+			"vip_cash",
+			"items",
+			"Wrapper5",
+			"Wrapper3",
+			"Wrapper4",
+			";\n",
+			"vip_bet_todo_info",
+			"15",
+			"vip_bet_note",
+			"Grid",
+			"<li>",
+			"vip_bet",
+			"Wrapper3",
+			"from",
+			"to={",
+			" to={",
+			"to={1} ",
+			"button",
+			"item_slide",
+			"vip_info_bl",
+			"vip_order",
+			"Tab3",
+			"Tab",
+			"Tab1",
+			"div",
+			"TabLink",
+			"itemClass",
+			"item_1_1",
+			"itemClass",
+			" default=\"default\""
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"vip_contacts",
+			"vip_club",
+			"vip_cashback",
+			"vip_limits",
+			"vip_bet",
+			"vip_shop",
+			"vip_manager",
+			"vip_advantages",
+			"vip_",
+			"PaperBox\n",
+			"Box",
+			"SelectInput",
+			"AccountMenu",
+			"MainTabs",
+			"SubTabs",
+			"po_errorText_wrapp",
+			"errorText",
+			"DatePicker",
+			"CheckDate",
+			"DatePicker",
+			"pb",
+			"pr",
+			"pl",
+			"pB",
+			"pt",
+			"pl",
+			"pb",
+			"pr",
+			"pt",
+			"po_modal_heaer",
+			"po_modal_header",
+			"bonusStatesMap",
+			"import \"../../../src/css/personal-office.min.css\"",
+			"620",
+			"accessory",
+			"$mainThemeColor1",
+			"visibility: visible;",
+			"rg_counter",
+			"radio_btns"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 65.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 630.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 299.0
+	},
+	"output.exec":
+	{
+		"height": 30.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 203.0
+	},
+	"output.languagetool":
+	{
+		"height": 121.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 534.0
+	},
+	"pinned_build_system": "",
+	"project": "landingPages.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bonus",
+				"front_www\\js\\src\\personalOfficeNew\\src\\containers\\Bonus\\bonusConst.js"
+			],
+			[
+				"trans",
+				"front_www\\js\\src\\personalOfficeNew\\src\\translate.js"
+			],
+			[
+				"bonusConst",
+				"js\\src\\personalOfficeNew\\src\\containers\\Bonus\\bonusConst.js"
+			],
+			[
+				"personal",
+				"js\\compressed\\personalOffice.js"
+			],
+			[
+				"SelectDayRange",
+				"js\\src\\personalOfficeNew\\src\\components\\Common\\selectDayRange.js"
+			],
+			[
+				"submit",
+				"js\\src\\personalOfficeNew\\src\\containers\\ResponsibleGambling\\components\\limits\\SubmitLimit.js"
+			],
+			[
+				"SingleLi",
+				"js\\src\\personalOfficeNew\\src\\containers\\ResponsibleGambling\\components\\limits\\SingleLimit.js"
+			],
+			[
+				"pagina",
+				"js\\src\\personalOfficeNew\\src\\components\\Common\\Pagination.js"
+			],
+			[
+				"pagin",
+				"js\\src\\personalOfficeNew\\node_modules\\react-table\\es\\pagination.js"
+			],
+			[
+				"actions",
+				"front_www\\js\\src\\personalOfficeNew\\src\\reducers\\bets\\actions.js"
+			],
+			[
+				"SubmitLimit",
+				"front_www\\js\\src\\personalOfficeNew\\src\\containers\\ResponsibleGambling\\components\\limits\\SubmitLimit.js"
+			],
+			[
+				"singlel",
+				"front_www\\js\\src\\personalOfficeNew\\src\\containers\\ResponsibleGambling\\components\\limits\\SingleLimit.js"
+			],
+			[
+				"fon",
+				"front_www\\default\\fonts\\rc\\font.css"
+			],
+			[
+				"fav",
+				"front_www\\default\\fonts\\favfont\\favfont.json"
+			],
+			[
+				"TranslatableMessage",
+				"front_www\\js\\src\\personalOfficeNew\\src\\components\\TranslatableMessage.js"
+			],
+			[
+				"i18n",
+				"front_www\\js\\src\\personalOfficeNew\\src\\utils\\i18n.js"
+			],
+			[
+				"translate",
+				"front_www\\js\\src\\personalOfficeNew\\src\\translate.js"
+			],
+			[
+				"transla",
+				"front_www\\js\\src\\personalOfficeNew\\src\\translate.js"
+			],
+			[
+				"react-table",
+				"front_www\\js\\src\\personalOfficeNew\\node_modules\\react-table\\react-table.css"
+			],
+			[
+				"favfont",
+				"front_www\\default\\fonts\\favfont\\favfont.json"
+			],
+			[
+				"Paginator",
+				"front_www\\node_modules\\inquirer\\lib\\utils\\paginator.js"
+			],
+			[
+				"bonusC",
+				"front_www\\js\\src\\personalOfficeNew\\src\\containers\\Bonus\\bonusConst.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 320.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"setBetsType",
+				"setBetsType = data =>"
+			],
+			[
+				"setBetst",
+				"setBetsType = data =>"
+			],
+			[
+				"isOpen",
+				"isOpen"
+			]
+		],
+		"width": 600.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 317.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

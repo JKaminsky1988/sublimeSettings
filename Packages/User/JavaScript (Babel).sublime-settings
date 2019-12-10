@@ -1,0 +1,13 @@
+{
+  "extensions":
+  [
+    "js"
+  ],
+
+  "color_scheme": "Packages/gruvbox/gruvbox (Dark) (Soft).tmTheme",
+  "margin": 0,
+  "tab_size": 2,
+  "theme": "Guna.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "save_on_focus_lost": true,
+}

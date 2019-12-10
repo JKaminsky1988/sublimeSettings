@@ -1,0 +1,24 @@
+// SublimeLinter Settings - User
+{
+  "styles": [
+        {
+            "mark_style": "none",
+            "priority": 1,
+            "icon": "none",
+            "scope": "region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter",
+            "types": ["warning"]
+        },
+        {
+            "mark_style": "none",
+            "priority": 1,
+            "icon": "none",
+            "scope": "region.redish markup.deleted.sublime_linter markup.error.sublime_linter",
+            "types": ["error"]
+        },
+        {
+            "priority": 1,
+            "icon": "none",
+            "mark_style": "none"
+        }
+    ]
+}

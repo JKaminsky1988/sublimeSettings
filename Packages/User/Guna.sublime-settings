@@ -1,0 +1,36 @@
+// Specify your own settings. You don't need to restart
+{
+	"sidebar_widget": "weather",
+	"weather": {
+		"appid": "02dbd3cf5e6a5617d2d0a22e727bfcdd",      // - http://openweathermap.org/appid
+		"city_name": "Kiev",  // - city name, country code e.g) seoul,KR
+		"proxy": ""       // - http proxy e.g) 10.75.97.11:8080
+	},
+
+	"city": {
+		"id": 703448,
+		"name":"Kiev",
+		"country": "UA",
+		"coord": {
+			"lon": 30.425398,
+			"lat": 50.448377,
+		}
+	},
+
+	"base-color": "#282828",
+
+
+	// Select tab font
+	// "tab_font.color": "#FBF4E6",
+	// "tab_font.color.selected": "#DCA53D",
+	// "tab_font.color.hover": "#DCA53D",
+	// "tab_font.color.dirty": "#DCA53D",
+
+
+	// Select sidebar font
+	// "sidebar_font.color": "#A8A8A8",
+
+	"hide_tab_close": true,
+	"hide_tab_dropdown": true,
+	// "scroll_bars.color": "#DCA53D",
+}

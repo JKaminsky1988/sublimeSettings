@@ -1,18 +1,18 @@
 {
 	"folder_history":
 	[
-		"/D/work_bet/mobile",
 		"/D/work_bet/core",
 		"/D/work_bet/front_tpl",
 		"/D/work_bet/front_www",
-		"/D/work_bet/1111111"
+		"/D/work_bet/1111111",
+		"/D/work_bet/mobile"
 	],
 	"last_version": 3211,
-	"last_window_id": 10,
+	"last_window_id": 21,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 769.0,
+		"new_window_height": 995.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -32,27 +32,95 @@
 				"selected_items":
 				[
 					[
-						"che",
-						"Git: Checkout Current File"
+						"js",
+						"JsPrettier: Format Code"
 					],
 					[
-						"checko",
-						"Git: Checkout Current File"
+						"jspre",
+						"JsPrettier: Format Code"
+					],
+					[
+						"pretti",
+						"JsPrettier: Format Code"
 					],
 					[
 						"in",
 						"Package Control: Install Package"
 					],
 					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"con",
+						"ConEmu: Open current file folder"
+					],
+					[
+						"conEm",
+						"ConEmu: Open current file folder"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"ter",
+						"Terminus: Open ConEmu"
+					],
+					[
+						"prefer",
+						"Preferences: Terminus Command Palette"
+					],
+					[
+						"termi",
+						"Terminus: Open Default Shell in Panel"
+					],
+					[
+						"inde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"prefe",
+						"Preferences: Terminus Command Palette"
+					],
+					[
 						"rem",
 						"Package Control: Remove Package"
+					],
+					[
+						"git ",
+						"Set Syntax: Git Link"
+					],
+					[
+						"git con",
+						"Set Syntax: Git Config"
+					],
+					[
+						"checkout ",
+						"Git: Checkout Current File"
+					],
+					[
+						"che",
+						"Git: Checkout Current File"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"checko",
+						"Git: Checkout Current File"
 					]
 				],
 				"width": 0.0
 			},
 			"console":
 			{
-				"height": 0.0,
+				"height": 176.0,
 				"history":
 				[
 				]
@@ -68,6 +136,29 @@
 			},
 			"file_history":
 			[
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
+				"/D/work_bet/front_www/js/src/basket/src/modules/loginUser/containers/noAuth/rootNoAuth.js",
+				"/D/work_bet/front_www/js/src/basket/src/modules/auth/components/NoAuth/index.js",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Babel.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-commands",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-menu",
+				"/C/Program Files/Sublime Text 3/Packages/CSS.sublime-package",
+				"/C/Program Files/Sublime Text 3/Packages/PHP.sublime-package",
+				"/C/Program Files/Sublime Text 3/Packages/Python.sublime-package",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Terminus/Default.sublime-commands",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/ConEmu.xml",
+				"/D/work_bet/front_tpl/.git/config",
+				"/D/work_bet/front_www/.git/config",
+				"/D/work_bet/core/.git/config",
+				"/D/work_bet/front_tpl/.git/packed-refs",
+				"/D/work_bet/front_tpl/.git/description",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
+				"/D/work_bet/core/src/components/common/Button/index.module.css",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
@@ -83,9 +174,14 @@
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 125.0,
 				"where_history":
 				[
+					"D:\\work_bet\\front_www\\js\\src\\basket\\src",
+					"D:\\work_bet\\front_www\\js\\src\\basket",
+					"C:\\Program Files\\Sublime Text 3\\Packages",
+					"C:\\Users\\JaineKaminsky\\AppData\\Roaming\\Sublime Text 3\\",
+					"C:\\Users\\JaineKaminsky\\AppData\\Roaming\\Sublime Text 3\\Packages"
 				]
 			},
 			"find_state":
@@ -93,7 +189,13 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"convert_command"
+					"not_login",
+					"double",
+					"conemu.exe",
+					"ConEmu.exe",
+					"cmd.exe",
+					"Terminus",
+					"кукьштгы"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -117,6 +219,14 @@
 				"height": 0.0
 			},
 			"menu_visible": true,
+			"output.Terminus":
+			{
+				"height": 139.0
+			},
+			"output.Terminus 2":
+			{
+				"height": 288.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
@@ -155,7 +265,7 @@
 				"width": 0.0
 			},
 			"show_minimap": true,
-			"show_open_files": false,
+			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
 			"side_bar_width": 283.0,
@@ -164,7 +274,7 @@
 			{
 			}
 		},
-		"new_window_width": 640.0
+		"new_window_width": 1918.0
 	},
 	"windows":
 	[
@@ -177,6 +287,24 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 19277,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/work_bet/front_www/js/src/basket/package.json",
+					"settings":
+					{
+						"buffer_size": 13139,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -190,6 +318,90 @@
 				"selected_items":
 				[
 					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"checko",
+						"Git: Checkout Current File"
+					],
+					[
+						"checkout",
+						"Git: Checkout Current File"
+					],
+					[
+						"pre",
+						"JsPrettier: Format Code"
+					],
+					[
+						"js",
+						"JsPrettier: Format Code"
+					],
+					[
+						"jspre",
+						"JsPrettier: Format Code"
+					],
+					[
+						"pretti",
+						"JsPrettier: Format Code"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"con",
+						"ConEmu: Open current file folder"
+					],
+					[
+						"conEm",
+						"ConEmu: Open current file folder"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"ter",
+						"Terminus: Open ConEmu"
+					],
+					[
+						"prefer",
+						"Preferences: Terminus Command Palette"
+					],
+					[
+						"termi",
+						"Terminus: Open Default Shell in Panel"
+					],
+					[
+						"inde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"prefe",
+						"Preferences: Terminus Command Palette"
+					],
+					[
+						"git ",
+						"Set Syntax: Git Link"
+					],
+					[
+						"git con",
+						"Set Syntax: Git Config"
+					],
+					[
 						"checkout ",
 						"Git: Checkout Current File"
 					],
@@ -200,27 +412,16 @@
 					[
 						"inst",
 						"Package Control: Install Package"
-					],
-					[
-						"checko",
-						"Git: Checkout Current File"
-					],
-					[
-						"in",
-						"Package Control: Install Package"
-					],
-					[
-						"rem",
-						"Package Control: Remove Package"
 					]
 				],
 				"width": 0.0
 			},
 			"console":
 			{
-				"height": 0.0,
+				"height": 536.0,
 				"history":
 				[
+					"3"
 				]
 			},
 			"distraction_free":
@@ -234,16 +435,43 @@
 			},
 			"expanded_folders":
 			[
-				"/D/work_bet/core",
-				"/D/work_bet/core/src",
-				"/D/work_bet/core/src/components",
-				"/D/work_bet/core/src/components/common",
-				"/D/work_bet/core/src/components/common/Button"
+				"/D/work_bet/front_www",
+				"/D/work_bet/front_www/js",
+				"/D/work_bet/front_www/js/src",
+				"/D/work_bet/front_www/js/src/basket"
 			],
 			"file_history":
 			[
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/CSS Format/CSS Format.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/CSS Format.sublime-settings",
+				"/C/Users/JaineKaminsky/Desktop/123.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/translate.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/Balance/Wallets/index.js",
+				"/D/work_bet/front_www/js/src/basket/src/components/basket/index.js",
+				"/D/work_bet/front_www/js/src/basket/package.json",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/npm/node_modules/prettier/package.json",
+				"/D/work_bet/front_www/js/src/basket/src/modules/loginUser/containers/noAuth/rootNoAuth.js",
+				"/D/work_bet/front_www/js/src/basket/src/modules/auth/components/NoAuth/index.js",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Babel.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-commands",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-menu",
+				"/C/Program Files/Sublime Text 3/Packages/CSS.sublime-package",
+				"/C/Program Files/Sublime Text 3/Packages/PHP.sublime-package",
+				"/C/Program Files/Sublime Text 3/Packages/Python.sublime-package",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Terminus/Default.sublime-commands",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/ConEmu.xml",
+				"/D/work_bet/front_tpl/.git/config",
+				"/D/work_bet/front_www/.git/config",
+				"/D/work_bet/core/.git/config",
+				"/D/work_bet/front_tpl/.git/packed-refs",
+				"/D/work_bet/front_tpl/.git/description",
 				"/D/work_bet/core/src/components/common/Button/index.module.css",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
@@ -260,9 +488,17 @@
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 125.0,
 				"where_history":
 				[
+					"D:\\work_bet\\front_www\\js\\src\\basket\\src",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers",
+					"D:\\work_bet\\front_www\\js\\src\\basket\\src",
+					"D:\\work_bet\\front_www\\js\\src\\basket",
+					"C:\\Program Files\\Sublime Text 3\\Packages",
+					"C:\\Users\\JaineKaminsky\\AppData\\Roaming\\Sublime Text 3\\",
+					"C:\\Users\\JaineKaminsky\\AppData\\Roaming\\Sublime Text 3\\Packages"
 				]
 			},
 			"find_state":
@@ -270,7 +506,29 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"convert_command"
+					"esli",
+					"уыдште",
+					"item--price--txt",
+					"walletId",
+					"wallet",
+					"replace",
+					"num_wallet",
+					"paymentInstrumentName",
+					"wallet",
+					"walletId",
+					"onli",
+					"auth",
+					"custom_file_extensions",
+					"inline",
+					"штдшту",
+					"custom_file_extensions ",
+					"not_login",
+					"double",
+					"conemu.exe",
+					"ConEmu.exe",
+					"cmd.exe",
+					"Terminus",
+					"кукьштгы"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -285,11 +543,86 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "D:\\work_bet\\1111111"
+				},
+				{
+					"path": "D:\\work_bet\\front_www"
+				},
+				{
+					"path": "D:\\work_bet\\front_tpl"
+				},
+				{
+					"path": "D:\\work_bet\\core"
+				}
+			],
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 19277,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										14572,
+										14554
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 7328.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/work_bet/front_www/js/src/basket/package.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 13139,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										12767,
+										12767
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (NPM).sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 6311.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
 					]
 				},
 				{
@@ -336,13 +669,25 @@
 				]
 			},
 			"menu_visible": true,
+			"output.Terminus":
+			{
+				"height": 139.0
+			},
+			"output.Terminus 2":
+			{
+				"height": 288.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
+			"output.git":
+			{
+				"height": 145.0
+			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,831,82,3,738",
-			"project": "betinvest.sublime-project",
+			"position": "0,2,3,-1,-1,-1,-1,1048,0,0,1928",
+			"project": "",
 			"replace":
 			{
 				"height": 54.0
@@ -380,7 +725,7 @@
 			{
 			},
 			"show_minimap": true,
-			"show_open_files": false,
+			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
 			"side_bar_width": 283.0,
@@ -388,8 +733,8 @@
 			"template_settings":
 			{
 			},
-			"window_id": 1,
-			"workspace_name": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/betinvest.sublime-workspace"
+			"window_id": 17,
+			"workspace_name": ""
 		}
 	],
 	"workspaces":

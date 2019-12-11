@@ -1,1 +1,1 @@
-{"url": "https://github.com/poucotm/Guna", "dependencies": [], "version": "1.7.5", "platforms": ["*"], "description": "\ud83c\udf41 Most Innovative Theme for Sublime Text 3", "sublime_text": ">=3000"}
+{"platforms": ["*"], "description": "\ud83c\udf41 Most Innovative Theme for Sublime Text 3", "dependencies": [], "url": "https://github.com/poucotm/Guna", "sublime_text": ">=3000", "version": "1.7.6"}

@@ -1,10 +1,2 @@
 {
-  "debug": true,
-  "prettier_cli_path": "C:\\Users\\JaineKaminsky\\AppData\\Roaming\\npm\\prettier.cmd",
-  "auto_format_on_save": true,
-  "auto_format_on_save_excludes": ["*/node_modules/*"],
-  "allow_inline_formatting": true,
-  "additional_cli_args": {"--no-config": ""},
-  "node_path": "C:\\Program Files\\nodejs\\node.exe",
-  "parser": "babel",
 }

@@ -13,6 +13,9 @@
 	"gn_overlay_scroll_bars": true,
 	"gn_sb_cnvx": true,
 	"gn_sidebar_box": true,
+	"gnw_004": true,
+	"gnw_304": true,
+	"gnw_603": true,
 	"gnwidg2": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": false,
@@ -21,7 +24,7 @@
 		"Vintage"
 	],
 	"line_padding_bottom": 3,
-	"margin": 0,
+	"mini_diff": false,
 	"minimap_scroll_to_clicked_text": true,
 	"remember_full_screen": true,
 	"remember_open_files": true,

@@ -8,17 +8,21 @@
 		"/D/work_bet/mobile"
 	],
 	"last_version": 3211,
-	"last_window_id": 21,
+	"last_window_id": 53,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 995.0,
+		"new_window_height": 977.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"Depo",
+						"DepositCard"
+					]
 				]
 			},
 			"build_system_choices":
@@ -32,6 +36,86 @@
 				"selected_items":
 				[
 					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"che",
+						"Git: Checkout Current File"
+					],
+					[
+						"checko",
+						"Git: Checkout Current File"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"prett",
+						"Pretty JSON: Format and Sort JSON"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"checkout ",
+						"Git: Checkout Current File"
+					],
+					[
+						"gutt",
+						"Preferences: GitGutter Settings"
+					],
+					[
+						"gutte",
+						"Preferences: GitGutter Popup Stylesheet"
+					],
+					[
+						"checkout",
+						"Git: Checkout Current File"
+					],
+					[
+						"pre",
+						"JsPrettier: Format Code"
+					],
+					[
 						"js",
 						"JsPrettier: Format Code"
 					],
@@ -44,28 +128,12 @@
 						"JsPrettier: Format Code"
 					],
 					[
-						"in",
-						"Package Control: Install Package"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
-					],
-					[
-						"rein",
-						"Indentation: Reindent Lines"
-					],
-					[
 						"con",
 						"ConEmu: Open current file folder"
 					],
 					[
 						"conEm",
 						"ConEmu: Open current file folder"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
 					],
 					[
 						"ter",
@@ -88,10 +156,6 @@
 						"Preferences: Terminus Command Palette"
 					],
 					[
-						"rem",
-						"Package Control: Remove Package"
-					],
-					[
 						"git ",
 						"Set Syntax: Git Link"
 					],
@@ -100,29 +164,18 @@
 						"Set Syntax: Git Config"
 					],
 					[
-						"checkout ",
-						"Git: Checkout Current File"
-					],
-					[
-						"che",
-						"Git: Checkout Current File"
-					],
-					[
 						"inst",
 						"Package Control: Install Package"
-					],
-					[
-						"checko",
-						"Git: Checkout Current File"
 					]
 				],
 				"width": 0.0
 			},
 			"console":
 			{
-				"height": 176.0,
+				"height": 536.0,
 				"history":
 				[
+					"3"
 				]
 			},
 			"distraction_free":
@@ -136,7 +189,27 @@
 			},
 			"file_history":
 			[
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Sublimerge 3/Sublimerge 3.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/AutoBackups/AutoBackups (Windows).sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/DepositCard.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositWallet.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/DepositAbon.js",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Installed Packages/GitGutter.sublime-package",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
+				"/D/work_bet/front_www/js/src/basket/package.json",
+				"/C/Users/JaineKaminsky/Downloads/Telegram Desktop/ons/mebel_metall.html",
+				"/C/Users/JaineKaminsky/Downloads/Telegram Desktop/ons/index.html",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/CSS Format/CSS Format.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/CSS Format.sublime-settings",
+				"/C/Users/JaineKaminsky/Desktop/123.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/translate.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/Balance/Wallets/index.js",
+				"/D/work_bet/front_www/js/src/basket/src/components/basket/index.js",
+				"/C/Users/JaineKaminsky/AppData/Roaming/npm/node_modules/prettier/package.json",
 				"/D/work_bet/front_www/js/src/basket/src/modules/loginUser/containers/noAuth/rootNoAuth.js",
 				"/D/work_bet/front_www/js/src/basket/src/modules/auth/components/NoAuth/index.js",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
@@ -157,11 +230,9 @@
 				"/D/work_bet/core/.git/config",
 				"/D/work_bet/front_tpl/.git/packed-refs",
 				"/D/work_bet/front_tpl/.git/description",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
 				"/D/work_bet/core/src/components/common/Button/index.module.css",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/AutoBackups (Windows).sublime-settings",
@@ -170,13 +241,16 @@
 			],
 			"find":
 			{
-				"height": 49.0
+				"height": 29.0
 			},
 			"find_in_files":
 			{
 				"height": 125.0,
 				"where_history":
 				[
+					"D:\\work_bet\\front_www\\js\\src\\basket\\src",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers",
 					"D:\\work_bet\\front_www\\js\\src\\basket\\src",
 					"D:\\work_bet\\front_www\\js\\src\\basket",
 					"C:\\Program Files\\Sublime Text 3\\Packages",
@@ -189,6 +263,30 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"mini_",
+					"mini",
+					"show",
+					"hunk",
+					"selectwalletWrap",
+					"depositOptions",
+					"isSelectDisabled",
+					"favbetonline.hr",
+					"esli",
+					"уыдште",
+					"item--price--txt",
+					"walletId",
+					"wallet",
+					"replace",
+					"num_wallet",
+					"paymentInstrumentName",
+					"wallet",
+					"walletId",
+					"onli",
+					"auth",
+					"custom_file_extensions",
+					"inline",
+					"штдшту",
+					"custom_file_extensions ",
 					"not_login",
 					"double",
 					"conemu.exe",
@@ -231,6 +329,14 @@
 			{
 				"height": 0.0
 			},
+			"output.git":
+			{
+				"height": 145.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
 			"pinned_build_system": "",
 			"replace":
 			{
@@ -268,13 +374,13 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 283.0,
+			"side_bar_width": 334.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1918.0
+		"new_window_width": 1912.0
 	},
 	"windows":
 	[
@@ -283,24 +389,32 @@
 			{
 				"selected_items":
 				[
+					[
+						"Depo",
+						"DepositCard"
+					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
+					"contents": "//\n// Default values for GitGutter.sublime-settings\n//\n{\n    // CUSTOM PATH TO GIT BINARY.\n    // An empty string will search the PATH environment for \"git\".\n    //\n    //   \"git_binary\": \"\",\n    //\n    // The setting may be a direct string to a git binary.\n    // An unix like path makes git run via Windows Subsystem for Linux\n    // on Windows 10. It fails if WSL is not available.\n    //\n    //   \"git_binary\": \"/usr/bin/git\",\n    //\n    // Or it may be a dictionary keyed off what sublime.platform() returns,\n    // so it may be customized on a per-platform basis.\n    //\n    //   \"git_binary\": {\n    //       \"default\": \"\",\n    //       \"windows\": \"C:/Program Files/Git/cmd/git.exe\",\n    //       \"linux\": \"/usr/bin/git\",\n    //       \"osx\": \"/usr/bin/git\"\n    //   },\n    \"git_binary\": \"\",\n\n    // Additional environment variables to pass to git.\n    // This list is merged with the global set of environment variables\n    // provided by Sublime Text.\n    //\n    // Note:\n    // 1. Keys with value `None` are removed from the global environment.\n    // 2. If this dictionary is defined per view or project it is used\n    //    exclusively! It won't be merged with the global settings.\n    \"env\": {\n        \"GIT_OPTIONAL_LOCKS\": 0\n    },\n\n    // The commit, branch, tag, or remote to compare against.\n    // This setting changes the initial compare target and can\n    // be temporarily overwritten by 'Compare against ...' commands\n    // Valid constants are:\n    // \"HEAD\":   Compare against most recent commit\n    // \"master\": Compare against master branch\n    // \"master@{upstream}\": Compare against remote master branch\n    \"compare_against\": \"HEAD\",\n\n    // The algorithm used by git diff to determine the differences.\n    // \"default\": let git decide (don't pass an algorithm)\n    // \"minimal\": use minimal diff algorithm\n    // \"patience\": use patience diff algorithm\n    //             see: http://bramcohen.livejournal.com/73318.html\n    // \"histogram\": use histogram diff algorithm\n    \"diff_algorithm\": \"patience\",\n\n    // Determines whether GitGutter ignores whitespace in modified files.\n    // Set \"none\" to ensure whitespace is considered in the diff\n    // Set \"cr\" to only ignore the carriage return at the end of lines (git 2.18+)\n    // Set \"eol\" to only ignore whitespace at the end of lines\n    // Set \"space\" to ignore changes in amount of white space\n    // Set \"all\" to ignore all white space\n    \"ignore_whitespace\": \"none\",\n\n    //\n    // Gutter Area\n    //\n\n    // Delay update of gutter icons by the following amount (in milliseconds).\n    \"debounce_delay\": 1000,\n\n    // Focus Change mode evaluates changes every time a view gets the focus\n    // Set false to disable evaluation when changing views\n    \"focus_change_mode\": true,\n\n    // Live mode evaluates changes every time file is modified,\n    // Set false to disable evaluation after each input\n    \"live_mode\": true,\n\n    // Determines whether the git_gutter_next_change and git_gutter_prev_change\n    // commands wrap around on reaching the beginning/ending of the file.\n    \"next_prev_change_wrap\": true,\n\n    // Do not set GitGutter icons in these regions\n    // Useful for making sure GitGutter does not override other\n    // regions, (e.g. Bookmarks, Linter/BracketHighlighter icons.)\n    \"protected_regions\": [\n        \"sublimelinter-warning-gutter-marks\",\n        \"sublimelinter-error-gutter-marks\",\n        \"sublime_linter.protected_regions\",\n        \"bookmarks\",\n        \"lsp_error\",\n        \"lsp_warning\",\n        \"lsp_info\",\n        \"ecc\"\n    ],\n\n    // Show GitGutter information in the minimap\n    // =0: hide markers\n    // >0: width of markers\n    // -1: highlight full line\n    \"show_in_minimap\": 1,\n\n    // Add a special marker on untracked files\n    \"show_markers_on_untracked_file\": true,\n\n    // The gutter theme defines the icons to show for the different events.\n    \"theme\": \"Default.gitgutter-theme\",\n\n    //\n    // Diff Popup\n    //\n\n    // (ST3, Build 3119+ only)\n    // Enable an hover popup, which shows an diff of the\n    // changed lines.\n    \"enable_hover_diff_popup\": true,\n\n    // (ST3 only) The default mode to open the diff popup. This will be\n    // used for the hover popup, the command palette entry,\n    // and the default key binding.\n    // Possible modes are:\n    // \"default\": Show the previous git state in the popup\n    // \"diff\": Compare the git state to the working state and highlight\n    //         the differences in the popup\n    \"diff_popup_default_mode\": \"default\",\n\n    // Do not show the Diff Popup if a line contains these regions\n    // Useful for making sure GitGutter does not fight with other popups.\n    \"diff_popup_protected_regions\": [\n        \"sublime_linter.protected_regions\"\n    ],\n\n    //\n    // Line Annotation\n    //\n\n    // (ST3, Build 3124+ only)\n    // Display a phantom text at the end of the active line with information\n    // about who changed it using the output of `git blame`.\n    //   \"auto\"  -- show line annotation if word wrap is disabled (default)\n    //   \"true\"  -- always show line annotation\n    //   \"false\" -- never show line annotation\n    \"show_line_annotation\": \"auto\",\n\n    // (ST3, Build 3124+ only)\n    // The 1 based ruler index to align the line annotation text to.\n    //\n    // If no ruler is available the phantom is aligned to the end of line.\n    // If the selected ruler does not exist the most right one is used.\n    //\n    // Valid values are:\n    //   \"False\"  -- align to end of line (default)\n    //   \"1\"      -- align to first ruler\n    //   \"2\"      -- align of second ruler\n    //   ...\n    \"line_annotation_ruler\": false,\n\n    // (ST3, Build 3124+ only)\n    // Whether to ignore whitespace changes when showing line annotations.\n    //\n    // Valid values are:\n    //   \"false\"  -- don't ignore whitespace changes (default)\n    //   \"true\"   -- ignore whitespace changes\n    \"line_annotation_ignore_whitespace\": false,\n\n    // LINE ANNOTATION TEXT TEMPLATE\n    // If the value is an array it is joined to a single string and passed to\n    // jinja2 template engine (if available) to render the blame message text.\n    // GitGutter provides the following variables:\n    //   {{line_author}}        -- the author, who introduced the change\n    //   {{line_author_mail}}   -- the e-mail address of the author\n    //   {{line_author_age}}    -- the time elapsed since the change\n    //   {{line_author_time}}   -- the time string of the change\n    //   {{line_author_tz}}     -- the timezone string of the change\n    //   {{line_commit}}        -- the hash of the changing committing\n    //   {{line_committer}}     -- the committer, who added the change to the repo\n    //   {{line_committer_mail}}-- the e-mail address of the committer\n    //   {{line_committer_age}} -- the time elapsed since the change\n    //   {{line_committer_time} -- the time string of commit\n    //   {{line_committer_tz}   -- the timezone string of commit\n    //   {{line_summary}}       -- the first line of the commit message\n    //   {{line_previous}}      -- the hash of the previous commit\n    \"line_annotation_text\": \"{{line_author}} ({{line_author_age}}) · {{line_summary}}\",\n\n    //\n    // Status Bar\n    //\n\n    // Determines whether GitGutter shows status information in the status bar.\n    // Set false to disable status information.\n    // Set true to show information using the \"status_bar_text\" template.\n    \"show_status_bar_text\": true,\n\n    // STATUS BAR TEXT TEMPLATE\n    // The array is joined to a single string and passed to jinja2 template\n    // engine to render the status message text. The template can be modified using\n    // jinja2 supported syntax. GitGutter provides the following variables:\n    //   {{st_git_status}}      -- Sublime Text git integration available and enabled\n    //   {{repo}}               -- repository name / folder name containing the .git directory\n    //   {{branch}}             -- checked out branch you are working on\n    //   {{remote}}             -- tracked remote of current branch you are working on or `None`\n    //   {{ahead}}              -- number of commits the local branch is ahead of remote\n    //   {{behind}}             -- number of commits the local branch is behind remote\n    //   {{added_files}}        -- number of untracked files added to working tree\n    //   {{deleted_files}}      -- number of files deleted from working tree\n    //   {{modified_files}}     -- number of modified files in the working tree\n    //   {{staged_files}}       -- number of files in the staging area\n    //   {{compare}}            -- commit/branch/HEAD the file is compared to\n    //   {{state}}              -- One of committed/modified/ignored/untracked\n    //   {{deleted}}            -- number of deleted regions\n    //   {{inserted}}           -- number of inserted lines\n    //   {{modified}}           -- number of modified lines\n    //   {{line_author}}        -- the author, who introduced the change\n    //   {{line_author_mail}}   -- the e-mail address of the author\n    //   {{line_author_age}}    -- the time elapsed since the change\n    //   {{line_author_time}}   -- the time string of the change\n    //   {{line_author_tz}}     -- the timezone string of the change\n    //   {{line_commit}}        -- the hash of the changing committing\n    //   {{line_committer}}     -- the committer, who added the change to the repo\n    //   {{line_committer_mail}}-- the e-mail address of the committer\n    //   {{line_committer_age}} -- the time elapsed since the change\n    //   {{line_committer_time} -- the time string of commit\n    //   {{line_committer_tz}   -- the timezone string of commit\n    //   {{line_summary}}       -- the first line of the commit message\n    //   {{line_previous}}      -- the hash of the previous commit\n    \"status_bar_text\": [\n        \"{% if repo and branch %}\",\n            \"{% if not st_git_status %}\",\n                \"{{repo}}/{{branch}}\",\n                \"{% if added_files + deleted_files + modified_files > 0 %}*{% endif %}, \",\n            \"{% endif %}\",\n            \"{% if compare not in ('HEAD', branch, None) %}Comparing against {{compare}}, {% endif %}\",\n            \"{% if state %}File is {{state}}{% endif %}\",\n            \"{% if deleted > 0 %}, {{deleted}}-{% endif %}\",\n            \"{% if inserted > 0 %}, {{inserted}}+{% endif %}\",\n            \"{% if modified > 0 %}, {{modified}}≠{% endif %}\",\n            \"{% if line_author and line_author_age %}, ⟢ {{line_author}} ({{line_author_age}}){% endif %}\",\n        \"{% endif %}\"\n    ]\n}\n",
+					"file": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+					"file_size": -1,
+					"file_write_time": -1,
 					"settings":
 					{
-						"buffer_size": 19277,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
+						"buffer_size": 10528,
+						"line_ending": "Windows",
+						"read_only": true,
+						"scratch": true
 					}
 				},
 				{
-					"file": "/D/work_bet/front_www/js/src/basket/package.json",
+					"file": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
 					"settings":
 					{
-						"buffer_size": 13139,
+						"buffer_size": 88,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -318,20 +432,76 @@
 				"selected_items":
 				[
 					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"che",
+						"Git: Checkout Current File"
+					],
+					[
+						"checko",
+						"Git: Checkout Current File"
+					],
+					[
 						"in",
 						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
 					],
 					[
 						"rem",
 						"Package Control: Remove Package"
 					],
 					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"prett",
+						"Pretty JSON: Format and Sort JSON"
+					],
+					[
 						"re",
 						"Package Control: Remove Package"
 					],
 					[
-						"checko",
+						"checkout ",
 						"Git: Checkout Current File"
+					],
+					[
+						"gutt",
+						"Preferences: GitGutter Settings"
+					],
+					[
+						"gutte",
+						"Preferences: GitGutter Popup Stylesheet"
 					],
 					[
 						"checkout",
@@ -354,24 +524,12 @@
 						"JsPrettier: Format Code"
 					],
 					[
-						"remo",
-						"Package Control: Remove Package"
-					],
-					[
-						"rein",
-						"Indentation: Reindent Lines"
-					],
-					[
 						"con",
 						"ConEmu: Open current file folder"
 					],
 					[
 						"conEm",
 						"ConEmu: Open current file folder"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
 					],
 					[
 						"ter",
@@ -402,14 +560,6 @@
 						"Set Syntax: Git Config"
 					],
 					[
-						"checkout ",
-						"Git: Checkout Current File"
-					],
-					[
-						"che",
-						"Git: Checkout Current File"
-					],
-					[
 						"inst",
 						"Package Control: Install Package"
 					]
@@ -433,24 +583,28 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/D/work_bet/front_www",
-				"/D/work_bet/front_www/js",
-				"/D/work_bet/front_www/js/src",
-				"/D/work_bet/front_www/js/src/basket"
-			],
 			"file_history":
 			[
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Sublimerge 3/Sublimerge 3.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/AutoBackups/AutoBackups (Windows).sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/DepositCard.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositWallet.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/DepositAbon.js",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Installed Packages/GitGutter.sublime-package",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
+				"/D/work_bet/front_www/js/src/basket/package.json",
+				"/C/Users/JaineKaminsky/Downloads/Telegram Desktop/ons/mebel_metall.html",
+				"/C/Users/JaineKaminsky/Downloads/Telegram Desktop/ons/index.html",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/CSS Format/CSS Format.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/CSS Format.sublime-settings",
 				"/C/Users/JaineKaminsky/Desktop/123.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/translate.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/Balance/Wallets/index.js",
 				"/D/work_bet/front_www/js/src/basket/src/components/basket/index.js",
-				"/D/work_bet/front_www/js/src/basket/package.json",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/npm/node_modules/prettier/package.json",
 				"/D/work_bet/front_www/js/src/basket/src/modules/loginUser/containers/noAuth/rootNoAuth.js",
 				"/D/work_bet/front_www/js/src/basket/src/modules/auth/components/NoAuth/index.js",
@@ -475,7 +629,6 @@
 				"/D/work_bet/core/src/components/common/Button/index.module.css",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/AutoBackups (Windows).sublime-settings",
@@ -484,21 +637,13 @@
 			],
 			"find":
 			{
-				"height": 49.0
+				"height": 29.0
 			},
 			"find_in_files":
 			{
 				"height": 125.0,
 				"where_history":
 				[
-					"D:\\work_bet\\front_www\\js\\src\\basket\\src",
-					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src",
-					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers",
-					"D:\\work_bet\\front_www\\js\\src\\basket\\src",
-					"D:\\work_bet\\front_www\\js\\src\\basket",
-					"C:\\Program Files\\Sublime Text 3\\Packages",
-					"C:\\Users\\JaineKaminsky\\AppData\\Roaming\\Sublime Text 3\\",
-					"C:\\Users\\JaineKaminsky\\AppData\\Roaming\\Sublime Text 3\\Packages"
 				]
 			},
 			"find_state":
@@ -506,29 +651,6 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"esli",
-					"уыдште",
-					"item--price--txt",
-					"walletId",
-					"wallet",
-					"replace",
-					"num_wallet",
-					"paymentInstrumentName",
-					"wallet",
-					"walletId",
-					"onli",
-					"auth",
-					"custom_file_extensions",
-					"inline",
-					"штдшту",
-					"custom_file_extensions ",
-					"not_login",
-					"double",
-					"conemu.exe",
-					"ConEmu.exe",
-					"cmd.exe",
-					"Terminus",
-					"кукьштгы"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -543,21 +665,6 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"path": "D:\\work_bet\\1111111"
-				},
-				{
-					"path": "D:\\work_bet\\front_www"
-				},
-				{
-					"path": "D:\\work_bet\\front_tpl"
-				},
-				{
-					"path": "D:\\work_bet\\core"
-				}
-			],
 			"groups":
 			[
 				{
@@ -566,58 +673,31 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
+							"file": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 19277,
+								"buffer_size": 10528,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										14572,
-										14554
+										10528,
+										10528
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
-									"translate_tabs_to_spaces": false
+									"edit_settings_other_view_id": 35,
+									"edit_settings_view": "base",
+									"git_gutter_is_enabled": false,
+									"mini_diff": false,
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 7328.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/work_bet/front_www/js/src/basket/package.json",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 13139,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										12767,
-										12767
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (NPM).sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 6311.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
@@ -626,8 +706,40 @@
 					]
 				},
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 1,
+							"file": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 88,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										52,
+										52
+									]
+								],
+								"settings":
+								{
+									"edit_settings_other_view_id": 34,
+									"edit_settings_view": "user",
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -685,8 +797,12 @@
 			{
 				"height": 145.0
 			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,1048,0,0,1928",
+			"position": "0,2,3,-1,-1,-1,-1,1176,1920,251,3848",
 			"project": "",
 			"replace":
 			{
@@ -727,14 +843,566 @@
 			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 283.0,
+			"side_bar_visible": false,
+			"side_bar_width": 334.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 17,
+			"window_id": 53,
 			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Depo",
+						"DepositCard"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositWallet.js",
+					"settings":
+					{
+						"buffer_size": 16616,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/DepositAbon.js",
+					"settings":
+					{
+						"buffer_size": 574,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/DepositCard.js",
+					"settings":
+					{
+						"buffer_size": 5999,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"che",
+						"Git: Checkout Current File"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"checko",
+						"Git: Checkout Current File"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"prett",
+						"Pretty JSON: Format and Sort JSON"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"checkout ",
+						"Git: Checkout Current File"
+					],
+					[
+						"gutt",
+						"Preferences: GitGutter Settings"
+					],
+					[
+						"gutte",
+						"Preferences: GitGutter Popup Stylesheet"
+					],
+					[
+						"checkout",
+						"Git: Checkout Current File"
+					],
+					[
+						"pre",
+						"JsPrettier: Format Code"
+					],
+					[
+						"js",
+						"JsPrettier: Format Code"
+					],
+					[
+						"jspre",
+						"JsPrettier: Format Code"
+					],
+					[
+						"pretti",
+						"JsPrettier: Format Code"
+					],
+					[
+						"con",
+						"ConEmu: Open current file folder"
+					],
+					[
+						"conEm",
+						"ConEmu: Open current file folder"
+					],
+					[
+						"ter",
+						"Terminus: Open ConEmu"
+					],
+					[
+						"prefer",
+						"Preferences: Terminus Command Palette"
+					],
+					[
+						"termi",
+						"Terminus: Open Default Shell in Panel"
+					],
+					[
+						"inde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"prefe",
+						"Preferences: Terminus Command Palette"
+					],
+					[
+						"git ",
+						"Set Syntax: Git Link"
+					],
+					[
+						"git con",
+						"Set Syntax: Git Config"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 536.0,
+				"history":
+				[
+					"3"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/work_bet/front_www",
+				"/D/work_bet/front_www/html"
+			],
+			"file_history":
+			[
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Sublimerge 3/Sublimerge 3.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/AutoBackups/AutoBackups (Windows).sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/DepositCard.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositWallet.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/DepositAbon.js",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Installed Packages/GitGutter.sublime-package",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
+				"/D/work_bet/front_www/js/src/basket/package.json",
+				"/C/Users/JaineKaminsky/Downloads/Telegram Desktop/ons/mebel_metall.html",
+				"/C/Users/JaineKaminsky/Downloads/Telegram Desktop/ons/index.html",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/CSS Format/CSS Format.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/CSS Format.sublime-settings",
+				"/C/Users/JaineKaminsky/Desktop/123.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/translate.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/Balance/Wallets/index.js",
+				"/D/work_bet/front_www/js/src/basket/src/components/basket/index.js",
+				"/C/Users/JaineKaminsky/AppData/Roaming/npm/node_modules/prettier/package.json",
+				"/D/work_bet/front_www/js/src/basket/src/modules/loginUser/containers/noAuth/rootNoAuth.js",
+				"/D/work_bet/front_www/js/src/basket/src/modules/auth/components/NoAuth/index.js",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Babel.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-commands",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-menu",
+				"/C/Program Files/Sublime Text 3/Packages/CSS.sublime-package",
+				"/C/Program Files/Sublime Text 3/Packages/PHP.sublime-package",
+				"/C/Program Files/Sublime Text 3/Packages/Python.sublime-package",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Terminus/Default.sublime-commands",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/ConEmu.xml",
+				"/D/work_bet/front_tpl/.git/config",
+				"/D/work_bet/front_www/.git/config",
+				"/D/work_bet/core/.git/config",
+				"/D/work_bet/front_tpl/.git/packed-refs",
+				"/D/work_bet/front_tpl/.git/description",
+				"/D/work_bet/core/src/components/common/Button/index.module.css",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/AutoBackups (Windows).sublime-settings",
+				"/C/Users/JaineKaminsky/package.json",
+				"/C/Users/JaineKaminsky/.babel.json"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 125.0,
+				"where_history":
+				[
+					"D:\\work_bet\\front_www\\js\\src\\basket\\src",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers",
+					"D:\\work_bet\\front_www\\js\\src\\basket\\src",
+					"D:\\work_bet\\front_www\\js\\src\\basket",
+					"C:\\Program Files\\Sublime Text 3\\Packages",
+					"C:\\Users\\JaineKaminsky\\AppData\\Roaming\\Sublime Text 3\\",
+					"C:\\Users\\JaineKaminsky\\AppData\\Roaming\\Sublime Text 3\\Packages"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"mini_",
+					"mini",
+					"show",
+					"hunk",
+					"selectwalletWrap",
+					"depositOptions",
+					"isSelectDisabled",
+					"favbetonline.hr",
+					"esli",
+					"уыдште",
+					"item--price--txt",
+					"walletId",
+					"wallet",
+					"replace",
+					"num_wallet",
+					"paymentInstrumentName",
+					"wallet",
+					"walletId",
+					"onli",
+					"auth",
+					"custom_file_extensions",
+					"inline",
+					"штдшту",
+					"custom_file_extensions ",
+					"not_login",
+					"double",
+					"conemu.exe",
+					"ConEmu.exe",
+					"cmd.exe",
+					"Terminus",
+					"кукьштгы"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositWallet.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 16616,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6222,
+										6222
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 629.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/DepositAbon.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 574,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										571,
+										571
+									]
+								],
+								"settings":
+								{
+									"git_gutter_enable": true,
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 2,
+							"file": "/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/DepositCard.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5999,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5751,
+										5751
+									]
+								],
+								"settings":
+								{
+									"git_annotation_temp_buffer": "c:\\users\\jainek~1\\appdata\\local\\temp\\git_annotations_cohnhe",
+									"git_annotation_temp_head": "c:\\users\\jainek~1\\appdata\\local\\temp\\git_annotations_xz29vp",
+									"git_gutter_enable": true,
+									"git_gutter_is_enabled": true,
+									"live_git_annotations": false,
+									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3544.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.Terminus":
+			{
+				"height": 139.0
+			},
+			"output.Terminus 2":
+			{
+				"height": 288.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 145.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,1034,372,-1,2300",
+			"project": "betinvest.sublime-project",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 334.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 36,
+			"workspace_name": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/betinvest.sublime-workspace"
 		}
 	],
 	"workspaces":

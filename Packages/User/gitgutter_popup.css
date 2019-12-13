@@ -1,0 +1,24 @@
+div.git-gutter {
+  width: 400px;
+}
+
+.git-gutter div.toolbar {
+  padding: 10px;
+  color: #f5af09;
+}
+
+.git-gutter div.toolbar symbol {
+  padding: 5px;
+}
+
+.git-gutter .hi-chg-ins,
+.git-gutter .hi-ins {
+  color: #00cc25;
+  background-color: transparent;
+}
+
+.git-gutter .hi-chg-del,
+.git-gutter .hi-del {
+  color: #f5001d;
+  background-color: transparent;
+}

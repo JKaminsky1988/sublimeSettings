@@ -1,4 +1,24 @@
 // GitGutter Settings - User
 {
-  "git_binary": "C:\\Program Files\\Git\\bin\\git.exe"
+  "git_binary": "C:\\Program Files\\Git\\bin\\git.exe",
+  "show_in_minimap": -1,
+  "show_line_annotation": true,
+  "line_annotation_ruler": true,
+  "line_annotation_ignore_whitespace": true,
+  "line_annotation_text": "{{line_author}}",
+  "status_bar_text": [
+        "{% if repo and branch %}",
+            "{% if not st_git_status %}",
+                "{{repo}}/{{branch}}",
+                "{% if added_files + deleted_files + modified_files > 0 %}*{% endif %}, ",
+            "{% endif %}",
+            "{% if compare not in ('HEAD', branch, None) %}Comparing against {{compare}}, {% endif %}",
+            "{% if state %} {{state}}{% endif %}",
+            "{% if deleted > 0 %}, {{deleted}}-{% endif %}",
+            "{% if inserted > 0 %}, {{inserted}}+{% endif %}",
+            "{% if modified > 0 %}, {{modified}}≠{% endif %}",
+            "{% if line_summary and line_author_age%}, Commit message: *{{line_summary}}* ({{line_author_age}}) {% endif %}",
+        "{% endif %}"
+  ],
+  "diff_popup_default_mode": "diff",
 }

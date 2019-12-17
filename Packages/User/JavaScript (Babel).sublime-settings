@@ -1,7 +1,7 @@
 {
-  "index_files": false,
 	"extensions":
 	[
 		"js"
-	]
+	],
+	"index_files": false
 }

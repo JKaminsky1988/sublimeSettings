@@ -8,7 +8,7 @@
 		"/D/work_bet/mobile"
 	],
 	"last_version": 3211,
-	"last_window_id": 106,
+	"last_window_id": 109,
 	"log_indexing": false,
 	"settings":
 	{
@@ -52,8 +52,24 @@
 				"selected_items":
 				[
 					[
-						"disa",
-						"Package Control: Disable Package"
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"htm",
+						"Markdown Preview: Export HTML in Sublime Text"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
 					],
 					[
 						"rein",
@@ -68,14 +84,6 @@
 						"Indentation: Reindent Lines"
 					],
 					[
-						"in",
-						"Package Control: Install Package"
-					],
-					[
-						"rem",
-						"Package Control: Remove Package"
-					],
-					[
 						"inst",
 						"Package Control: Install Package"
 					],
@@ -88,8 +96,8 @@
 						"Package Control: Install Package"
 					],
 					[
-						"ena",
-						"Package Control: Enable Package"
+						"disa",
+						"Package Control: Disable Package"
 					],
 					[
 						"expo",
@@ -162,10 +170,6 @@
 					[
 						"disab",
 						"Package Control: Disable Package"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
 					],
 					[
 						"dis",
@@ -261,7 +265,11 @@
 			},
 			"file_history":
 			[
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/D/work_bet/front_www/js/src/pages/vip/css/scss/slick.scss",
+				"/D/work_bet/front_www/js/src/pages/vip/css/scss/normalize.scss",
+				"/D/work_bet/front_www/js/src/pages/vip/readMe.html",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/CSS Format.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/CSS Format/CSS Format.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
 				"/D/work_bet/front_www/js/src/pages/vip/vip.html",
@@ -270,7 +278,6 @@
 				"/D/my-work/meta/gulpTasks/css.js",
 				"/D/my/m-o-d-a/landing/tasks/clean.js",
 				"/D/my/m-o-d-a/landing/tasks/css.js",
-				"/D/work_bet/front_www/js/src/pages/vip/readMe.html",
 				"/C/Users/JaineKaminsky/Desktop/Screenshot_19.png",
 				"/D/my/m-o-d-a/landing/gulpfile.js",
 				"/D/work_bet/front_www/.source/partners/50/scss/_color_themes.scss",
@@ -326,8 +333,6 @@
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
 				"/C/Users/JaineKaminsky/Downloads/Telegram Desktop/ons/mebel_metall.html",
 				"/C/Users/JaineKaminsky/Downloads/Telegram Desktop/ons/index.html",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/CSS Format/CSS Format.sublime-settings",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/CSS Format.sublime-settings",
 				"/C/Users/JaineKaminsky/Desktop/123.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/translate.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/Balance/Wallets/index.js",
@@ -369,6 +374,28 @@
 				"height": 125.0,
 				"where_history":
 				[
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\BalanceModal",
+					"D:\\work_bet\\front_www\\.source",
+					"D:\\work_bet\\front_www\\.source\\base",
+					"D:\\work_bet\\front_www\\.source\\base\\po",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\BalanceModal",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\Balance",
+					"D:\\work_bet\\front_www\\.source\\base",
+					"D:\\work_bet\\front_www\\.source\\base\\po_v2",
+					"D:\\work_bet\\front_www\\.source\\base",
+					"D:\\work_bet\\front_www\\.source\\base\\po",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\BalanceModal",
+					"D:\\work_bet\\front_www\\.source\\partners\\50\\scss",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\BalanceModal\\views\\Step2",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\BalanceModal",
+					"D:\\work_bet\\front_www\\js\\src\\basket\\src",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers",
+					"D:\\work_bet\\front_www\\js\\src\\basket\\src",
+					"D:\\work_bet\\front_www\\js\\src\\basket",
+					"C:\\Program Files\\Sublime Text 3\\Packages",
+					"C:\\Users\\JaineKaminsky\\AppData\\Roaming\\Sublime Text 3\\",
+					"C:\\Users\\JaineKaminsky\\AppData\\Roaming\\Sublime Text 3\\Packages"
 				]
 			},
 			"find_state":
@@ -376,7 +403,97 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"post"
+					"css",
+					"post",
+					"inpo",
+					"/static/media/pages/vip_page/static/",
+					"\n                ",
+					"вуиг",
+					"handleDeposit",
+					"handleSubmit",
+					"handleDeposit",
+					"setisDisableDepositBtn",
+					"isActiveDepositBtn",
+					"onChangeError",
+					"handleSubmit",
+					"color",
+					"@mixin color2wh ",
+					"@mixin color2wh {\nimport ",
+					"import ",
+					"color_themes_favbet",
+					"color2wh",
+					"submit_data_wallet_btn",
+					"@mixin",
+					"color2wh",
+					"@mixin color2wh",
+					"color2wh",
+					"submit_data_wallet_btn",
+					"import ",
+					"import",
+					"color2wh",
+					"submit_data_wallet_btn",
+					"disabled",
+					"checkCouponAbon",
+					"!!!",
+					"111",
+					"sss",
+					"checkAcceptAbon",
+					"DepositAbon",
+					"isActiveDepositBtn",
+					"create",
+					"submit",
+					"subm",
+					"wallet_account_id",
+					"input",
+					"autoAmountList",
+					"item",
+					"add_de",
+					"deposit_select",
+					"autoAmountList",
+					"depos",
+					"deb",
+					"pattern",
+					"patternMess",
+					"patternWall",
+					"pattern",
+					"patter",
+					"vali",
+					"onChangeError",
+					"err",
+					"vali",
+					"depos",
+					"handleSubmit",
+					"mini_",
+					"mini",
+					"show",
+					"hunk",
+					"selectwalletWrap",
+					"depositOptions",
+					"isSelectDisabled",
+					"favbetonline.hr",
+					"esli",
+					"уыдште",
+					"item--price--txt",
+					"walletId",
+					"wallet",
+					"replace",
+					"num_wallet",
+					"paymentInstrumentName",
+					"wallet",
+					"walletId",
+					"onli",
+					"auth",
+					"custom_file_extensions",
+					"inline",
+					"штдшту",
+					"custom_file_extensions ",
+					"not_login",
+					"double",
+					"conemu.exe",
+					"ConEmu.exe",
+					"cmd.exe",
+					"Terminus",
+					"кукьштгы"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -384,6 +501,8 @@
 				"regex": false,
 				"replace_history":
 				[
+					"setIsDisableDepositBtn",
+					"isDisableDepositBtn"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -456,14 +575,14 @@
 			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
-			"side_bar_visible": false,
+			"side_bar_visible": true,
 			"side_bar_width": 334.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1862.0
+		"new_window_width": 1856.0
 	},
 	"windows":
 	[
@@ -1044,19 +1163,9 @@
 					"file": "/D/work_bet/front_www/js/src/pages/vip/vip.html",
 					"settings":
 					{
-						"buffer_size": 24123,
+						"buffer_size": 26865,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/work_bet/front_www/js/src/pages/vip/css/scss/vip.scss",
-					"settings":
-					{
-						"buffer_size": 40519,
-						"encoding": "UTF-8",
-						"line_ending": "Windows",
-						"name": ".button_wrapper {"
 					}
 				},
 				{
@@ -1070,18 +1179,27 @@
 					}
 				},
 				{
-					"contents": "",
+					"file": "/D/work_bet/front_www/js/src/pages/vip/css/scss/slider.scss",
 					"settings":
 					{
 						"buffer_size": 0,
+						"encoding": "UTF-8",
 						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "ColorHighlighter.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 1111,
+						"line_ending": "Unix"
 					}
 				},
 				{
 					"file": "/D/work_bet/front_www/js/src/pages/vip/readMe.md",
 					"settings":
 					{
-						"buffer_size": 639,
+						"buffer_size": 724,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -1108,6 +1226,18 @@
 				"selected_items":
 				[
 					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"htm",
+						"Markdown Preview: Export HTML in Sublime Text"
+					],
+					[
 						"rem",
 						"Package Control: Remove Package"
 					],
@@ -1126,10 +1256,6 @@
 					[
 						"rei",
 						"Indentation: Reindent Lines"
-					],
-					[
-						"in",
-						"Package Control: Install Package"
 					],
 					[
 						"inst",
@@ -1218,10 +1344,6 @@
 					[
 						"disab",
 						"Package Control: Disable Package"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
 					],
 					[
 						"dis",
@@ -1328,6 +1450,9 @@
 			],
 			"file_history":
 			[
+				"/D/work_bet/front_www/js/src/pages/vip/css/scss/slick.scss",
+				"/D/work_bet/front_www/js/src/pages/vip/css/scss/normalize.scss",
+				"/D/work_bet/front_www/js/src/pages/vip/readMe.html",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/CSS Format.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/CSS Format/CSS Format.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
@@ -1338,7 +1463,6 @@
 				"/D/my-work/meta/gulpTasks/css.js",
 				"/D/my/m-o-d-a/landing/tasks/clean.js",
 				"/D/my/m-o-d-a/landing/tasks/css.js",
-				"/D/work_bet/front_www/js/src/pages/vip/readMe.html",
 				"/C/Users/JaineKaminsky/Desktop/Screenshot_19.png",
 				"/D/my/m-o-d-a/landing/gulpfile.js",
 				"/D/work_bet/front_www/.source/partners/50/scss/_color_themes.scss",
@@ -1583,71 +1707,107 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 24123,
+								"buffer_size": 26865,
 								"regions":
 								{
+									"col_DA1A32FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												15131,
+												15138
+											],
+											[
+												15586,
+												15593
+											],
+											[
+												21015,
+												21022
+											],
+											[
+												21442,
+												21449
+											]
+										],
+										"scope": "col_DA1A32FF"
+									}
 								},
 								"selection":
 								[
 									[
-										378,
-										378
+										293,
+										293
 									]
 								],
 								"settings":
 								{
+									"color_helper.box_height": 18,
+									"color_helper.color_scheme": "Packages/gruvbox/gruvbox (Dark) (Medium).sublime-color-scheme",
+									"color_helper.file_palette":
+									[
+									],
+									"color_helper.preview_meta":
+									{
+									},
+									"color_helper.scan":
+									{
+										"allowed_colors":
+										[
+											"webcolors",
+											"hwb",
+											"gray",
+											"hexa_compressed",
+											"hwba",
+											"graya",
+											"hex",
+											"hexa",
+											"rgb",
+											"rgba",
+											"hex_compressed",
+											"hsl",
+											"hsla"
+										],
+										"compress_hex_output": true,
+										"current_ext": ".html",
+										"current_syntax": "HTML/HTML",
+										"enabled": true,
+										"last_updated": 1576592664.97,
+										"scan_completion_scopes":
+										[
+										],
+										"scan_scopes":
+										[
+											"meta.declaration-list.css -support.type.property-name.css -comment -string",
+											"meta.property-value.css -comment -string",
+											"meta.value.css -comment -string",
+											"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
+											"meta.tag.any.html meta.attribute-with-value.style.html"
+										],
+										"use_hex_argb": false
+									},
 									"git_gutter_is_enabled": true,
 									"syntax": "Packages/HTML/HTML.sublime-syntax",
 									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 48.0,
+								"translation.y": 63.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
 				},
 				{
-					"selected": 0,
+					"selected": 2,
 					"sheets":
 					[
 						{
 							"buffer": 1,
-							"file": "/D/work_bet/front_www/js/src/pages/vip/css/scss/vip.scss",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 40519,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										40519,
-										40519
-									]
-								],
-								"settings":
-								{
-									"auto_name": ".button_wrapper {",
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/SCSS/SCSS.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 38557.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
 							"file": "/D/work_bet/front_www/js/src/pages/vip/js/vip.js",
 							"semi_transient": false,
 							"settings":
@@ -1679,7 +1839,8 @@
 							"type": "text"
 						},
 						{
-							"buffer": 3,
+							"buffer": 2,
+							"file": "/D/work_bet/front_www/js/src/pages/vip/css/scss/slider.scss",
 							"semi_transient": false,
 							"settings":
 							{
@@ -1696,13 +1857,43 @@
 								],
 								"settings":
 								{
-									"git_gutter_is_enabled": false,
+									"git_gutter_is_enabled": true,
 									"syntax": "Packages/SCSS/SCSS.tmLanguage",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 1.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "ColorHighlighter.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1111,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 882.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
@@ -1711,7 +1902,7 @@
 					]
 				},
 				{
-					"selected": 1,
+					"selected": 0,
 					"sheets":
 					[
 						{
@@ -1720,15 +1911,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 639,
+								"buffer_size": 724,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										123,
-										123
+										639,
+										639
 									]
 								],
 								"settings":
@@ -1739,10 +1930,10 @@
 									"target": "sublime"
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 63.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 4,
 							"type": "text"
 						},
 						{
@@ -1773,7 +1964,7 @@
 								"translation.y": 252.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 5,
 							"type": "text"
 						}
 					]
@@ -1890,7 +2081,7 @@
 				],
 				"width": 0.0
 			},
-			"selected_group": 1,
+			"selected_group": 0,
 			"settings":
 			{
 			},
@@ -1905,6 +2096,1648 @@
 			},
 			"window_id": 36,
 			"workspace_name": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/betinvest.sublime-workspace"
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"co",
+						"console"
+					],
+					[
+						"cu",
+						"cur-c\tcursor: crosshair;"
+					],
+					[
+						"ai",
+						"ai-c\talign-items: center;"
+					],
+					[
+						"wpa",
+						"wrapDepositAbon"
+					],
+					[
+						"Depo",
+						"DepositCard"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/work_bet/front_www/js/src/pages/vip/css/scss/vip.scss",
+					"settings":
+					{
+						"buffer_size": 29363,
+						"encoding": "UTF-8",
+						"line_ending": "Windows",
+						"name": ".button_wrapper {"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"pre",
+						"JsPrettier: Format Code"
+					],
+					[
+						"rei",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"expo",
+						"Markdown Preview: Export HTML in Sublime Text"
+					],
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"checkout ",
+						"Git: Checkout Current File"
+					],
+					[
+						"commi",
+						"Set Syntax: Git Commit Message"
+					],
+					[
+						"git add ",
+						"Git: Add Current File"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"checkou",
+						"Git: Checkout Current File"
+					],
+					[
+						"checko",
+						"Git: Checkout Current File"
+					],
+					[
+						"CHECKO",
+						"Git: Checkout Current File"
+					],
+					[
+						"che",
+						"Git: Checkout Current File"
+					],
+					[
+						"gitgutter",
+						"Preferences: GitGutter Popup Stylesheet"
+					],
+					[
+						"checkout",
+						"Git: Checkout Current File"
+					],
+					[
+						"chec",
+						"Git: Checkout Current File"
+					],
+					[
+						"ch",
+						"Git: Checkout Current File"
+					],
+					[
+						"diff",
+						"Git: Diff Current File"
+					],
+					[
+						"open",
+						"Git: Open Modified Files"
+					],
+					[
+						"op",
+						"Git: Open Modified Files"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"prett",
+						"Pretty JSON: Format and Sort JSON"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"gutt",
+						"Preferences: GitGutter Settings"
+					],
+					[
+						"gutte",
+						"Preferences: GitGutter Popup Stylesheet"
+					],
+					[
+						"js",
+						"JsPrettier: Format Code"
+					],
+					[
+						"jspre",
+						"JsPrettier: Format Code"
+					],
+					[
+						"pretti",
+						"JsPrettier: Format Code"
+					],
+					[
+						"con",
+						"ConEmu: Open current file folder"
+					],
+					[
+						"conEm",
+						"ConEmu: Open current file folder"
+					],
+					[
+						"ter",
+						"Terminus: Open ConEmu"
+					],
+					[
+						"prefer",
+						"Preferences: Terminus Command Palette"
+					],
+					[
+						"termi",
+						"Terminus: Open Default Shell in Panel"
+					],
+					[
+						"inde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"prefe",
+						"Preferences: Terminus Command Palette"
+					],
+					[
+						"git ",
+						"Set Syntax: Git Link"
+					],
+					[
+						"git con",
+						"Set Syntax: Git Config"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 536.0,
+				"history":
+				[
+					"3"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/CSS Format.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/CSS Format/CSS Format.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
+				"/D/work_bet/front_www/js/src/pages/vip/vip.html",
+				"/D/work_bet/front_www/js/src/pages/vip/gulpfile.js",
+				"/D/my-work/meta/gulpTasks/default.js",
+				"/D/my-work/meta/gulpTasks/css.js",
+				"/D/my/m-o-d-a/landing/tasks/clean.js",
+				"/D/my/m-o-d-a/landing/tasks/css.js",
+				"/D/work_bet/front_www/js/src/pages/vip/readMe.html",
+				"/C/Users/JaineKaminsky/Desktop/Screenshot_19.png",
+				"/D/my/m-o-d-a/landing/gulpfile.js",
+				"/D/work_bet/front_www/.source/partners/50/scss/_color_themes.scss",
+				"/D/work_bet/front_www/.source/base/po/_po_50.scss",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/DepositAbon.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/addWallet.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/index.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositWallet.js",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/D/work_bet/front_www/.source/base/po/_po.scss",
+				"/D/work_bet/front_www/.source/base/po/_payment-instrument.scss",
+				"/D/work_bet/front_www/.source/partners/13/scss/_color_themes.scss",
+				"/D/work_bet/front_www/.source/partners/1/scss/_color_themes_favbet.scss",
+				"/D/work_bet/front_www/.source/base/po/_warning-message.scss",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step1/index.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/components/Common/Input.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/index.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/stepTypes.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/components/Common/PanKeeper.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/DepositCard.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/reducers/personalOfficeModal/actions.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/node_modules/redux-actions/lib/index.js",
+				"/D/work_bet/front_www/js/src/basket/node_modules/@storybook/addon-actions/dist/preview/actions.js",
+				"/D/work_bet/front_www/package.json",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/GitGutter.sublime-color-scheme",
+				"/D/work_bet/front_www/partners/1/css/base.css",
+				"/D/work_bet/front_www/partners/13/css/base.css",
+				"/D/work_bet/front_www/partners/15/css/base.css",
+				"/D/work_bet/front_www/partners/18/css/base.css",
+				"/D/work_bet/front_www/partners/19/css/base.css",
+				"/D/work_bet/front_www/partners/20/css/base.css",
+				"/D/work_bet/front_www/partners/30134/css/base.css",
+				"/D/work_bet/front_www/partners/30149/css/base.css",
+				"/D/work_bet/front_www/partners/35/css/base.css",
+				"/D/work_bet/front_www/partners/4/css/base.css",
+				"/D/work_bet/front_www/partners/49/css/base.css",
+				"/D/work_bet/front_www/partners/50/css/base.css",
+				"/D/work_bet/front_www/partners/58/css/base.css",
+				"/D/work_bet/front_www/partners/88/css/base.css",
+				"/D/work_bet/front_www/partners/90/css/base.css",
+				"/D/work_bet/front_www/partners/91/css/base.css",
+				"/D/work_bet/front_www/.source/partners/50/scss/base.scss",
+				"/D/work_bet/front_www/js/src/basket/package.json",
+				"/D/work_bet/front_www/.source/base/po_v2/_po_v2_unknown.scss",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/reducers/balanceModal/actions.js",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Sublimerge 3/Sublimerge 3.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/AutoBackups/AutoBackups (Windows).sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Installed Packages/GitGutter.sublime-package",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
+				"/C/Users/JaineKaminsky/Downloads/Telegram Desktop/ons/mebel_metall.html",
+				"/C/Users/JaineKaminsky/Downloads/Telegram Desktop/ons/index.html",
+				"/C/Users/JaineKaminsky/Desktop/123.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/translate.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/Balance/Wallets/index.js",
+				"/D/work_bet/front_www/js/src/basket/src/components/basket/index.js",
+				"/C/Users/JaineKaminsky/AppData/Roaming/npm/node_modules/prettier/package.json",
+				"/D/work_bet/front_www/js/src/basket/src/modules/loginUser/containers/noAuth/rootNoAuth.js",
+				"/D/work_bet/front_www/js/src/basket/src/modules/auth/components/NoAuth/index.js",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Babel.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-commands",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-menu",
+				"/C/Program Files/Sublime Text 3/Packages/CSS.sublime-package",
+				"/C/Program Files/Sublime Text 3/Packages/PHP.sublime-package",
+				"/C/Program Files/Sublime Text 3/Packages/Python.sublime-package",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Terminus/Default.sublime-commands",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/ConEmu.xml",
+				"/D/work_bet/front_tpl/.git/config",
+				"/D/work_bet/front_www/.git/config",
+				"/D/work_bet/core/.git/config",
+				"/D/work_bet/front_tpl/.git/packed-refs",
+				"/D/work_bet/front_tpl/.git/description",
+				"/D/work_bet/core/src/components/common/Button/index.module.css",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/AutoBackups (Windows).sublime-settings",
+				"/C/Users/JaineKaminsky/package.json",
+				"/C/Users/JaineKaminsky/.babel.json"
+			],
+			"find":
+			{
+				"height": 49.0
+			},
+			"find_in_files":
+			{
+				"height": 125.0,
+				"where_history":
+				[
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\BalanceModal",
+					"D:\\work_bet\\front_www\\.source",
+					"D:\\work_bet\\front_www\\.source\\base",
+					"D:\\work_bet\\front_www\\.source\\base\\po",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\BalanceModal",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\Balance",
+					"D:\\work_bet\\front_www\\.source\\base",
+					"D:\\work_bet\\front_www\\.source\\base\\po_v2",
+					"D:\\work_bet\\front_www\\.source\\base",
+					"D:\\work_bet\\front_www\\.source\\base\\po",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\BalanceModal",
+					"D:\\work_bet\\front_www\\.source\\partners\\50\\scss",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\BalanceModal\\views\\Step2",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\BalanceModal",
+					"D:\\work_bet\\front_www\\js\\src\\basket\\src",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers",
+					"D:\\work_bet\\front_www\\js\\src\\basket\\src",
+					"D:\\work_bet\\front_www\\js\\src\\basket",
+					"C:\\Program Files\\Sublime Text 3\\Packages",
+					"C:\\Users\\JaineKaminsky\\AppData\\Roaming\\Sublime Text 3\\",
+					"C:\\Users\\JaineKaminsky\\AppData\\Roaming\\Sublime Text 3\\Packages"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"MuiGrid-justify-xs-center",
+					"MuiGrid-container",
+					"MuiGrid-root",
+					"css",
+					"post",
+					"inpo",
+					"/static/media/pages/vip_page/static/",
+					"\n                ",
+					"вуиг",
+					"handleDeposit",
+					"handleSubmit",
+					"handleDeposit",
+					"setisDisableDepositBtn",
+					"isActiveDepositBtn",
+					"onChangeError",
+					"handleSubmit",
+					"color",
+					"@mixin color2wh ",
+					"@mixin color2wh {\nimport ",
+					"import ",
+					"color_themes_favbet",
+					"color2wh",
+					"submit_data_wallet_btn",
+					"@mixin",
+					"color2wh",
+					"@mixin color2wh",
+					"color2wh",
+					"submit_data_wallet_btn",
+					"import ",
+					"import",
+					"color2wh",
+					"submit_data_wallet_btn",
+					"disabled",
+					"checkCouponAbon",
+					"!!!",
+					"111",
+					"sss",
+					"checkAcceptAbon",
+					"DepositAbon",
+					"isActiveDepositBtn",
+					"create",
+					"submit",
+					"subm",
+					"wallet_account_id",
+					"input",
+					"autoAmountList",
+					"item",
+					"add_de",
+					"deposit_select",
+					"autoAmountList",
+					"depos",
+					"deb",
+					"pattern",
+					"patternMess",
+					"patternWall",
+					"pattern",
+					"patter",
+					"vali",
+					"onChangeError",
+					"err",
+					"vali",
+					"depos",
+					"handleSubmit",
+					"mini_",
+					"mini",
+					"show",
+					"hunk",
+					"selectwalletWrap",
+					"depositOptions",
+					"isSelectDisabled",
+					"favbetonline.hr",
+					"esli",
+					"уыдште",
+					"item--price--txt",
+					"walletId",
+					"wallet",
+					"replace",
+					"num_wallet",
+					"paymentInstrumentName",
+					"wallet",
+					"walletId",
+					"onli",
+					"auth",
+					"custom_file_extensions",
+					"inline",
+					"штдшту",
+					"custom_file_extensions ",
+					"not_login",
+					"double",
+					"conemu.exe",
+					"ConEmu.exe",
+					"cmd.exe",
+					"Terminus",
+					"кукьштгы"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"setIsDisableDepositBtn",
+					"isDisableDepositBtn"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/work_bet/front_www/js/src/pages/vip/css/scss/vip.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 29363,
+								"regions":
+								{
+									"col_007BFFFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												1113,
+												1120
+											]
+										],
+										"scope": "col_007BFFFF"
+									},
+									"col_00B2FFFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												1104,
+												1111
+											]
+										],
+										"scope": "col_00B2FFFF"
+									},
+									"col_101F3B7F":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												854,
+												875
+											]
+										],
+										"scope": "col_101F3B7F"
+									},
+									"col_11117FFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												9825,
+												9832
+											]
+										],
+										"scope": "col_11117FFF"
+									},
+									"col_140474FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2502,
+												2509
+											],
+											[
+												5979,
+												5986
+											],
+											[
+												9578,
+												9585
+											],
+											[
+												10174,
+												10181
+											],
+											[
+												10831,
+												10838
+											]
+										],
+										"scope": "col_140474FF"
+									},
+									"col_163768FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												173,
+												180
+											]
+										],
+										"scope": "col_163768FF"
+									},
+									"col_3B9239FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												29210,
+												29217
+											]
+										],
+										"scope": "col_3B9239FF"
+									},
+									"col_3DAC39FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2048,
+												2055
+											],
+											[
+												29099,
+												29106
+											]
+										],
+										"scope": "col_3DAC39FF"
+									},
+									"col_3F983AFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												29201,
+												29208
+											]
+										],
+										"scope": "col_3F983AFF"
+									},
+									"col_58BD53FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2039,
+												2046
+											],
+											[
+												29090,
+												29097
+											]
+										],
+										"scope": "col_58BD53FF"
+									},
+									"col_BAC4D1FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2210,
+												2217
+											]
+										],
+										"scope": "col_BAC4D1FF"
+									},
+									"col_DA1A32FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2403,
+												2410
+											],
+											[
+												6375,
+												6382
+											],
+											[
+												8662,
+												8669
+											]
+										],
+										"scope": "col_DA1A32FF"
+									},
+									"col_ECF3FBFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												7583,
+												7590
+											],
+											[
+												10738,
+												10745
+											]
+										],
+										"scope": "col_ECF3FBFF"
+									},
+									"col_F1F3F7FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												7460,
+												7467
+											]
+										],
+										"scope": "col_F1F3F7FF"
+									},
+									"col_F7F7F7FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												7673,
+												7680
+											]
+										],
+										"scope": "col_F7F7F7FF"
+									},
+									"col_FFFFFFFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												888,
+												892
+											],
+											[
+												1569,
+												1573
+											],
+											[
+												1787,
+												1791
+											],
+											[
+												1919,
+												1923
+											],
+											[
+												2577,
+												2581
+											],
+											[
+												4590,
+												4594
+											],
+											[
+												5307,
+												5311
+											],
+											[
+												5610,
+												5614
+											],
+											[
+												6010,
+												6014
+											],
+											[
+												6441,
+												6445
+											],
+											[
+												6776,
+												6780
+											],
+											[
+												8390,
+												8394
+											],
+											[
+												8716,
+												8720
+											],
+											[
+												9304,
+												9308
+											],
+											[
+												9919,
+												9923
+											],
+											[
+												11617,
+												11621
+											],
+											[
+												12393,
+												12397
+											],
+											[
+												28970,
+												28974
+											]
+										],
+										"scope": "col_FFFFFFFF"
+									}
+								},
+								"selection":
+								[
+									[
+										173,
+										173
+									]
+								],
+								"settings":
+								{
+									"auto_name": ".button_wrapper {",
+									"color_helper.box_height": 18,
+									"color_helper.color_scheme": "Packages/gruvbox/gruvbox (Dark) (Medium).sublime-color-scheme",
+									"color_helper.file_palette":
+									[
+										"#007bffff",
+										"#00b2ffff",
+										"#101f3b7F@1",
+										"#11117fff",
+										"#140474ff",
+										"#163768ff",
+										"#3b9239ff",
+										"#3dac39ff",
+										"#3f983aff",
+										"#58bd53ff",
+										"#bac4d1ff",
+										"#da1a32ff",
+										"#ecf3fbff",
+										"#f1f3f7ff",
+										"#f7f7f7ff",
+										"#ffffffff"
+									],
+									"color_helper.no_auto": false,
+									"color_helper.popup_active": false,
+									"color_helper.popup_auto": false,
+									"color_helper.preview_meta":
+									{
+										"173":
+										[
+											7016329745038018219,
+											7,
+											"hex",
+											6319430926231481265,
+											52,
+											"1576592672.012492"
+										]
+									},
+									"color_helper.scan":
+									{
+										"allowed_colors":
+										[
+											"webcolors",
+											"hwb",
+											"gray",
+											"hexa_compressed",
+											"hwba",
+											"graya",
+											"hex",
+											"hexa",
+											"rgb",
+											"rgba",
+											"hex_compressed",
+											"hsl",
+											"hsla"
+										],
+										"compress_hex_output": true,
+										"current_ext": ".scss",
+										"current_syntax": "SCSS/SCSS",
+										"enabled": true,
+										"last_updated": 1576592664.97,
+										"scan_completion_scopes":
+										[
+											"source.scss"
+										],
+										"scan_scopes":
+										[
+											"source.scss -comment -string"
+										],
+										"use_hex_argb": false
+									},
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/SCSS/SCSS.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 47.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.Terminus":
+			{
+				"height": 139.0
+			},
+			"output.Terminus 2":
+			{
+				"height": 288.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 455.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,1298,2617,264,4489",
+			"project": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 334.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 107,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"co",
+						"console"
+					],
+					[
+						"cu",
+						"cur-c\tcursor: crosshair;"
+					],
+					[
+						"ai",
+						"ai-c\talign-items: center;"
+					],
+					[
+						"wpa",
+						"wrapDepositAbon"
+					],
+					[
+						"Depo",
+						"DepositCard"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "{\n    // Show debug logging\n    \"debug\": false,\n\n    // Show index status in the status bar.\n    \"show_index_status\": true,\n\n    // Show popups automatically in configured files.\n    \"auto_popup\": true,\n\n    // Upper case hex when inserting\n    \"upper_case_hex\": false,\n\n    // Use webcolor names when value color matches a webcolor name.\n    \"use_webcolor_names\": true,\n\n    // For Windows 10 HiDpi setups.  This is a temporary workaround\n    // to help reduce abnormally large color previews and other images.\n    // This will be removed once the issue is fixed in Sublime Text 3.\n    \"line_height_workaround\": false,\n\n    // Color picker and palette picker by default\n    // are accessed by clicking an icon on the color info panel.\n    // Click access for one of these can be moved to the color box\n    // (visual representation of the color).\n    // (none|color_picker|palette_picker)\n    \"click_color_box_to_pick\": \"none\",\n\n    // Enables inline color previews found beside the identified color.\n    // Requires ST 3116+ and mdpopups 1.7.4\n    \"inline_previews\": true,\n\n    // Adjust the size of inline image previews by the offset given.\n    // Please use either a positive or negative number.\n    \"inline_preview_offset\": 0,\n\n    // Adjust the position of inline image previews.\n    // (left|right)\n    \"inline_preview_position\": \"left\",\n\n    // Enable color picker option.  Will use native color picker\n    // unless \"use_color_picker_package\" is enabled and external\n    // package is installed.\n    \"enable_color_picker\": true,\n\n    // If the color picker is too big or too small, try playing with this.\n    // This is a coarse control which scales image size relative to the\n    // approximate line height. small (1x), medium (1.5x), and large (2x).\n    // (small | medium | large)\n    \"graphic_size\": \"medium\",\n\n    // Fine scaling of image sizes. Overrides `graphic_size`.\n    // Use an integer or floating point value. `null` disables fine scaling.\n    \"graphic_scale\": null,\n\n    // Use https://github.com/weslly/ColorPicker for the color picker if installed.\n    \"use_color_picker_package\": false,\n\n    // This can be turned off to get a rectangular color picker\n    // That displays possible options by hue and brightness/luminance.\n    \"use_hex_color_picker\": true,\n\n    // Show global palettes in palette panel\n    \"enable_global_user_palettes\": true,\n\n    // Enable storing favorite colors to the favorite palette\n    \"enable_favorite_palette\": true,\n\n    // Enable showing current file color palette\n    \"enable_current_file_palette\": true,\n\n    // Enable color conversion options on color info panel\n    \"enable_color_conversions\": true,\n\n    // Scanning rules\n    \"color_scanning\": [\n        {\n            \"syntax_files\": [],\n            \"syntax_filter\": \"whitelist\",\n            \"base_scopes\": [\n                \"source.css\",\n                \"text.html\"\n            ],\n            \"scan_scopes\": [\n                // https://packagecontrol.io/packages/CSS3\n                \"meta.declaration-list.css -support.type.property-name.css -comment -string\",\n                // CSS, CSS in HTML etc. (based on: Sublime Default)\n                \"meta.property-value.css -comment -string\",\n                // CSS3, CSS3 in HTML etc. (based on: https://packagecontrol.io/packages/CSS3)\n                \"meta.value.css -comment -string\",\n                // HTML attributes (based on: Sublime Default)\n                \"meta.tag.inline.any.html string.quoted -constant.character.entity.html\",\n                \"meta.tag.any.html meta.attribute-with-value.style.html\"\n            ],\n            \"scan_completion_scopes\": [],\n            \"extensions\": [],\n            \"allowed_colors\": [\"css4\"],\n            \"use_hex_argb\": false,\n            \"compress_hex_output\": true\n        },\n        {\n            //Sass (based on: https://packagecontrol.io/packages/Sass)\n            \"syntax_files\": [\"Sass/Syntaxes/Sass\", \"Sass/Syntaxes/SCSS\"],\n            \"syntax_filter\": \"whitelist\",\n            \"base_scopes\": [\n                \"source.sass\",\n                \"source.scss\"\n            ],\n            \"scan_scopes\": [\n                \"source.sass meta.property-value.css -comment -string\",\n                \"source.scss meta.property-value.css -comment -string\"\n            ],\n            \"scan_completion_scopes\": [\n                \"source.scss meta.property-value.css -comment -string\",\n                \"source.sass meta.property-value.css -comment -string\"\n            ],\n            \"extensions\": [],\n            \"allowed_colors\": [\"css4\"],\n            \"use_hex_argb\": false,\n            \"compress_hex_output\": true\n        },\n        {\n            // SCSS (based on https://packagecontrol.io/packages/SCSS)\n            \"syntax_files\": [\"SCSS/SCSS\"],\n            \"syntax_filter\": \"whitelist\",\n            \"base_scopes\": [\n                \"source.scss\"\n            ],\n            \"scan_scopes\": [\n                \"source.scss -comment -string\"\n            ],\n            \"scan_completion_scopes\": [\n                \"source.scss\"\n            ],\n            \"extensions\": [],\n            \"allowed_colors\": [\"css4\"],\n            \"use_hex_argb\": false,\n            \"compress_hex_output\": true\n        },\n        {\n            // SCSS (based on https://packagecontrol.io/packages/Syntax%20Highlighting%20for%20Sass)\n            \"syntax_files\": [\n                \"Syntax Highlighting for Sass/Syntaxes/SCSS\",\n                \"Syntax Highlighting for Sass/Syntaxes/Sass\"\n            ],\n            \"syntax_filter\": \"whitelist\",\n            \"base_scopes\": [\n                \"source.scss\",\n                \"source.sass\"\n            ],\n            \"scan_scopes\": [\n                \"source.scss -comment -string -support.type.property-name\",\n                \"source.sass -comment -string -support.type.property-name\"\n            ],\n            \"scan_completion_scopes\": [\n                \"source.scss -comment -string -support.type.property-name\",\n                \"source.sass -comment -string -support.type.property-name\"\n            ],\n            \"extensions\": [],\n            \"allowed_colors\": [\"css4\"],\n            \"use_hex_argb\": false,\n            \"compress_hex_output\": true\n        },\n        {\n            // Sass (based on https://packagecontrol.io/packages/Syntax%20Highlighting%20for%20PostCSS)\n            \"syntax_files\": [\"Syntax Highlighting for PostCSS/Syntaxes/PostCSS\"],\n            \"syntax_filter\": \"whitelist\",\n            \"base_scopes\": [\n                \"source.postcss\"\n            ],\n            \"scan_scopes\": [\n                \"source.postcss meta.property-list.css.postcss -comment -string\"\n            ],\n            \"scan_completion_scopes\": [\n                \"source.postcss meta.property-list.css.postcss -comment -string\"\n            ],\n            \"extensions\": [],\n            \"allowed_colors\": [\"css4\"],\n            \"use_hex_argb\": false,\n            \"compress_hex_output\": true\n        },\n        {\n            \"syntax_files\": [],\n            \"syntax_filter\": \"whitelist\",\n            \"base_scopes\": [\"text.xml\"],\n            \"scan_scopes\": [\"text.xml -meta.tag.xml -comment -string, string.unquoted.cdata.xml\"],\n            \"allowed_colors\": [\"hex\", \"hexa\", \"hex_compressed\"],\n            \"extensions\": [\".tmTheme\", \".hidden-tmTheme\", \".stTheme\"],\n            \"use_hex_argb\": false,\n            \"compress_hex_output\": false\n        },\n        {\n            \"syntax_files\": [],\n            \"syntax_filter\": \"whitelist\",\n            \"base_scopes\": [\"source.stylus\"],\n            \"scan_scopes\": [\n                // Based on https://github.com/billymoon/Stylus/blob/master/Stylus.tmLanguage\n                \"constant.other.color.rgb-value.stylus\",\n                \"constant.color.w3c-standard-color-name.stylus\",\n                \"meta.property-value.stylus\"\n            ],\n            \"allowed_colors\": [\"css3\"],\n            \"extensions\": [],\n            \"use_hex_argb\": false,\n            \"compress_hex_output\": true\n        },\n        {\n            \"syntax_files\": [],\n            \"syntax_filter\": \"whitelist\",\n            \"base_scopes\": [\"source.less\"],\n            \"scan_scopes\": [\n                \"constant.other.color.rgb-value.css\",\n                \"constant.color.w3c-standard-color-name.css\",\n                \"meta.property-value.css\"\n            ],\n            \"allowed_colors\": [\"css3\"],\n            \"extensions\": [],\n            \"use_hex_argb\": false,\n            \"compress_hex_output\": true\n        }\n    ],\n\n    // Enable project palettes in palette panel (Palettes stored in project file).\n    \"enable_project_user_palettes\": true,\n\n    // Override image border color. This is mainly for schemes that use a dramatically different\n    // background for popups vs code background. Color should be in the form `#RRGGBB`. Alpha channels will\n    // be ignored.\n    \"image_border_color\": null\n}\n",
+					"file": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/ColorHelper/color_helper.sublime-settings",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 8834,
+						"line_ending": "Windows",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
+					"file": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/color_helper.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 146,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"htm",
+						"Markdown Preview: Export HTML in Sublime Text"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"pre",
+						"JsPrettier: Format Code"
+					],
+					[
+						"rei",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"expo",
+						"Markdown Preview: Export HTML in Sublime Text"
+					],
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"checkout ",
+						"Git: Checkout Current File"
+					],
+					[
+						"commi",
+						"Set Syntax: Git Commit Message"
+					],
+					[
+						"git add ",
+						"Git: Add Current File"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"checkou",
+						"Git: Checkout Current File"
+					],
+					[
+						"checko",
+						"Git: Checkout Current File"
+					],
+					[
+						"CHECKO",
+						"Git: Checkout Current File"
+					],
+					[
+						"che",
+						"Git: Checkout Current File"
+					],
+					[
+						"gitgutter",
+						"Preferences: GitGutter Popup Stylesheet"
+					],
+					[
+						"checkout",
+						"Git: Checkout Current File"
+					],
+					[
+						"chec",
+						"Git: Checkout Current File"
+					],
+					[
+						"ch",
+						"Git: Checkout Current File"
+					],
+					[
+						"diff",
+						"Git: Diff Current File"
+					],
+					[
+						"open",
+						"Git: Open Modified Files"
+					],
+					[
+						"op",
+						"Git: Open Modified Files"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"prett",
+						"Pretty JSON: Format and Sort JSON"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"gutt",
+						"Preferences: GitGutter Settings"
+					],
+					[
+						"gutte",
+						"Preferences: GitGutter Popup Stylesheet"
+					],
+					[
+						"js",
+						"JsPrettier: Format Code"
+					],
+					[
+						"jspre",
+						"JsPrettier: Format Code"
+					],
+					[
+						"pretti",
+						"JsPrettier: Format Code"
+					],
+					[
+						"con",
+						"ConEmu: Open current file folder"
+					],
+					[
+						"conEm",
+						"ConEmu: Open current file folder"
+					],
+					[
+						"ter",
+						"Terminus: Open ConEmu"
+					],
+					[
+						"prefer",
+						"Preferences: Terminus Command Palette"
+					],
+					[
+						"termi",
+						"Terminus: Open Default Shell in Panel"
+					],
+					[
+						"inde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"prefe",
+						"Preferences: Terminus Command Palette"
+					],
+					[
+						"git ",
+						"Set Syntax: Git Link"
+					],
+					[
+						"git con",
+						"Set Syntax: Git Config"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 536.0,
+				"history":
+				[
+					"3"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/work_bet/front_www/js/src/pages/vip/css/scss/slick.scss",
+				"/D/work_bet/front_www/js/src/pages/vip/css/scss/normalize.scss",
+				"/D/work_bet/front_www/js/src/pages/vip/readMe.html",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/CSS Format.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/CSS Format/CSS Format.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
+				"/D/work_bet/front_www/js/src/pages/vip/vip.html",
+				"/D/work_bet/front_www/js/src/pages/vip/gulpfile.js",
+				"/D/my-work/meta/gulpTasks/default.js",
+				"/D/my-work/meta/gulpTasks/css.js",
+				"/D/my/m-o-d-a/landing/tasks/clean.js",
+				"/D/my/m-o-d-a/landing/tasks/css.js",
+				"/C/Users/JaineKaminsky/Desktop/Screenshot_19.png",
+				"/D/my/m-o-d-a/landing/gulpfile.js",
+				"/D/work_bet/front_www/.source/partners/50/scss/_color_themes.scss",
+				"/D/work_bet/front_www/.source/base/po/_po_50.scss",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/DepositAbon.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/addWallet.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/index.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositWallet.js",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/D/work_bet/front_www/.source/base/po/_po.scss",
+				"/D/work_bet/front_www/.source/base/po/_payment-instrument.scss",
+				"/D/work_bet/front_www/.source/partners/13/scss/_color_themes.scss",
+				"/D/work_bet/front_www/.source/partners/1/scss/_color_themes_favbet.scss",
+				"/D/work_bet/front_www/.source/base/po/_warning-message.scss",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step1/index.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/components/Common/Input.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/index.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/stepTypes.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/components/Common/PanKeeper.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/DepositCard.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/reducers/personalOfficeModal/actions.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/node_modules/redux-actions/lib/index.js",
+				"/D/work_bet/front_www/js/src/basket/node_modules/@storybook/addon-actions/dist/preview/actions.js",
+				"/D/work_bet/front_www/package.json",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/GitGutter.sublime-color-scheme",
+				"/D/work_bet/front_www/partners/1/css/base.css",
+				"/D/work_bet/front_www/partners/13/css/base.css",
+				"/D/work_bet/front_www/partners/15/css/base.css",
+				"/D/work_bet/front_www/partners/18/css/base.css",
+				"/D/work_bet/front_www/partners/19/css/base.css",
+				"/D/work_bet/front_www/partners/20/css/base.css",
+				"/D/work_bet/front_www/partners/30134/css/base.css",
+				"/D/work_bet/front_www/partners/30149/css/base.css",
+				"/D/work_bet/front_www/partners/35/css/base.css",
+				"/D/work_bet/front_www/partners/4/css/base.css",
+				"/D/work_bet/front_www/partners/49/css/base.css",
+				"/D/work_bet/front_www/partners/50/css/base.css",
+				"/D/work_bet/front_www/partners/58/css/base.css",
+				"/D/work_bet/front_www/partners/88/css/base.css",
+				"/D/work_bet/front_www/partners/90/css/base.css",
+				"/D/work_bet/front_www/partners/91/css/base.css",
+				"/D/work_bet/front_www/.source/partners/50/scss/base.scss",
+				"/D/work_bet/front_www/js/src/basket/package.json",
+				"/D/work_bet/front_www/.source/base/po_v2/_po_v2_unknown.scss",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/reducers/balanceModal/actions.js",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Sublimerge 3/Sublimerge 3.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/AutoBackups/AutoBackups (Windows).sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Installed Packages/GitGutter.sublime-package",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
+				"/C/Users/JaineKaminsky/Downloads/Telegram Desktop/ons/mebel_metall.html",
+				"/C/Users/JaineKaminsky/Downloads/Telegram Desktop/ons/index.html",
+				"/C/Users/JaineKaminsky/Desktop/123.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/translate.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/Balance/Wallets/index.js",
+				"/D/work_bet/front_www/js/src/basket/src/components/basket/index.js",
+				"/C/Users/JaineKaminsky/AppData/Roaming/npm/node_modules/prettier/package.json",
+				"/D/work_bet/front_www/js/src/basket/src/modules/loginUser/containers/noAuth/rootNoAuth.js",
+				"/D/work_bet/front_www/js/src/basket/src/modules/auth/components/NoAuth/index.js",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Babel.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-commands",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-menu",
+				"/C/Program Files/Sublime Text 3/Packages/CSS.sublime-package",
+				"/C/Program Files/Sublime Text 3/Packages/PHP.sublime-package",
+				"/C/Program Files/Sublime Text 3/Packages/Python.sublime-package",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Terminus/Default.sublime-commands",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/ConEmu.xml",
+				"/D/work_bet/front_tpl/.git/config",
+				"/D/work_bet/front_www/.git/config",
+				"/D/work_bet/core/.git/config",
+				"/D/work_bet/front_tpl/.git/packed-refs",
+				"/D/work_bet/front_tpl/.git/description",
+				"/D/work_bet/core/src/components/common/Button/index.module.css",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/AutoBackups (Windows).sublime-settings",
+				"/C/Users/JaineKaminsky/package.json",
+				"/C/Users/JaineKaminsky/.babel.json"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 125.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"true",
+					"false"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/ColorHelper/color_helper.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8834,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1050,
+										1074
+									]
+								],
+								"settings":
+								{
+									"color_helper.box_height": 18,
+									"color_helper.color_scheme": "Packages/gruvbox/gruvbox (Dark) (Medium).sublime-color-scheme",
+									"color_helper.file_palette":
+									[
+									],
+									"color_helper.preview_meta":
+									{
+									},
+									"color_helper.scan":
+									{
+										"current_ext": ".sublime-settings",
+										"current_syntax": "zzz A File Icon zzz/aliases/JSON (Sublime)",
+										"enabled": false,
+										"last_updated": 1576592664.97
+									},
+									"edit_settings_other_view_id": 101,
+									"edit_settings_view": "base",
+									"git_gutter_is_enabled": false,
+									"mini_diff": false,
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 189.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 1,
+							"file": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/color_helper.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 146,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										142,
+										142
+									]
+								],
+								"settings":
+								{
+									"color_helper.box_height": 18,
+									"color_helper.color_scheme": "Packages/gruvbox/gruvbox (Dark) (Medium).sublime-color-scheme",
+									"color_helper.file_palette":
+									[
+									],
+									"color_helper.preview_meta":
+									{
+									},
+									"color_helper.scan":
+									{
+										"current_ext": ".sublime-settings",
+										"current_syntax": "zzz A File Icon zzz/aliases/JSON (Sublime)",
+										"enabled": false,
+										"last_updated": 1576592664.97
+									},
+									"edit_settings_default": "// Settings in here override those in \"ColorHelper/color_helper.sublime-settings\",\n\n{\n\t\n}\n",
+									"edit_settings_other_view_id": 100,
+									"edit_settings_view": "user",
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 47.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.Terminus":
+			{
+				"height": 139.0
+			},
+			"output.Terminus 2":
+			{
+				"height": 288.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 455.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,1060,26,26,1898",
+			"project": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 334.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 109,
+			"workspace_name": ""
 		}
 	],
 	"workspaces":

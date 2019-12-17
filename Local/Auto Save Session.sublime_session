@@ -8,7 +8,7 @@
 		"/D/work_bet/mobile"
 	],
 	"last_version": 3211,
-	"last_window_id": 103,
+	"last_window_id": 106,
 	"log_indexing": false,
 	"settings":
 	{
@@ -52,6 +52,18 @@
 				"selected_items":
 				[
 					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"pre",
+						"JsPrettier: Format Code"
+					],
+					[
 						"rei",
 						"Indentation: Reindent Lines"
 					],
@@ -78,10 +90,6 @@
 					[
 						"ena",
 						"Package Control: Enable Package"
-					],
-					[
-						"disa",
-						"Package Control: Disable Package"
 					],
 					[
 						"expo",
@@ -160,10 +168,6 @@
 						"Package Control: Remove Package"
 					],
 					[
-						"rein",
-						"Indentation: Reindent Lines"
-					],
-					[
 						"dis",
 						"Package Control: Disable Package"
 					],
@@ -186,10 +190,6 @@
 					[
 						"gutte",
 						"Preferences: GitGutter Popup Stylesheet"
-					],
-					[
-						"pre",
-						"JsPrettier: Format Code"
 					],
 					[
 						"js",
@@ -261,6 +261,9 @@
 			},
 			"file_history":
 			[
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
 				"/D/work_bet/front_www/js/src/pages/vip/vip.html",
 				"/D/work_bet/front_www/js/src/pages/vip/gulpfile.js",
 				"/D/my-work/meta/gulpTasks/default.js",
@@ -277,7 +280,6 @@
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/index.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositWallet.js",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
 				"/D/work_bet/front_www/.source/base/po/_po.scss",
 				"/D/work_bet/front_www/.source/base/po/_payment-instrument.scss",
@@ -286,7 +288,6 @@
 				"/D/work_bet/front_www/.source/base/po/_warning-message.scss",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step1/index.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/components/Common/Input.js",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/index.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/stepTypes.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/components/Common/PanKeeper.js",
@@ -368,28 +369,6 @@
 				"height": 125.0,
 				"where_history":
 				[
-					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\BalanceModal",
-					"D:\\work_bet\\front_www\\.source",
-					"D:\\work_bet\\front_www\\.source\\base",
-					"D:\\work_bet\\front_www\\.source\\base\\po",
-					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\BalanceModal",
-					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\Balance",
-					"D:\\work_bet\\front_www\\.source\\base",
-					"D:\\work_bet\\front_www\\.source\\base\\po_v2",
-					"D:\\work_bet\\front_www\\.source\\base",
-					"D:\\work_bet\\front_www\\.source\\base\\po",
-					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\BalanceModal",
-					"D:\\work_bet\\front_www\\.source\\partners\\50\\scss",
-					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\BalanceModal\\views\\Step2",
-					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\BalanceModal",
-					"D:\\work_bet\\front_www\\js\\src\\basket\\src",
-					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src",
-					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers",
-					"D:\\work_bet\\front_www\\js\\src\\basket\\src",
-					"D:\\work_bet\\front_www\\js\\src\\basket",
-					"C:\\Program Files\\Sublime Text 3\\Packages",
-					"C:\\Users\\JaineKaminsky\\AppData\\Roaming\\Sublime Text 3\\",
-					"C:\\Users\\JaineKaminsky\\AppData\\Roaming\\Sublime Text 3\\Packages"
 				]
 			},
 			"find_state":
@@ -397,92 +376,7 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"вуиг",
-					"handleDeposit",
-					"handleSubmit",
-					"handleDeposit",
-					"setisDisableDepositBtn",
-					"isActiveDepositBtn",
-					"onChangeError",
-					"handleSubmit",
-					"color",
-					"@mixin color2wh ",
-					"@mixin color2wh {\nimport ",
-					"import ",
-					"color_themes_favbet",
-					"color2wh",
-					"submit_data_wallet_btn",
-					"@mixin",
-					"color2wh",
-					"@mixin color2wh",
-					"color2wh",
-					"submit_data_wallet_btn",
-					"import ",
-					"import",
-					"color2wh",
-					"submit_data_wallet_btn",
-					"disabled",
-					"checkCouponAbon",
-					"!!!",
-					"111",
-					"sss",
-					"checkAcceptAbon",
-					"DepositAbon",
-					"isActiveDepositBtn",
-					"create",
-					"submit",
-					"subm",
-					"wallet_account_id",
-					"input",
-					"autoAmountList",
-					"item",
-					"add_de",
-					"deposit_select",
-					"autoAmountList",
-					"depos",
-					"deb",
-					"pattern",
-					"patternMess",
-					"patternWall",
-					"pattern",
-					"patter",
-					"vali",
-					"onChangeError",
-					"err",
-					"vali",
-					"depos",
-					"handleSubmit",
-					"mini_",
-					"mini",
-					"show",
-					"hunk",
-					"selectwalletWrap",
-					"depositOptions",
-					"isSelectDisabled",
-					"favbetonline.hr",
-					"esli",
-					"уыдште",
-					"item--price--txt",
-					"walletId",
-					"wallet",
-					"replace",
-					"num_wallet",
-					"paymentInstrumentName",
-					"wallet",
-					"walletId",
-					"onli",
-					"auth",
-					"custom_file_extensions",
-					"inline",
-					"штдшту",
-					"custom_file_extensions ",
-					"not_login",
-					"double",
-					"conemu.exe",
-					"ConEmu.exe",
-					"cmd.exe",
-					"Terminus",
-					"кукьштгы"
+					"post"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -490,8 +384,6 @@
 				"regex": false,
 				"replace_history":
 				[
-					"setIsDisableDepositBtn",
-					"isDisableDepositBtn"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -564,7 +456,7 @@
 			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
-			"side_bar_visible": true,
+			"side_bar_visible": false,
 			"side_bar_width": 334.0,
 			"status_bar_visible": true,
 			"template_settings":
@@ -605,24 +497,11 @@
 			"buffers":
 			[
 				{
-					"contents": "[\n\t{ \"keys\": [\"ctrl+shift+n\"], \"command\": \"new_window\" },\n\t{ \"keys\": [\"ctrl+shift+w\"], \"command\": \"close_window\" },\n\t{ \"keys\": [\"ctrl+o\"], \"command\": \"prompt_open_file\" },\n\t{ \"keys\": [\"ctrl+shift+t\"], \"command\": \"reopen_last_file\" },\n\t{ \"keys\": [\"alt+o\"], \"command\": \"switch_file\", \"args\": {\"extensions\": [\"cpp\", \"cxx\", \"cc\", \"c\", \"hpp\", \"hxx\", \"hh\", \"h\", \"ipp\", \"inl\", \"m\", \"mm\"]} },\n\t{ \"keys\": [\"ctrl+n\"], \"command\": \"new_file\" },\n\t{ \"keys\": [\"ctrl+s\"], \"command\": \"save\" },\n\t{ \"keys\": [\"ctrl+shift+s\"], \"command\": \"prompt_save_as\" },\n\t{ \"keys\": [\"ctrl+f4\"], \"command\": \"close_file\" },\n\t{ \"keys\": [\"ctrl+w\"], \"command\": \"close\" },\n\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+b\"], \"command\": \"toggle_side_bar\" },\n\t{ \"keys\": [\"f11\"], \"command\": \"toggle_full_screen\" },\n\t{ \"keys\": [\"shift+f11\"], \"command\": \"toggle_distraction_free\" },\n\n\t{ \"keys\": [\"backspace\"], \"command\": \"left_delete\" },\n\t{ \"keys\": [\"shift+backspace\"], \"command\": \"left_delete\" },\n\t{ \"keys\": [\"ctrl+shift+backspace\"], \"command\": \"left_delete\" },\n\t{ \"keys\": [\"delete\"], \"command\": \"right_delete\" },\n\t{ \"keys\": [\"enter\"], \"command\": \"insert\", \"args\": {\"characters\": \"\\n\"} },\n\t{ \"keys\": [\"shift+enter\"], \"command\": \"insert\", \"args\": {\"characters\": \"\\n\"} },\n\n\t{ \"keys\": [\"ctrl+z\"], \"command\": \"undo\" },\n\t{ \"keys\": [\"ctrl+shift+z\"], \"command\": \"redo\" },\n\t{ \"keys\": [\"ctrl+y\"], \"command\": \"redo_or_repeat\" },\n\t{ \"keys\": [\"ctrl+u\"], \"command\": \"soft_undo\" },\n\t{ \"keys\": [\"ctrl+shift+u\"], \"command\": \"soft_redo\" },\n\n\t{ \"keys\": [\"shift+delete\"], \"command\": \"cut\" },\n\t{ \"keys\": [\"ctrl+insert\"], \"command\": \"copy\" },\n\t{ \"keys\": [\"shift+insert\"], \"command\": \"paste\" },\n\t{ \"keys\": [\"ctrl+x\"], \"command\": \"cut\" },\n\t{ \"keys\": [\"ctrl+c\"], \"command\": \"copy\" },\n\t{ \"keys\": [\"ctrl+v\"], \"command\": \"paste\" },\n\t{ \"keys\": [\"ctrl+shift+v\"], \"command\": \"paste_and_indent\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+v\"], \"command\": \"paste_from_history\" },\n\n\t{ \"keys\": [\"left\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": false} },\n\t{ \"keys\": [\"right\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true} },\n\t{ \"keys\": [\"up\"], \"command\": \"move\", \"args\": {\"by\": \"lines\", \"forward\": false} },\n\t{ \"keys\": [\"down\"], \"command\": \"move\", \"args\": {\"by\": \"lines\", \"forward\": true} },\n\t{ \"keys\": [\"shift+left\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": false, \"extend\": true} },\n\t{ \"keys\": [\"shift+right\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true, \"extend\": true} },\n\t{ \"keys\": [\"shift+up\"], \"command\": \"move\", \"args\": {\"by\": \"lines\", \"forward\": false, \"extend\": true} },\n\t{ \"keys\": [\"shift+down\"], \"command\": \"move\", \"args\": {\"by\": \"lines\", \"forward\": true, \"extend\": true} },\n\n\t{ \"keys\": [\"ctrl+left\"], \"command\": \"move\", \"args\": {\"by\": \"words\", \"forward\": false} },\n\t{ \"keys\": [\"ctrl+right\"], \"command\": \"move\", \"args\": {\"by\": \"word_ends\", \"forward\": true} },\n\t{ \"keys\": [\"ctrl+shift+left\"], \"command\": \"move\", \"args\": {\"by\": \"words\", \"forward\": false, \"extend\": true} },\n\t{ \"keys\": [\"ctrl+shift+right\"], \"command\": \"move\", \"args\": {\"by\": \"word_ends\", \"forward\": true, \"extend\": true} },\n\n\t{ \"keys\": [\"alt+left\"], \"command\": \"move\", \"args\": {\"by\": \"subwords\", \"forward\": false} },\n\t{ \"keys\": [\"alt+right\"], \"command\": \"move\", \"args\": {\"by\": \"subword_ends\", \"forward\": true} },\n\t{ \"keys\": [\"alt+shift+left\"], \"command\": \"move\", \"args\": {\"by\": \"subwords\", \"forward\": false, \"extend\": true} },\n\t{ \"keys\": [\"alt+shift+right\"], \"command\": \"move\", \"args\": {\"by\": \"subword_ends\", \"forward\": true, \"extend\": true} },\n\n\t{ \"keys\": [\"ctrl+alt+up\"], \"command\": \"select_lines\", \"args\": {\"forward\": false} },\n\t{ \"keys\": [\"ctrl+alt+down\"], \"command\": \"select_lines\", \"args\": {\"forward\": true} },\n\n\t{ \"keys\": [\"pageup\"], \"command\": \"move\", \"args\": {\"by\": \"pages\", \"forward\": false} },\n\t{ \"keys\": [\"pagedown\"], \"command\": \"move\", \"args\": {\"by\": \"pages\", \"forward\": true} },\n\t{ \"keys\": [\"shift+pageup\"], \"command\": \"move\", \"args\": {\"by\": \"pages\", \"forward\": false, \"extend\": true} },\n\t{ \"keys\": [\"shift+pagedown\"], \"command\": \"move\", \"args\": {\"by\": \"pages\", \"forward\": true, \"extend\": true} },\n\n\t{ \"keys\": [\"home\"], \"command\": \"move_to\", \"args\": {\"to\": \"bol\", \"extend\": false} },\n\t{ \"keys\": [\"end\"], \"command\": \"move_to\", \"args\": {\"to\": \"eol\", \"extend\": false} },\n\t{ \"keys\": [\"shift+home\"], \"command\": \"move_to\", \"args\": {\"to\": \"bol\", \"extend\": true} },\n\t{ \"keys\": [\"shift+end\"], \"command\": \"move_to\", \"args\": {\"to\": \"eol\", \"extend\": true} },\n\t{ \"keys\": [\"ctrl+home\"], \"command\": \"move_to\", \"args\": {\"to\": \"bof\", \"extend\": false} },\n\t{ \"keys\": [\"ctrl+end\"], \"command\": \"move_to\", \"args\": {\"to\": \"eof\", \"extend\": false} },\n\t{ \"keys\": [\"ctrl+shift+home\"], \"command\": \"move_to\", \"args\": {\"to\": \"bof\", \"extend\": true} },\n\t{ \"keys\": [\"ctrl+shift+end\"], \"command\": \"move_to\", \"args\": {\"to\": \"eof\", \"extend\": true} },\n\n\n\t{ \"keys\": [\"ctrl+up\"], \"command\": \"scroll_lines\", \"args\": {\"amount\": 1.0 } },\n\t{ \"keys\": [\"ctrl+down\"], \"command\": \"scroll_lines\", \"args\": {\"amount\": -1.0 } },\n\n\t{ \"keys\": [\"ctrl+pagedown\"], \"command\": \"next_view\" },\n\t{ \"keys\": [\"ctrl+pageup\"], \"command\": \"prev_view\" },\n\n\t{ \"keys\": [\"ctrl+tab\"], \"command\": \"next_view_in_stack\" },\n\t{ \"keys\": [\"ctrl+shift+tab\"], \"command\": \"prev_view_in_stack\" },\n\n\t{ \"keys\": [\"ctrl+a\"], \"command\": \"select_all\" },\n\t{ \"keys\": [\"ctrl+shift+l\"], \"command\": \"split_selection_into_lines\" },\n\t{ \"keys\": [\"escape\"], \"command\": \"single_selection\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"num_selections\", \"operator\": \"not_equal\", \"operand\": 1 }\n\t\t]\n\t},\n\t{ \"keys\": [\"escape\"], \"command\": \"clear_fields\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"has_next_field\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"escape\"], \"command\": \"clear_fields\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"has_prev_field\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"escape\"], \"command\": \"hide_panel\", \"args\": {\"cancel\": true},\n\t\t\"context\":\n\t\t[\n\t\t\t{ \"key\": \"panel_visible\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"escape\"], \"command\": \"hide_overlay\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"overlay_visible\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"escape\"], \"command\": \"hide_popup\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"popup_visible\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"escape\"], \"command\": \"hide_auto_complete\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"auto_complete_visible\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\n\t{ \"keys\": [\"tab\"], \"command\": \"insert_best_completion\", \"args\": {\"default\": \"\\t\", \"exact\": true} },\n\t{ \"keys\": [\"tab\"], \"command\": \"insert_best_completion\", \"args\": {\"default\": \"\\t\", \"exact\": false},\n\t\t\"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.tab_completion\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"not_regex_match\", \"operand\": \".*\\\\b[0-9]+$\", \"match_all\": true },\n\t\t]\n\t},\n\t{ \"keys\": [\"tab\"], \"command\": \"replace_completion_with_next_completion\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"last_command\", \"operator\": \"equal\", \"operand\": \"insert_best_completion\" },\n\t\t\t{ \"key\": \"setting.tab_completion\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"tab\"], \"command\": \"reindent\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_match\", \"operand\": \"^$\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_match\", \"operand\": \"^$\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"tab\"], \"command\": \"indent\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"text\", \"operator\": \"regex_contains\", \"operand\": \"\\n\" }\n\t\t]\n\t},\n\t{ \"keys\": [\"tab\"], \"command\": \"next_field\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"has_next_field\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"tab\"], \"command\": \"commit_completion\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"auto_complete_visible\" },\n\t\t\t{ \"key\": \"setting.auto_complete_commit_on_tab\" }\n\t\t]\n\t},\n\n\t{ \"keys\": [\"shift+tab\"], \"command\": \"insert\", \"args\": {\"characters\": \"\\t\"} },\n\t{ \"keys\": [\"shift+tab\"], \"command\": \"unindent\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.shift_tab_unindent\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"shift+tab\"], \"command\": \"unindent\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_match\", \"operand\": \"^[\\t ]*\" }\n\t\t]\n\t},\n\t{ \"keys\": [\"shift+tab\"], \"command\": \"unindent\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"text\", \"operator\": \"regex_contains\", \"operand\": \"\\n\" }\n\t\t]\n\t},\n\t{ \"keys\": [\"shift+tab\"], \"command\": \"prev_field\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"has_prev_field\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\n\t{ \"keys\": [\"ctrl+]\"], \"command\": \"indent\" },\n\t{ \"keys\": [\"ctrl+[\"], \"command\": \"unindent\" },\n\n\t{ \"keys\": [\"insert\"], \"command\": \"toggle_overwrite\" },\n\n\t{ \"keys\": [\"ctrl+l\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"line\"} },\n\t{ \"keys\": [\"ctrl+d\"], \"command\": \"find_under_expand\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+d\"], \"command\": \"find_under_expand_skip\" },\n\t{ \"keys\": [\"ctrl+shift+space\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"scope\"} },\n\t{ \"keys\": [\"ctrl+shift+m\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"brackets\"} },\n\t{ \"keys\": [\"ctrl+m\"], \"command\": \"move_to\", \"args\": {\"to\": \"brackets\"} },\n\t{ \"keys\": [\"ctrl+shift+j\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"indentation\"} },\n\t{ \"keys\": [\"ctrl+shift+a\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"tag\"} },\n\n\t{ \"keys\": [\"alt+.\"], \"command\": \"close_tag\" },\n\n\t{ \"keys\": [\"ctrl+q\"], \"command\": \"toggle_record_macro\" },\n\t{ \"keys\": [\"ctrl+shift+q\"], \"command\": \"run_macro\" },\n\n\t{ \"keys\": [\"ctrl+enter\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Add Line.sublime-macro\"} },\n\t{ \"keys\": [\"ctrl+shift+enter\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Add Line Before.sublime-macro\"} },\n\t{ \"keys\": [\"enter\"], \"command\": \"commit_completion\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"auto_complete_visible\" },\n\t\t\t{ \"key\": \"setting.auto_complete_commit_on_tab\", \"operand\": false }\n\t\t]\n\t},\n\n\t{ \"keys\": [\"ctrl+p\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"goto\", \"show_files\": true} },\n\t{ \"keys\": [\"ctrl+shift+p\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"command_palette\"} },\n\t{ \"keys\": [\"ctrl+r\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"goto\", \"text\": \"@\"} },\n\t{ \"keys\": [\"ctrl+g\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"goto\", \"text\": \":\"} },\n\t{ \"keys\": [\"ctrl+;\"], \"command\": \"show_overlay\", \"args\": {\"overlay\": \"goto\", \"text\": \"#\"} },\n\t{ \"keys\": [\"f12\"], \"command\": \"goto_definition\" },\n\t{ \"keys\": [\"shift+f12\"], \"command\": \"goto_reference\" },\n\t{ \"keys\": [\"ctrl+shift+r\"], \"command\": \"goto_symbol_in_project\" },\n\t{ \"keys\": [\"alt+keypad_minus\"], \"command\": \"jump_back\" },\n\t{ \"keys\": [\"alt+shift+keypad_minus\"], \"command\": \"jump_forward\" },\n\t{ \"keys\": [\"alt+-\"], \"command\": \"jump_back\" },\n\t{ \"keys\": [\"alt+shift+-\"], \"command\": \"jump_forward\" },\n\n\t{ \"keys\": [\"ctrl+i\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"incremental_find\", \"reverse\": false} },\n\t{ \"keys\": [\"ctrl+shift+i\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"incremental_find\", \"reverse\": true} },\n\t{ \"keys\": [\"ctrl+f\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"find\", \"reverse\": false} },\n\t{ \"keys\": [\"ctrl+h\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"replace\", \"reverse\": false} },\n\t{ \"keys\": [\"ctrl+shift+h\"], \"command\": \"replace_next\" },\n\t{ \"keys\": [\"f3\"], \"command\": \"find_next\" },\n\t{ \"keys\": [\"shift+f3\"], \"command\": \"find_prev\" },\n\t{ \"keys\": [\"ctrl+f3\"], \"command\": \"find_under\" },\n\t{ \"keys\": [\"ctrl+shift+f3\"], \"command\": \"find_under_prev\" },\n\t{ \"keys\": [\"alt+f3\"], \"command\": \"find_all_under\" },\n\t{ \"keys\": [\"ctrl+e\"], \"command\": \"slurp_find_string\" },\n\t{ \"keys\": [\"ctrl+shift+e\"], \"command\": \"slurp_replace_string\" },\n\t{ \"keys\": [\"ctrl+shift+f\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"find_in_files\"} },\n\t{ \"keys\": [\"f4\"], \"command\": \"next_result\" },\n\t{ \"keys\": [\"shift+f4\"], \"command\": \"prev_result\" },\n\n\t{ \"keys\": [\"ctrl+.\"], \"command\": \"next_modification\" },\n\t{ \"keys\": [\"ctrl+,\"], \"command\": \"prev_modification\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+z\"], \"command\": \"revert_modification\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+/\"], \"command\": \"toggle_inline_diff\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+;\"], \"command\": \"toggle_inline_diff\", \"args\": { \"prefer_hide\": true } },\n\n\t{ \"keys\": [\"f6\"], \"command\": \"toggle_setting\", \"args\": {\"setting\": \"spell_check\"} },\n\t{ \"keys\": [\"ctrl+f6\"], \"command\": \"next_misspelling\" },\n\t{ \"keys\": [\"ctrl+shift+f6\"], \"command\": \"prev_misspelling\" },\n\n\t{ \"keys\": [\"ctrl+shift+up\"], \"command\": \"swap_line_up\" },\n\t{ \"keys\": [\"ctrl+shift+down\"], \"command\": \"swap_line_down\" },\n\n\t{ \"keys\": [\"ctrl+backspace\"], \"command\": \"delete_word\", \"args\": { \"forward\": false } },\n\t{ \"keys\": [\"ctrl+shift+backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete to Hard BOL.sublime-macro\"} },\n\n\t{ \"keys\": [\"ctrl+delete\"], \"command\": \"delete_word\", \"args\": { \"forward\": true } },\n\t{ \"keys\": [\"ctrl+shift+delete\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete to Hard EOL.sublime-macro\"} },\n\n\t{ \"keys\": [\"ctrl+/\"], \"command\": \"toggle_comment\", \"args\": { \"block\": false } },\n\t{ \"keys\": [\"ctrl+shift+/\"], \"command\": \"toggle_comment\", \"args\": { \"block\": true } },\n\n\t{ \"keys\": [\"ctrl+j\"], \"command\": \"join_lines\" },\n\t{ \"keys\": [\"ctrl+shift+d\"], \"command\": \"duplicate_line\" },\n\n\t{ \"keys\": [\"ctrl+`\"], \"command\": \"show_panel\", \"args\": {\"panel\": \"console\", \"toggle\": true} },\n\n\t{ \"keys\": [\"ctrl+space\"], \"command\": \"auto_complete\" },\n\t{ \"keys\": [\"ctrl+space\"], \"command\": \"replace_completion_with_auto_complete\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"last_command\", \"operator\": \"equal\", \"operand\": \"insert_best_completion\" },\n\t\t\t{ \"key\": \"auto_complete_visible\", \"operator\": \"equal\", \"operand\": false },\n\t\t\t{ \"key\": \"setting.tab_completion\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\n\t{ \"keys\": [\"ctrl+alt+shift+p\"], \"command\": \"show_scope_name\" },\n\n\t{ \"keys\": [\"f7\"], \"command\": \"build\" },\n\t{ \"keys\": [\"ctrl+b\"], \"command\": \"build\" },\n\t{ \"keys\": [\"ctrl+shift+b\"], \"command\": \"build\", \"args\": {\"select\": true} },\n\t{ \"keys\": [\"ctrl+break\"], \"command\": \"cancel_build\" },\n\n\t{ \"keys\": [\"ctrl+t\"], \"command\": \"transpose\" },\n\n\t{ \"keys\": [\"f9\"], \"command\": \"sort_lines\", \"args\": {\"case_sensitive\": false} },\n\t{ \"keys\": [\"ctrl+f9\"], \"command\": \"sort_lines\", \"args\": {\"case_sensitive\": true} },\n\n\t// Auto-pair quotes\n\t{ \"keys\": [\"\\\"\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"\\\"$0\\\"\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|\\\\}|>|$)\", \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"not_regex_contains\", \"operand\": \"[\\\"a-zA-Z0-9_]$\", \"match_all\": true },\n\t\t\t{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.double - punctuation.definition.string.end\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"\\\"\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"\\\"${0:$SELECTION}\\\"\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"\\\"\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\"\", \"match_all\": true },\n\t\t\t{ \"key\": \"selector\", \"operator\": \"not_equal\", \"operand\": \"punctuation.definition.string.begin\", \"match_all\": true },\n\t\t\t{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.double - punctuation.definition.string.end\", \"match_all\": true },\n\t\t]\n\t},\n\t{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\"$\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\"\", \"match_all\": true },\n\t\t\t{ \"key\": \"selector\", \"operator\": \"not_equal\", \"operand\": \"punctuation.definition.string.begin\", \"match_all\": true },\n\t\t\t{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.double - punctuation.definition.string.end\", \"match_all\": true },\n\t\t]\n\t},\n\n\t// Auto-pair single quotes\n\t{ \"keys\": [\"'\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"'$0'\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|\\\\}|>|$)\", \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"not_regex_contains\", \"operand\": \"['a-zA-Z0-9_]$\", \"match_all\": true },\n\t\t\t{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.single - punctuation.definition.string.end\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"'\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"'${0:$SELECTION}'\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"'\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^'\", \"match_all\": true },\n\t\t\t{ \"key\": \"selector\", \"operator\": \"not_equal\", \"operand\": \"punctuation.definition.string.begin\", \"match_all\": true },\n\t\t\t{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.single - punctuation.definition.string.end\", \"match_all\": true },\n\t\t]\n\t},\n\t{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"'$\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^'\", \"match_all\": true },\n\t\t\t{ \"key\": \"selector\", \"operator\": \"not_equal\", \"operand\": \"punctuation.definition.string.begin\", \"match_all\": true },\n\t\t\t{ \"key\": \"eol_selector\", \"operator\": \"not_equal\", \"operand\": \"string.quoted.single - punctuation.definition.string.end\", \"match_all\": true },\n\t\t]\n\t},\n\n\t// Auto-pair brackets\n\t{ \"keys\": [\"(\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"($0)\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|;|\\\\}|$)\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"(\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"(${0:$SELECTION})\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\")\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\)\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\($\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\)\", \"match_all\": true }\n\t\t]\n\t},\n\n\t// Auto-pair square brackets\n\t{ \"keys\": [\"[\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"[$0]\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|;|\\\\}|$)\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"[\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"[${0:$SELECTION}]\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"]\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\]\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\[$\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\]\", \"match_all\": true }\n\t\t]\n\t},\n\n\t// Auto-pair curly brackets\n\t{ \"keys\": [\"{\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"{$0}\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^(?:\\t| |\\\\)|]|\\\\}|$)\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"{\"], \"command\": \"wrap_block\", \"args\": {\"begin\": \"{\", \"end\": \"}\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"indented_block\", \"match_all\": true },\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_match\", \"operand\": \"^$\", \"match_all\": true },\n\t\t]\n\t},\n\t{ \"keys\": [\"{\"], \"command\": \"insert_snippet\", \"args\": {\"contents\": \"{${0:$SELECTION}}\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": false, \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"}\"], \"command\": \"move\", \"args\": {\"by\": \"characters\", \"forward\": true}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\}\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Left Right.sublime-macro\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_match_enabled\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\{$\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\}\", \"match_all\": true }\n\t\t]\n\t},\n\n\t{ \"keys\": [\"enter\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Add Line in Braces.sublime-macro\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\{$\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\}\", \"match_all\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"shift+enter\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Add Line in Braces.sublime-macro\"}, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \"\\\\{$\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^\\\\}\", \"match_all\": true }\n\t\t]\n\t},\n\n\t{ \"keys\": [\"enter\"], \"command\": \"auto_indent_tag\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"selector\", \"operator\": \"equal\", \"operand\": \"punctuation.definition.tag.begin\", \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \">$\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^</\", \"match_all\": true },\n\t\t]\n\t},\n\t{ \"keys\": [\"shift+enter\"], \"command\": \"auto_indent_tag\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.auto_indent\", \"operator\": \"equal\", \"operand\": true },\n\t\t\t{ \"key\": \"selection_empty\", \"operator\": \"equal\", \"operand\": true, \"match_all\": true },\n\t\t\t{ \"key\": \"selector\", \"operator\": \"equal\", \"operand\": \"punctuation.definition.tag.begin\", \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_contains\", \"operand\": \">$\", \"match_all\": true },\n\t\t\t{ \"key\": \"following_text\", \"operator\": \"regex_contains\", \"operand\": \"^</\", \"match_all\": true },\n\t\t]\n\t},\n\n\t{\n\t\t\"keys\": [\"alt+shift+1\"],\n\t\t\"command\": \"set_layout\",\n\t\t\"args\":\n\t\t{\n\t\t\t\"cols\": [0.0, 1.0],\n\t\t\t\"rows\": [0.0, 1.0],\n\t\t\t\"cells\": [[0, 0, 1, 1]]\n\t\t}\n\t},\n\t{\n\t\t\"keys\": [\"alt+shift+2\"],\n\t\t\"command\": \"set_layout\",\n\t\t\"args\":\n\t\t{\n\t\t\t\"cols\": [0.0, 0.5, 1.0],\n\t\t\t\"rows\": [0.0, 1.0],\n\t\t\t\"cells\": [[0, 0, 1, 1], [1, 0, 2, 1]]\n\t\t}\n\t},\n\t{\n\t\t\"keys\": [\"alt+shift+3\"],\n\t\t\"command\": \"set_layout\",\n\t\t\"args\":\n\t\t{\n\t\t\t\"cols\": [0.0, 0.33, 0.66, 1.0],\n\t\t\t\"rows\": [0.0, 1.0],\n\t\t\t\"cells\": [[0, 0, 1, 1], [1, 0, 2, 1], [2, 0, 3, 1]]\n\t\t}\n\t},\n\t{\n\t\t\"keys\": [\"alt+shift+4\"],\n\t\t\"command\": \"set_layout\",\n\t\t\"args\":\n\t\t{\n\t\t\t\"cols\": [0.0, 0.25, 0.5, 0.75, 1.0],\n\t\t\t\"rows\": [0.0, 1.0],\n\t\t\t\"cells\": [[0, 0, 1, 1], [1, 0, 2, 1], [2, 0, 3, 1], [3, 0, 4, 1]]\n\t\t}\n\t},\n\t{\n\t\t\"keys\": [\"alt+shift+8\"],\n\t\t\"command\": \"set_layout\",\n\t\t\"args\":\n\t\t{\n\t\t\t\"cols\": [0.0, 1.0],\n\t\t\t\"rows\": [0.0, 0.5, 1.0],\n\t\t\t\"cells\": [[0, 0, 1, 1], [0, 1, 1, 2]]\n\t\t}\n\t},\n\t{\n\t\t\"keys\": [\"alt+shift+9\"],\n\t\t\"command\": \"set_layout\",\n\t\t\"args\":\n\t\t{\n\t\t\t\"cols\": [0.0, 1.0],\n\t\t\t\"rows\": [0.0, 0.33, 0.66, 1.0],\n\t\t\t\"cells\": [[0, 0, 1, 1], [0, 1, 1, 2], [0, 2, 1, 3]]\n\t\t}\n\t},\n\t{\n\t\t\"keys\": [\"alt+shift+5\"],\n\t\t\"command\": \"set_layout\",\n\t\t\"args\":\n\t\t{\n\t\t\t\"cols\": [0.0, 0.5, 1.0],\n\t\t\t\"rows\": [0.0, 0.5, 1.0],\n\t\t\t\"cells\":\n\t\t\t[\n\t\t\t\t[0, 0, 1, 1], [1, 0, 2, 1],\n\t\t\t\t[0, 1, 1, 2], [1, 1, 2, 2]\n\t\t\t]\n\t\t}\n\t},\n\t{ \"keys\": [\"ctrl+1\"], \"command\": \"focus_group\", \"args\": { \"group\": 0 } },\n\t{ \"keys\": [\"ctrl+2\"], \"command\": \"focus_group\", \"args\": { \"group\": 1 } },\n\t{ \"keys\": [\"ctrl+3\"], \"command\": \"focus_group\", \"args\": { \"group\": 2 } },\n\t{ \"keys\": [\"ctrl+4\"], \"command\": \"focus_group\", \"args\": { \"group\": 3 } },\n\t{ \"keys\": [\"ctrl+5\"], \"command\": \"focus_group\", \"args\": { \"group\": 4 } },\n\t{ \"keys\": [\"ctrl+6\"], \"command\": \"focus_group\", \"args\": { \"group\": 5 } },\n\t{ \"keys\": [\"ctrl+7\"], \"command\": \"focus_group\", \"args\": { \"group\": 6 } },\n\t{ \"keys\": [\"ctrl+8\"], \"command\": \"focus_group\", \"args\": { \"group\": 7 } },\n\t{ \"keys\": [\"ctrl+9\"], \"command\": \"focus_group\", \"args\": { \"group\": 8 } },\n\t{ \"keys\": [\"ctrl+shift+1\"], \"command\": \"move_to_group\", \"args\": { \"group\": 0 } },\n\t{ \"keys\": [\"ctrl+shift+2\"], \"command\": \"move_to_group\", \"args\": { \"group\": 1 } },\n\t{ \"keys\": [\"ctrl+shift+3\"], \"command\": \"move_to_group\", \"args\": { \"group\": 2 } },\n\t{ \"keys\": [\"ctrl+shift+4\"], \"command\": \"move_to_group\", \"args\": { \"group\": 3 } },\n\t{ \"keys\": [\"ctrl+shift+5\"], \"command\": \"move_to_group\", \"args\": { \"group\": 4 } },\n\t{ \"keys\": [\"ctrl+shift+6\"], \"command\": \"move_to_group\", \"args\": { \"group\": 5 } },\n\t{ \"keys\": [\"ctrl+shift+7\"], \"command\": \"move_to_group\", \"args\": { \"group\": 6 } },\n\t{ \"keys\": [\"ctrl+shift+8\"], \"command\": \"move_to_group\", \"args\": { \"group\": 7 } },\n\t{ \"keys\": [\"ctrl+shift+9\"], \"command\": \"move_to_group\", \"args\": { \"group\": 8 } },\n\t{ \"keys\": [\"ctrl+0\"], \"command\": \"focus_side_bar\" },\n\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+up\"], \"command\": \"new_pane\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+shift+up\"], \"command\": \"new_pane\", \"args\": {\"move\": false} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+down\"], \"command\": \"close_pane\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+left\"], \"command\": \"focus_neighboring_group\", \"args\": {\"forward\": false} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+right\"], \"command\": \"focus_neighboring_group\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+shift+left\"], \"command\": \"move_to_neighboring_group\", \"args\": {\"forward\": false} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+shift+right\"], \"command\": \"move_to_neighboring_group\" },\n\n\t{ \"keys\": [\"alt+1\"], \"command\": \"select_by_index\", \"args\": { \"index\": 0 } },\n\t{ \"keys\": [\"alt+2\"], \"command\": \"select_by_index\", \"args\": { \"index\": 1 } },\n\t{ \"keys\": [\"alt+3\"], \"command\": \"select_by_index\", \"args\": { \"index\": 2 } },\n\t{ \"keys\": [\"alt+4\"], \"command\": \"select_by_index\", \"args\": { \"index\": 3 } },\n\t{ \"keys\": [\"alt+5\"], \"command\": \"select_by_index\", \"args\": { \"index\": 4 } },\n\t{ \"keys\": [\"alt+6\"], \"command\": \"select_by_index\", \"args\": { \"index\": 5 } },\n\t{ \"keys\": [\"alt+7\"], \"command\": \"select_by_index\", \"args\": { \"index\": 6 } },\n\t{ \"keys\": [\"alt+8\"], \"command\": \"select_by_index\", \"args\": { \"index\": 7 } },\n\t{ \"keys\": [\"alt+9\"], \"command\": \"select_by_index\", \"args\": { \"index\": 8 } },\n\t{ \"keys\": [\"alt+0\"], \"command\": \"select_by_index\", \"args\": { \"index\": 9 } },\n\n\t{ \"keys\": [\"f2\"], \"command\": \"next_bookmark\" },\n\t{ \"keys\": [\"shift+f2\"], \"command\": \"prev_bookmark\" },\n\t{ \"keys\": [\"ctrl+f2\"], \"command\": \"toggle_bookmark\" },\n\t{ \"keys\": [\"ctrl+shift+f2\"], \"command\": \"clear_bookmarks\" },\n\t{ \"keys\": [\"alt+f2\"], \"command\": \"select_all_bookmarks\" },\n\n\t{ \"keys\": [\"ctrl+shift+k\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete Line.sublime-macro\"} },\n\n\t{ \"keys\": [\"alt+q\"], \"command\": \"wrap_lines\" },\n\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+u\"], \"command\": \"upper_case\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+l\"], \"command\": \"lower_case\" },\n\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+space\"], \"command\": \"set_mark\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+a\"], \"command\": \"select_to_mark\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+w\"], \"command\": \"delete_to_mark\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+x\"], \"command\": \"swap_with_mark\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+y\"], \"command\": \"yank\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+k\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete to Hard EOL.sublime-macro\"} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+backspace\"], \"command\": \"run_macro_file\", \"args\": {\"file\": \"res://Packages/Default/Delete to Hard BOL.sublime-macro\"} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+g\"], \"command\": \"clear_bookmarks\", \"args\": {\"name\": \"mark\"} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+c\"], \"command\": \"show_at_center\" },\n\n\t{ \"keys\": [\"ctrl++\"], \"command\": \"increase_font_size\" },\n\t{ \"keys\": [\"ctrl+=\"], \"command\": \"increase_font_size\" },\n\t{ \"keys\": [\"ctrl+keypad_plus\"], \"command\": \"increase_font_size\" },\n\t{ \"keys\": [\"ctrl+-\"], \"command\": \"decrease_font_size\" },\n\t{ \"keys\": [\"ctrl+keypad_minus\"], \"command\": \"decrease_font_size\" },\n\n\t{ \"keys\": [\"ctrl+equals\"], \"command\": \"increase_font_size\" },\n\t{ \"keys\": [\"ctrl+shift+equals\"], \"command\": \"decrease_font_size\" },\n\t{ \"keys\": [\"ctrl+shift+keypad_plus\"], \"command\": \"decrease_font_size\" },\n\n\t{ \"keys\": [\"alt+shift+w\"], \"command\": \"insert_snippet\", \"args\": { \"name\": \"Packages/XML/Snippets/long-tag.sublime-snippet\" } },\n\n\t{ \"keys\": [\"ctrl+shift+[\"], \"command\": \"fold\" },\n\t{ \"keys\": [\"ctrl+shift+]\"], \"command\": \"unfold\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+1\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 1} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+2\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 2} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+3\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 3} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+4\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 4} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+5\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 5} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+6\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 6} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+7\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 7} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+8\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 8} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+9\"], \"command\": \"fold_by_level\", \"args\": {\"level\": 9} },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+0\"], \"command\": \"unfold_all\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+j\"], \"command\": \"unfold_all\" },\n\t{ \"keys\": [\"ctrl+k\", \"ctrl+t\"], \"command\": \"fold_tag_attributes\" },\n\n\t{ \"keys\": [\"context_menu\"], \"command\": \"context_menu\" },\n\n\t{ \"keys\": [\"alt+c\"], \"command\": \"toggle_case_sensitive\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.is_widget\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"alt+r\"], \"command\": \"toggle_regex\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.is_widget\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"alt+w\"], \"command\": \"toggle_whole_word\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.is_widget\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\t{ \"keys\": [\"alt+a\"], \"command\": \"toggle_preserve_case\", \"context\":\n\t\t[\n\t\t\t{ \"key\": \"setting.is_widget\", \"operator\": \"equal\", \"operand\": true }\n\t\t]\n\t},\n\n\t// Find panel key bindings\n\t{ \"keys\": [\"enter\"], \"command\": \"find_next\", \"context\":\n\t\t[{\"key\": \"panel\", \"operand\": \"find\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\t{ \"keys\": [\"shift+enter\"], \"command\": \"find_prev\", \"context\":\n\t\t[{\"key\": \"panel\", \"operand\": \"find\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\t{ \"keys\": [\"alt+enter\"], \"command\": \"find_all\", \"args\": {\"close_panel\": true},\n\t\t \"context\": [{\"key\": \"panel\", \"operand\": \"find\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\n\t// Replace panel key bindings\n\t{ \"keys\": [\"enter\"], \"command\": \"find_next\", \"context\":\n\t\t[{\"key\": \"panel\", \"operand\": \"replace\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\t{ \"keys\": [\"shift+enter\"], \"command\": \"find_prev\", \"context\":\n\t\t[{\"key\": \"panel\", \"operand\": \"replace\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\t{ \"keys\": [\"alt+enter\"], \"command\": \"find_all\", \"args\": {\"close_panel\": true},\n\t\t\"context\": [{\"key\": \"panel\", \"operand\": \"replace\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\t{ \"keys\": [\"ctrl+alt+enter\"], \"command\": \"replace_all\", \"args\": {\"close_panel\": true},\n\t\t \"context\": [{\"key\": \"panel\", \"operand\": \"replace\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\n\t// Incremental find panel key bindings\n\t{ \"keys\": [\"enter\"], \"command\": \"hide_panel\", \"context\":\n\t\t[{\"key\": \"panel\", \"operand\": \"incremental_find\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\t{ \"keys\": [\"shift+enter\"], \"command\": \"find_prev\", \"context\":\n\t\t[{\"key\": \"panel\", \"operand\": \"incremental_find\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\t{ \"keys\": [\"alt+enter\"], \"command\": \"find_all\", \"args\": {\"close_panel\": true},\n\t\t\"context\": [{\"key\": \"panel\", \"operand\": \"incremental_find\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\n\t// Find in Files panel key bindings\n\t{ \"keys\": [\"alt+enter\"], \"command\": \"find_all\",\n\t\t \"context\": [{\"key\": \"panel\", \"operand\": \"find_in_files\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\t{ \"keys\": [\"ctrl+alt+enter\"], \"command\": \"replace_all\",\n\t\t \"context\": [{\"key\": \"panel\", \"operand\": \"find_in_files\"}, {\"key\": \"panel_has_focus\"}]\n\t},\n\n\t// HTML, XML close tag\n\t{ \"keys\": [\"/\"], \"command\": \"close_tag\", \"args\": { \"insert_slash\": true }, \"context\":\n\t\t[\n\t\t\t{ \"key\": \"selector\", \"operator\": \"equal\", \"operand\": \"(text.html, text.xml) - string - comment\", \"match_all\": true },\n\t\t\t{ \"key\": \"preceding_text\", \"operator\": \"regex_match\", \"operand\": \".*<$\", \"match_all\": true },\n\t\t\t{ \"key\": \"setting.auto_close_tags\" }\n\t\t]\n\t}\n]\n",
-					"file": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
-					"file_size": -1,
-					"file_write_time": -1,
+					"file": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 					"settings":
 					{
-						"buffer_size": 36660,
-						"line_ending": "Windows",
-						"read_only": true,
-						"scratch": true
-					}
-				},
-				{
-					"file": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-					"settings":
-					{
-						"buffer_size": 3,
-						"line_ending": "Windows"
+						"buffer_size": 997,
+						"line_ending": "Unix"
 					}
 				}
 			],
@@ -637,6 +516,18 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"pre",
+						"JsPrettier: Format Code"
+					],
 					[
 						"rei",
 						"Indentation: Reindent Lines"
@@ -664,10 +555,6 @@
 					[
 						"ena",
 						"Package Control: Enable Package"
-					],
-					[
-						"disa",
-						"Package Control: Disable Package"
 					],
 					[
 						"expo",
@@ -746,10 +633,6 @@
 						"Package Control: Remove Package"
 					],
 					[
-						"rein",
-						"Indentation: Reindent Lines"
-					],
-					[
 						"dis",
 						"Package Control: Disable Package"
 					],
@@ -772,10 +655,6 @@
 					[
 						"gutte",
 						"Preferences: GitGutter Popup Stylesheet"
-					],
-					[
-						"pre",
-						"JsPrettier: Format Code"
 					],
 					[
 						"js",
@@ -847,6 +726,9 @@
 			},
 			"file_history":
 			[
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
 				"/D/work_bet/front_www/js/src/pages/vip/vip.html",
 				"/D/work_bet/front_www/js/src/pages/vip/gulpfile.js",
 				"/D/my-work/meta/gulpTasks/default.js",
@@ -863,7 +745,6 @@
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/index.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositWallet.js",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
 				"/D/work_bet/front_www/.source/base/po/_po.scss",
 				"/D/work_bet/front_www/.source/base/po/_payment-instrument.scss",
@@ -872,7 +753,6 @@
 				"/D/work_bet/front_www/.source/base/po/_warning-message.scss",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step1/index.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/components/Common/Input.js",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/index.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/stepTypes.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/components/Common/PanKeeper.js",
@@ -961,9 +841,7 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"mul",
-					"multy",
-					"curs"
+					"post"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -981,41 +859,8 @@
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 36660,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										459,
-										460
-									]
-								],
-								"settings":
-								{
-									"edit_settings_other_view_id": 79,
-									"edit_settings_view": "base",
-									"git_gutter_is_enabled": false,
-									"mini_diff": false,
-									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
 					]
 				},
 				{
@@ -1023,34 +868,35 @@
 					"sheets":
 					[
 						{
-							"buffer": 1,
-							"file": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+							"buffer": 0,
+							"file": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 3,
+								"buffer_size": 997,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										3,
-										3
+										0,
+										0
 									]
 								],
 								"settings":
 								{
-									"edit_settings_other_view_id": 78,
+									"edit_settings_other_view_id": 138,
 									"edit_settings_view": "user",
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
@@ -1115,7 +961,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,2,-32000,-32000,-1,-1,1060,26,26,1904",
+			"position": "0,0,2,-32000,-32000,-1,-1,1089,14,55,1892",
 			"project": "",
 			"replace":
 			{
@@ -1149,7 +995,7 @@
 				],
 				"width": 0.0
 			},
-			"selected_group": 1,
+			"selected_group": 0,
 			"settings":
 			{
 			},
@@ -1162,7 +1008,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 103,
+			"window_id": 106,
 			"workspace_name": ""
 		},
 		{
@@ -1198,7 +1044,7 @@
 					"file": "/D/work_bet/front_www/js/src/pages/vip/vip.html",
 					"settings":
 					{
-						"buffer_size": 522,
+						"buffer_size": 24123,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -1207,7 +1053,7 @@
 					"file": "/D/work_bet/front_www/js/src/pages/vip/css/scss/vip.scss",
 					"settings":
 					{
-						"buffer_size": 40521,
+						"buffer_size": 40519,
 						"encoding": "UTF-8",
 						"line_ending": "Windows",
 						"name": ".button_wrapper {"
@@ -1224,10 +1070,10 @@
 					}
 				},
 				{
-					"contents": "<!-- <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\" />\n  <title>Vip</title>\n  <link\n  rel=\"stylesheet\"\n  media=\"screen,print\"\n  type=\"text/css\"\n  href=\"./css/vip.min.css\"\n  />\n</head>\n<body>\n  <div id=\"vip_page\">\n    <div class=\"vip_page\"> -->\n      <div class=\"MuiGrid-root MuiGrid-container MuiGrid-justify-xs-center\">\n        <div class=\"MuiGrid-root vip_menu MuiGrid-item MuiGrid-grid-xs-12\">\n          <div>\n            <div class=\"carousel carousel-menu\" dir=\"ltr\">\n              <div>\n                <a\n                href=\"#vip_advantages\"\n                id=\"vip_link_1\"\n                class=\"vip_tab vip_tab_1 vip_tab_active\"\n                tabindex=\"-1\"\n                style=\"width: 100%; display: inline-block;\">\n                Переваги\n              </a>\n            </div>\n\n            <div>\n              <a\n              href=\"#vip_manager\"\n              id=\"vip_link_2\"\n              class=\"vip_tab vip_tab_2 \"\n              tabindex=\"-1\"\n              style=\"width: 100%; display: inline-block;\"\n              >\n              Персональний менеджер\n            </a>\n          </div>\n\n          <div>\n            <a\n            href=\"#vip_shop\"\n            id=\"vip_link_3\"\n            class=\"vip_tab vip_tab_3 \"\n            tabindex=\"-1\"\n            style=\"width: 100%; display: inline-block;\"\n            >VIP-магазин</a\n            >\n          </div>\n\n          <div>\n            <a\n            href=\"#vip_bet\"\n            id=\"vip_link_4\"\n            class=\"vip_tab vip_tab_4 \"\n            tabindex=\"-1\"\n            style=\"width: 100%;display: inline-block;\"\n            >VIP-Ставка</a\n            >\n          </div>\n\n          <div>\n            <a\n            href=\"#vip_limits\"\n            id=\"vip_link_5\"\n            class=\"vip_tab vip_tab_5 \"\n            tabindex=\"-1\"\n            style=\"width: 100%; display: inline-block;\"\n            >Ліміти на виведення\n          </a>\n        </div>\n\n        <div>\n          <a\n          href=\"#vip_cashback\"\n          id=\"vip_link_6\"\n          class=\"vip_tab vip_tab_6 \"\n          tabindex=\"-1\"\n          style=\"width: 100%; display: inline-block;\"\n          >Кешбек</a\n          >\n        </div>\n\n        <div>\n          <a\n          href=\"#vip_club\"\n          id=\"vip_link_7\"\n          class=\"vip_tab vip_tab_7 \"\n          tabindex=\"-1\"\n          style=\"width: 100%; display: inline-block;\"\n          >VIP-клуб</a\n          >\n        </div>\n\n        <div>\n          <a\n          href=\"#vip_contacts\"\n          id=\"vip_link_8\"\n          class=\"vip_tab vip_tab_8 \"\n          tabindex=\"-1\"\n          style=\"width: 100%; display: inline-block;\"\n          >Контакти\n        </a>\n      </div>\n    </div>\n  </div>\n</div>\n<div class=\"MuiGrid-root vip_header MuiGrid-item MuiGrid-grid-xs-12\">\n  <div class=\"vip_headerInner\">\n    <div class=\"vip_title\">\n      <h1>Premium можливості для VIP-гравців</h1>\n      <p>\n        В знак нашої вдячності за Ваш вибір і лояльність. Ми раді, що\n        Ви з нами.\n      </p>\n      <div class=\"button_wrapper\">\n        <a class=\"contact_button chat_button\"></a>\n        <a class=\"contact_button web_button\"></a>\n      </div>\n    </div>\n  </div>\n</div>\n<div class=\"MuiGrid-root vip_wrapp MuiGrid-item MuiGrid-grid-xs-12\">\n  <div\n  class=\"MuiGrid-root MuiGrid-container MuiGrid-justify-xs-center\"\n  >\n  <div\n  class=\"MuiGrid-root vip_tab1_Content MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12\"\n  id=\"vip_advantages\"\n  >\n  <div class=\"content_items\">\n    <div class=\"container\">\n      <div class=\"carousel carousel-dots\">\n        <div class=\"vip_item item_slide item_1_1\">\n          <div class=\"vip_item_icon\"></div>\n          <div class=\"vip_item_title\">\n            Персональний менеджер\n          </div>\n          <div class=\"vip_item_content\">\n            Виведення коштів? Верифікація рахунку? Замовлення\n            товару в магазині? – Ваш VIP-менеджер допоможе\n            вирішити будь-яке питання максимально швидко\n          </div>\n        </div>\n\n        <div class=\"vip_item item_slide item_1_2\">\n          <div class=\"vip_item_icon\"></div>\n          <div class=\"vip_item_title\">\n            Спеціальні пропозиції\n          </div>\n          <div class=\"vip_item_content\">\n            Спеціальні акції та бонусні пропозиції тільки для\n            вузького кола Наших VIP-гравців\n          </div>\n        </div>\n\n        <div class=\"vip_item item_slide item_1_3\">\n          <div class=\"vip_item_icon\"></div>\n          <div class=\"vip_item_title\">VIP-ставки</div>\n          <div class=\"vip_item_content\">\n            Хочете поставити більше? Запропонуйте свою ставку\n            Букмекеру!\n          </div>\n        </div>\n\n        <div class=\"vip_item item_slide item_1_4\">\n          <div class=\"vip_item_icon\"></div>\n          <div class=\"vip_item_title\">\n            Розширені ліміти на виведення\n          </div>\n          <div class=\"vip_item_content\">\n            Індивідуальний підхід при виведенні великих сум\n          </div>\n        </div>\n\n        <div class=\"vip_item item_slide item_1_5\">\n          <div class=\"vip_item_icon\"></div>\n          <div class=\"vip_item_title\">\n            Додатковий Кешбек в Казино\n          </div>\n          <div class=\"vip_item_content\">\n            Граєте в розділах Казино та ТВ-Лото? Отримуйте\n            додатковий кешбек!\n          </div>\n        </div>\n\n        <div class=\"vip_item item_slide item_1_6\">\n          <div class=\"vip_item_icon\"></div>\n          <div class=\"vip_item_title\">\n            VIP-Клуб «Billionare» в Києві\n          </div>\n          <div class=\"vip_item_content\">\n            Закритий Букмекерський Клуб класу Premium для тих, хто\n            любить комфорт і великі ставки\n          </div>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>\n</div>\n<div\nclass=\"MuiGrid-root vip_tab2_Content MuiGrid-item MuiGrid-grid-xs-12\"\nid=\"vip_manager\"\n>\n<div class=\"for_contact\">\n  <h2>Персональний VIP-менеджер</h2>\n  <p>\n    Ваш особистий консультант готовий допомогти з будь-яким\n    питанням\n  </p>\n  <div class=\"button_wrapper\">\n    <a class=\"contact_button chat_button\"></a>\n    <a class=\"contact_button web_button\"></a>\n  </div>\n</div>\n<div class=\"content_items\">\n  <div class=\"container\">\n    <div class=\"carousel carousel-nodots\">\n      <div class=\"vip_item item_slide item_3_1\">\n        <div class=\"vip_item_icon\"></div>\n        <div class=\"vip_item_title\"></div>\n        <div class=\"vip_item_content\">\n          Пріоритетне обслуговування та найвищі стандарти якості\n        </div>\n      </div>\n\n      <div class=\"vip_item item_slide item_3_2\">\n        <div class=\"vip_item_icon\"></div>\n        <div class=\"vip_item_title\"></div>\n        <div class=\"vip_item_content\">\n          Гнучкість та персональний підхід у вирішенні будь-яких\n          ситуацій\n        </div>\n      </div>\n\n      <div class=\"vip_item item_slide item_3_3\">\n        <div class=\"vip_item_icon\"></div>\n        <div class=\"vip_item_title\"></div>\n        <div class=\"vip_item_content\">\n          Компетентність та оперативність\n        </div>\n      </div>\n    </div>\n  </div>\n</div>\n</div>\n<div\nclass=\"MuiGrid-root vip_tab3_Content MuiGrid-item MuiGrid-grid-xs-12\"\nid=\"vip_shop\"\n>\n<div\nclass=\"MuiGrid-root MuiGrid-container MuiGrid-justify-xs-center\"\n>\n<div\nclass=\"MuiGrid-root vip_img MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-4\"\n></div>\n<div\nclass=\"MuiGrid-root vip_order MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-8\"\n>\n<h2>VIP-замовлення в Магазині Фаворит</h2>\n<p>\n  <b\n  >Є накопичені бали, але потрібного товару немає в нашому\n  Магазині? Не проблема!</b\n  >\n</p>\n<p>\n  Для наших VIP-гравців ми розширюємо асортимент. <br />\n  Просто дайте знати VIP-Менеджеру яка позиція Вас цікавить.\n</p>\n<p>\n  В найкоротші терміни ми знайдемо товар, підберемо оптимальні\n  варіанти та підготуємо <br />для Вас індивідуальну\n  пропозицію по цій позиції в нашому\n  <a href=\"/shop\">Магазині</a>\n</p>\n<div class=\"button_wrapper\">\n  <a class=\"contact_button chat_button\"></a>\n  <a class=\"contact_button web_button\"></a>\n</div>\n</div>\n<div class=\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12\">\n  <div class=\"MuiGrid-root content_items MuiGrid-container\">\n    <div\n    class=\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6\"\n    >\n    <div class=\"vip_item item_slide item_5_1\">\n      <div class=\"vip_item_icon\"></div>\n      <div class=\"vip_item_title\"></div>\n      <div class=\"vip_item_content\">\n        <a href=\"/page/main_vippromo/\">Акції</a>\n      </div>\n    </div>\n  </div>\n  <div\n  class=\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6\"\n  >\n  <div class=\"vip_item item_slide item_5_2\">\n    <div class=\"vip_item_icon\"></div>\n    <div class=\"vip_item_title\"></div>\n    <div class=\"vip_item_content\">\n      <a href=\"/shop\">Магазин</a>\n    </div>\n  </div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div\nclass=\"MuiGrid-root vip_tab4_Content MuiGrid-item MuiGrid-grid-xs-12\"\nid=\"vip_bet\"\n>\n<div\nclass=\"MuiGrid-root vip_bet MuiGrid-container MuiGrid-justify-xs-center\"\n>\n<div\nclass=\"MuiGrid-root vip_bet_info MuiGrid-item MuiGrid-grid-xs-10 MuiGrid-grid-sm-6\"\n>\n<h2>VIP-Ставка</h2>\n<p>\n  <b>Хочете поставити більше? Запропонуйте свою ставку! </b>\n</p>\n<p>\n  VIP-ставка - ставка на суму, що перевищує поточний максимум\n  для даного результату. Приймаються прогнози типу «Ординар» і\n  тільки на події Пре-матч.\n</p>\n</div>\n<div\nclass=\"MuiGrid-root vip_bet_img MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6\"\n></div>\n</div>\n<div class=\"MuiGrid-root vip_bet_todo_info MuiGrid-container\">\n  <div class=\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12\">\n    <div class=\"MuiGrid-root MuiGrid-container\">\n      <div\n      class=\"MuiGrid-root vip_bet_todo MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-7\"\n      >\n      <h2>Щоб замовити VIP-ставку достатньо:</h2>\n      <ul>\n        <li><span>1</span>Увійти до свого ігрового рахунку.</li>\n        <li><span>2</span>Додати результат в ігровий білет.</li>\n        <li>\n          <span>3</span>Ввести бажану суму і натиснути «Зробити\n          ставку».\n        </li>\n        <li>\n          <span>4</span>Обрати один із запропонованих варіантів:\n          поставити максимум або не ставити у випадку, якщо\n          бажана сума не буде прийнята.\n        </li>\n      </ul>\n    </div>\n    <div\n    class=\"MuiGrid-root vip_bet_note MuiGrid-item MuiGrid-grid-xs-12\"\n    >\n    <p>\n      Розгляд займає не більше 3-х хвилин, після чого на\n      екрані з’явиться рішення по заявці\n    </p>\n    <div class=\"vip_txt_imp\">\n      <svg\n      xmlns=\"http://www.w3.org/2000/svg\"\n      width=\"26\"\n      height=\"26\"\n      viewBox=\"0 0 26 26\"\n      >\n      <g fill=\"none\" fill-rule=\"evenodd\">\n        <path\n        stroke=\"#DA1A32\"\n        stroke-linecap=\"round\"\n        stroke-linejoin=\"round\"\n        stroke-width=\"2\"\n        d=\"M12.99 1c6.618 0 11.991 5.373 11.991 11.99 0 6.618-5.373 11.991-11.99 11.991C6.373 24.981 1 19.608 1 12.991 1 6.373 6.373 1 12.99 1zM12.99 7.061v7.665\"\n        ></path>\n        <path\n        fill=\"#DA1A32\"\n        d=\"M12.99 16.856a1.033 1.033 0 1 1 0 2.065 1.033 1.033 0 0 1 0-2.065z\"\n        ></path>\n      </g></svg\n      ><span>\n        Зверніть увагу, на час розгляду VIP-ставки прийом\n        інших заявок буде тимчасово призупинено</span\n        >\n      </div>\n    </div>\n  </div>\n</div>\n</div>\n<div class=\"MuiGrid-root vip_bet_todo_stat MuiGrid-container\">\n  <div class=\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12\">\n    <h2>Умови VIP-ставки:</h2>\n    <ul>\n      <li>\n        <span>1</span>Ставки типу «Експрес», «Система» та ставки\n        на події Live не потрапляють до категорії VIP-ставок;\n      </li>\n      <li>\n        <span>2</span>По рішенню Favorit на деякі спортивні події\n        VIP-ставки не приймаються;\n      </li>\n      <li>\n        <span>3</span>Після розміщення заявки на VIP-ставку, вона\n        може бути відмінена, змінена або відкликана;\n      </li>\n      <li>\n        <span>4</span>Favorit залишає за собою право обмежувати\n        прийом VIP-ставок, підтверджувати або відхиляти VIP-ставки\n        без пояснення причин;\n      </li>\n      <li>\n        <span>5</span>Після визначення результатів по ставці\n        розрахунок відбувається за загальними правилами сайту.\n      </li>\n    </ul>\n  </div>\n</div>\n</div>\n<div\nclass=\"MuiGrid-root vip_tab5_Content MuiGrid-item MuiGrid-grid-xs-12\"\nid=\"vip_limits\"\n>\n<div\nclass=\"MuiGrid-root MuiGrid-container MuiGrid-justify-xs-center\"\n>\n<div\nclass=\"MuiGrid-root vip_limits_img MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6\"\n></div>\n<div\nclass=\"MuiGrid-root vip_limits_info MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6\"\n>\n<h2>Розширені ліміти</h2>\n<p><b>Привілейовані умови виведення</b></p>\n<p>\n  Хочете вивести більше, ніж дозволяє добовий ліміт?\n  <br />Зв’яжіться з Вашим персональним менеджером! <br />\n  Спеціальні умови виведення на картки Visa/MasterCard для\n  наших VIP-клієнтів.\n</p>\n<div class=\"button_wrapper\">\n  <a class=\"contact_button chat_button\"></a>\n  <a class=\"contact_button web_button\"></a>\n</div>\n</div>\n</div>\n</div>\n<div\nclass=\"MuiGrid-root vip_tab6_Content MuiGrid-item MuiGrid-grid-xs-12\"\nid=\"vip_cashback\"\n>\n<div\nclass=\"MuiGrid-root vip_cash MuiGrid-container MuiGrid-justify-xs-center\"\n>\n<div\nclass=\"MuiGrid-root vip_cash_info MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-8\"\n>\n<h2>Додатковий кешбек в Казино</h2>\n<p>Отримуйте більше з VIP-статусом</p>\n</div>\n<div\nclass=\"MuiGrid-root vip_cash_img MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-4\"\n></div>\n</div>\n<div class=\"MuiGrid-root vip_cash_prog MuiGrid-container\">\n  <div class=\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-11\">\n    <h3>\n      Наша спеціальна програма лояльності для VIP-гравців –\n      додатковий кешбек за гру в розділах Казино, Казино Live та\n      ТВ Лото\n    </h3>\n    <p>\n      Кожні 2 тижні на різницю між програшними та виграшними\n      ставками у вказаних сервісах нараховується\n      <span class=\"vip_accent\"><strong>кешбек 7%</strong></span\n        >. <br />\n        Розрахунок та зарахування відбувається автоматично 1 та 16\n        числа кожен місяць (або в найближчий будній день, якщо\n        випадають на вихідні).\n      </p>\n      <p>\n        Забрати кешбек можна в\n        <a href=\"#qwerty\">Особистому кабінеті</a>, розділ «Бонуси»,\n        протягом 14-ти днів з моменту нарахування.\n      </p>\n    </div>\n    <div\n    class=\"MuiGrid-root vip_cash_note MuiGrid-item MuiGrid-grid-xs-12\"\n    >\n    <div class=\"vip_txt_imp\">\n      <svg\n      xmlns=\"http://www.w3.org/2000/svg\"\n      width=\"26\"\n      height=\"26\"\n      viewBox=\"0 0 26 26\"\n      >\n      <g fill=\"none\" fill-rule=\"evenodd\">\n        <path\n        stroke=\"#DA1A32\"\n        stroke-linecap=\"round\"\n        stroke-linejoin=\"round\"\n        stroke-width=\"2\"\n        d=\"M12.99 1c6.618 0 11.991 5.373 11.991 11.99 0 6.618-5.373 11.991-11.99 11.991C6.373 24.981 1 19.608 1 12.991 1 6.373 6.373 1 12.99 1zM12.99 7.061v7.665\"\n        ></path>\n        <path\n        fill=\"#DA1A32\"\n        d=\"M12.99 16.856a1.033 1.033 0 1 1 0 2.065 1.033 1.033 0 0 1 0-2.065z\"\n        ></path>\n      </g></svg\n      ><span> Мінімальна сума нарахування 25 UAH</span>\n    </div>\n  </div>\n</div>\n</div>\n<div\nclass=\"MuiGrid-root vip_tab7_Content MuiGrid-item MuiGrid-grid-xs-12\"\nid=\"vip_club\"\n>\n<div class=\"MuiGrid-root MuiGrid-container\">\n  <div\n  class=\"MuiGrid-root vip_billion MuiGrid-item MuiGrid-grid-xs-12\"\n  >\n  <h2>VIP-Клуб «Billionare» в Києві</h2>\n  <p>\n    Віддаєте перевагу комфорту, індивідуальному підходу та\n    великим ставкам?<br />\n    Оцініть наш закритий клуб класу Premium.\n  </p>\n</div>\n<div\nclass=\"MuiGrid-root vip_club MuiGrid-item MuiGrid-grid-xs-12\"\n>\n<div class=\"content_items\">\n  <h3>\n    Перший в Україні VIP-Клуб в будівлі готелю\n    <br />«Інтерконтиненталь» на Великій Житомирській 2А\n  </h3>\n  <div class=\"container\">\n    <div class=\"carousel carousel-nodots\">\n      <div class=\"vip_item item_slide item_13_1\">\n        <div class=\"vip_item_icon\"></div>\n        <div class=\"vip_item_title\"></div>\n        <div class=\"vip_item_content\">\n          Комфорт преміального рівня, VIP-зал і ставки від\n          2500 UAH.\n        </div>\n      </div>\n\n      <div class=\"vip_item item_slide item_13_2\">\n        <div class=\"vip_item_icon\"></div>\n        <div class=\"vip_item_title\"></div>\n        <div class=\"vip_item_content\">\n          Індивідуальний підхід в питаннях лімітів і\n          коефіцієнтів.\n        </div>\n      </div>\n\n      <div class=\"vip_item item_slide item_13_3\">\n        <div class=\"vip_item_icon\"></div>\n        <div class=\"vip_item_title\"></div>\n        <div class=\"vip_item_content\">\n          Спортивні трансляції на великому екрані, розслаблена\n          атмосфера та чудовий бар.\n        </div>\n      </div>\n    </div>\n  </div>\n</div>\n</div>\n<div\nclass=\"MuiGrid-root vip_relax MuiGrid-item MuiGrid-grid-xs-12\"\n>\n<h2>\n  Ми готові запропонувати найкращі умови для Вашого відпочинку\n</h2>\n<p>\n  «Billionare» Клуб відчинено цілодобово. Чекаємо Вас в\n  будь-який час. Dress Code: Smart Casual.\n</p>\n</div>\n<div class=\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12\">\n  <div class=\"MuiGrid-root MuiGrid-container\">\n    <div\n    class=\"MuiGrid-root vip_interior vip_interior1 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-4\"\n    ></div>\n    <div\n    class=\"MuiGrid-root vip_interior vip_interior2 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-4\"\n    ></div>\n    <div\n    class=\"MuiGrid-root vip_interior vip_interior3 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-4\"\n    ></div>\n  </div>\n</div>\n</div>\n</div>\n<div\nclass=\"MuiGrid-root vip_tab8_Content MuiGrid-item MuiGrid-grid-xs-12\"\nid=\"vip_contacts\"\n>\n<div class=\"MuiGrid-root MuiGrid-container\">\n  <div\n  class=\"MuiGrid-root vip_contact MuiGrid-item MuiGrid-grid-xs-12\"\n  >\n  <h2>Контакти та графік роботи VIP-відділу</h2>\n  <div class=\"vip_logo_bl\"></div>\n  <div class=\"vip_work_time\">\n    <p>08:00 – 20:00</p>\n    <span>Понеділок – Неділя</span>\n  </div>\n  <div class=\"vip_contacts\">\n    <p>Контактна інформація:</p>\n    <a href=\"mailto:vip@favorit.com.ua\">vip@favorit.com.ua</a\n      ><a href=\"tel:0 800 210 414\">0 800 210 414</a>\n    </div>\n    <div class=\"button_wrapper\">\n      <a class=\"contact_button chat_button\"></a>\n      <a class=\"contact_button web_button\"></a>\n    </div>\n  </div>\n</div>\n</div>\n</div>\n</div>\n<!-- </div>\n</div> -->\n<script\ntype=\"text/javascript\"\nsrc=\"https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js\"\n></script>\n<script type=\"text/javascript\" src=\"./js/vip.js\"></script>\n<!-- </body> -->\n<!-- </html> -->\n<!--  -->",
+					"contents": "",
 					"settings":
 					{
-						"buffer_size": 18438,
+						"buffer_size": 0,
 						"line_ending": "Windows"
 					}
 				},
@@ -1262,16 +1108,28 @@
 				"selected_items":
 				[
 					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"pre",
+						"JsPrettier: Format Code"
+					],
+					[
 						"rei",
 						"Indentation: Reindent Lines"
 					],
 					[
 						"in",
 						"Package Control: Install Package"
-					],
-					[
-						"rem",
-						"Package Control: Remove Package"
 					],
 					[
 						"inst",
@@ -1284,10 +1142,6 @@
 					[
 						"ins",
 						"Package Control: Install Package"
-					],
-					[
-						"ena",
-						"Package Control: Enable Package"
 					],
 					[
 						"disa",
@@ -1370,10 +1224,6 @@
 						"Package Control: Remove Package"
 					],
 					[
-						"rein",
-						"Indentation: Reindent Lines"
-					],
-					[
 						"dis",
 						"Package Control: Disable Package"
 					],
@@ -1396,10 +1246,6 @@
 					[
 						"gutte",
 						"Preferences: GitGutter Popup Stylesheet"
-					],
-					[
-						"pre",
-						"JsPrettier: Format Code"
 					],
 					[
 						"js",
@@ -1482,6 +1328,9 @@
 			],
 			"file_history":
 			[
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/CSS Format.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/CSS Format/CSS Format.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
 				"/D/work_bet/front_www/js/src/pages/vip/vip.html",
 				"/D/work_bet/front_www/js/src/pages/vip/gulpfile.js",
@@ -1499,7 +1348,6 @@
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/index.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositWallet.js",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
 				"/D/work_bet/front_www/.source/base/po/_po.scss",
 				"/D/work_bet/front_www/.source/base/po/_payment-instrument.scss",
@@ -1546,8 +1394,6 @@
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
 				"/C/Users/JaineKaminsky/Downloads/Telegram Desktop/ons/mebel_metall.html",
 				"/C/Users/JaineKaminsky/Downloads/Telegram Desktop/ons/index.html",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/CSS Format/CSS Format.sublime-settings",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/CSS Format.sublime-settings",
 				"/C/Users/JaineKaminsky/Desktop/123.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/translate.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/Balance/Wallets/index.js",
@@ -1618,6 +1464,11 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"css",
+					"post",
+					"inpo",
+					"/static/media/pages/vip_page/static/",
+					"\n                ",
 					"вуиг",
 					"handleDeposit",
 					"handleSubmit",
@@ -1732,15 +1583,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 522,
+								"buffer_size": 24123,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										503,
-										503
+										378,
+										378
 									]
 								],
 								"settings":
@@ -1751,16 +1602,16 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 48.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 2,
 							"type": "text"
 						}
 					]
 				},
 				{
-					"selected": 2,
+					"selected": 0,
 					"sheets":
 					[
 						{
@@ -1769,15 +1620,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 40521,
+								"buffer_size": 40519,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										39838,
-										39838
+										40519,
+										40519
 									]
 								],
 								"settings":
@@ -1789,10 +1640,10 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 8391.0,
+								"translation.y": 38557.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 0,
 							"type": "text"
 						},
 						{
@@ -1824,7 +1675,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 3,
 							"type": "text"
 						},
 						{
@@ -1832,26 +1683,26 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 18438,
+								"buffer_size": 0,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										18218,
-										18394
+										0,
+										0
 									]
 								],
 								"settings":
 								{
 									"git_gutter_is_enabled": false,
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"tab_size": 2,
+									"syntax": "Packages/SCSS/SCSS.tmLanguage",
+									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 13202.0,
+								"translation.y": 1.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
@@ -1891,7 +1742,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 5,
 							"type": "text"
 						},
 						{
@@ -1922,7 +1773,7 @@
 								"translation.y": 252.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 4,
 							"type": "text"
 						}
 					]
@@ -2005,7 +1856,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,1169,-30,135,1847",
+			"position": "0,2,3,-1,-1,-1,-1,1169,-24,135,1847",
 			"project": "betinvest.sublime-project",
 			"replace":
 			{
@@ -2039,7 +1890,7 @@
 				],
 				"width": 0.0
 			},
-			"selected_group": 0,
+			"selected_group": 1,
 			"settings":
 			{
 			},

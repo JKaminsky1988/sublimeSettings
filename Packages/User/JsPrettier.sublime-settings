@@ -1,2 +1,4 @@
 {
+  "allow_inline_formatting": true,
+  "htmlWhitespaceSensitivity": "ignore",
 }

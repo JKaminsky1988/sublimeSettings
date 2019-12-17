@@ -1,3 +1,11 @@
 {
   "format_on_save": true,
+  //   "expand"        : Expanded
+  //   "expand-bs"     : Expanded (Break Selectors)
+  //   "compact"       : Compact
+  //   "compact-ns"    : Compact (No Spaces)
+  //   "compact-bs"    : Compact (Break Selectors)
+  //   "compact-bs-ns" : Compact (Break Selectors, No Spaces)
+  //   "compress"      : Compressed
+  "format_on_save_action": "compact-ns",
 }

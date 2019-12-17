@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"co",
+				"console"
+			],
+			[
 				"cu",
 				"cur-c\tcursor: crosshair;"
 			],
@@ -24,74 +28,50 @@
 	"buffers":
 	[
 		{
-			"file": "/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositWallet.js",
+			"file": "/D/work_bet/front_www/js/src/pages/vip/vip.html",
 			"settings":
 			{
-				"buffer_size": 12651,
+				"buffer_size": 27084,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/index.js",
+			"file": "/D/work_bet/front_www/js/src/pages/vip/css/scss/vip.scss",
 			"settings":
 			{
-				"buffer_size": 7116,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/DepositAbon.js",
-			"settings":
-			{
-				"buffer_size": 1427,
+				"buffer_size": 40521,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "ColorHighlighter.sublime-settings",
-			"settings":
-			{
-				"buffer_size": 1085,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/addWallet.js",
-			"settings":
-			{
-				"buffer_size": 15819,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/D/work_bet/front_www/.source/base/po/_po_50.scss",
-			"settings":
-			{
-				"buffer_size": 628,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "Searching 90 files for \"submit_data_wallet_btn\"\n\nD:\\work_bet\\front_www\\.source\\base\\po\\_payment-instrument.scss:\n   70          }\n   71  \n   72:         + .submit_data_wallet_btn {\n   73              @media screen and (min-width: 720px) {\n   74                  padding: 0 10px;\n\nD:\\work_bet\\front_www\\.source\\base\\po\\_po.scss:\n  361      }\n  362  \n  363:     .submit_data_wallet_btn {\n  364        @include border-radius(4px);\n  365        @include color2wh;\n  ...\n 1898              }\n 1899  \n 1900:             .submit_data_wallet_btn {\n 1901                height: 36px;\n 1902                margin-left: 10px;\n ....\n 1906          }\n 1907  \n 1908:         .submit_data_wallet_btn {\n 1909            display: inline-block;\n 1910            width: auto;\n ....\n 2217      }\n 2218  \n 2219:     .submit_data_wallet_btn {\n 2220        @include color2wh;\n 2221        margin-bottom: 10px;\n ....\n 2277  \n 2278    .submit_data_depos,\n 2279:   .submit_data_wallet_btn {\n 2280      display: block;\n 2281      width: 190px;\n ....\n 3553      }\n 3554  \n 3555:     .submit_data_wallet_btn {\n 3556        @include border-radius(4px);\n 3557        @include color2wh;\n\nD:\\work_bet\\front_www\\.source\\base\\po\\_po_49.scss:\n  178                          position: absolute;\n  179                      }\n  180:                     .submit_data_wallet_btn {\n  181                          @include color2wh;\n  182                          display: inline-block;\n  ...\n  243  }\n  244  \n  245: .submit_data_wallet_btn {\n  246      @include color-green;\n  247      border-radius: 5px;\n\nD:\\work_bet\\front_www\\.source\\base\\po\\_po_50.scss:\n   31        justify-content: flex-end;\n   32  \n   33:       .submit_data_wallet_btn {\n   34          margin: 0;\n   35  \n\nD:\\work_bet\\front_www\\.source\\base\\po\\_po_br_4.scss:\n  162                              position: absolute;\n  163                          }\n  164:                         .submit_data_wallet_btn {\n  165                              @include color1wh;\n  166                              display: inline-block;\n\nD:\\work_bet\\front_www\\.source\\base\\po_v2\\_po_49_v2.scss:\n  255                          position: absolute;\n  256                      }\n  257:                     .submit_data_wallet_btn {\n  258                          @include color2wh;\n  259                          display: inline-block;\n  ...\n  319      }\n  320      \n  321:     .submit_data_wallet_btn {\n  322          @include color-green;\n  323          border-radius: 5px;\n\nD:\\work_bet\\front_www\\.source\\base\\po_v2\\_po_br_4_v2.scss:\n  163                              position: absolute;\n  164                          }\n  165:                         .submit_data_wallet_btn {\n  166                              @include color1wh;\n  167                              display: inline-block;\n\nD:\\work_bet\\front_www\\.source\\base\\po_v2\\_po_v2_balance.scss:\n  793      }\n  794  \n  795:     .submit_data_wallet_btn {\n  796        margin-bottom: 10px;\n  797        display: inline-block;\n  ...\n 1853            }\n 1854  \n 1855:           .submit_data_wallet_btn {\n 1856              width: auto;\n 1857              height: 36px;\n ....\n 1890            }\n 1891  \n 1892:           .submit_data_wallet_btn {\n 1893              width: 100%;\n 1894              max-width: 308px;\n ....\n 1913            }\n 1914  \n 1915:           .submit_data_wallet_btn {\n 1916              margin-bottom: 0;\n 1917            }\n ....\n 1919        }\n 1920  \n 1921:       .submit_data_wallet_btn {\n 1922          display: inline-block;\n 1923          width: auto;\n ....\n 1927        }\n 1928  \n 1929:       .add_wallet .submit_data_wallet_btn {\n 1930          top: -5px !important;\n 1931        }\n ....\n 2309    }\n 2310  \n 2311:   .submit_data_wallet_btn {\n 2312      @include border-radius(4px);\n 2313      @include color2wh;\n ....\n 2395  \n 2396  .submit_data_depos,\n 2397: .submit_data_wallet_btn {\n 2398    display: block;\n 2399    width: 190px;\n ....\n 2643  \n 2644      .add_deposit {\n 2645:       .submit_data_wallet_btn {\n 2646          float: right;\n 2647          width: 308px;\n ....\n 2832  .po_v2 .two_level_popup .tlp_wrapper {\n 2833    .pid_500 .wrap_payment_form .add_deposit {\n 2834:     .submit_data_wallet_btn {\n 2835        width: 100%;\n 2836  \n\n24 matches across 8 files\n\n\nSearching 1015 files for \"color2wh\"\n\nD:\\work_bet\\front_www\\.source\\base\\_help_block.scss:\n   47          }\n   48  \n   49:         @include color2wh;\n   50          box-shadow: 0 2px 0 0 #0750a2;\n   51          font-size: 14px;\n   ..\n  166              height: 36px;\n  167              border-radius: 4px;\n  168:             @include color2wh;\n  169              display: inline-block;\n  170              margin-right: 5px;\n\nD:\\work_bet\\front_www\\.source\\base\\_keyboard-touch.scss:\n   27          text-decoration: none;\n   28          border: 0 none;\n   29:         @include color2wh;\n   30          margin-right: 5px;\n   31  \n   ..\n   38          vertical-align: top;\n   39          &.keyboard-numberButton {\n   40:             @include color2wh;\n   41          }\n   42          &.keyboard-submit-button {\n\nD:\\work_bet\\front_www\\.source\\base\\_reg_proposal.scss:\n   72                          margin: 0 15px;\n   73                          &.register {\n   74:                             @include color2wh;\n   75                          }\n   76                          &.login {\n\nD:\\work_bet\\front_www\\.source\\base\\_unknown-ui.scss:\n  306      //         padding: 10px;\n  307      //         .ui-button {\n  308:     //             @include color2wh;\n  309      //             @include button1;\n  310      //             border-radius: 3px;\n\nD:\\work_bet\\front_www\\.source\\base\\head\\_not-login.scss:\n   32      }\n   33      .loginpagecl {\n   34:         @include color2wh;\n   35          margin-right: 4px;\n   36          \n\nD:\\work_bet\\front_www\\.source\\base\\po\\_message-modal-site.scss:\n  112              button {\n  113                  @include button(44, 16, 500);\n  114:                 @include color2wh;\n  115                  width: 100%;\n  116                  padding: 0 20px;\n  ...\n  216      }\n  217      .crtitical--button--read {\n  218:         @include color2wh;\n  219          margin-bottom: 10px;\n  220      }\n  ...\n  255          button {\n  256              @include button(44, 16, 500);\n  257:             @include color2wh;\n  258              width: 100%;\n  259              padding: 0 20px;\n\nD:\\work_bet\\front_www\\.source\\base\\po\\_po.scss:\n  363      .submit_data_wallet_btn {\n  364        @include border-radius(4px);\n  365:       @include color2wh;\n  366        margin-bottom: 10px;\n  367      }\n  ...\n  483      .output_cash.btn-clss.button4 {\n  484        @include border-radius(4px);\n  485:       @include color2wh;\n  486        height: 24px;\n  487        padding: 0 10px;\n  ...\n 1342  \n 1343    .create_deposit_rub {\n 1344:     @include color2wh;\n 1345      padding: 6px 12px;\n 1346    }\n ....\n 2218  \n 2219      .submit_data_wallet_btn {\n 2220:       @include color2wh;\n 2221        margin-bottom: 10px;\n 2222        display: inline-block;\n ....\n 2272  \n 2273      .submit_data_wallet_bt {\n 2274:       @include color2wh;\n 2275      }\n 2276    }\n ....\n 2298        margin-bottom: 15px;\n 2299        padding: 0 12px;\n 2300:       @include color2wh;\n 2301      }\n 2302    }\n ....\n 2533  \n 2534      .button2 {\n 2535:       @include color2wh;\n 2536        @include border-radius(4px);\n 2537        font-weight: bold;\n ....\n 2881          text-transform: uppercase;\n 2882          font-size: 14px;\n 2883:         @include color2wh;\n 2884          @include border-radius(4px);\n 2885          padding-left: 18px;\n ....\n 3348    .subDoc {\n 3349      &.button2 {\n 3350:       @include color2wh;\n 3351        @include border-radius(4px);\n 3352        font-weight: bold;\n ....\n 3555      .submit_data_wallet_btn {\n 3556        @include border-radius(4px);\n 3557:       @include color2wh;\n 3558        margin-bottom: 10px;\n 3559      }\n ....\n 3854        .add_wallet_btn_balans_tab {\n 3855          margin: 20px 0 0;\n 3856:         @include color2wh;\n 3857          @include border-radius(4px);\n 3858          font-weight: bold;\n ....\n 4929  \n 4930          .button2 {\n 4931:           @include color2wh;\n 4932            @include border-radius(4px);\n 4933            font-weight: bold;\n ....\n 4978  \n 4979        .set_as_not_read_message {\n 4980:         @include color2wh;\n 4981        }\n 4982  \n ....\n 5133        width: 100%;\n 5134        font-size: 12px;\n 5135:       @include color2wh;\n 5136        @include border-radius(4px);\n 5137        display: block;\n\nD:\\work_bet\\front_www\\.source\\base\\po\\_po_49.scss:\n  179                      }\n  180                      .submit_data_wallet_btn {\n  181:                         @include color2wh;\n  182                          display: inline-block;\n  183                          margin-left: 10px;\n\nD:\\work_bet\\front_www\\.source\\base\\po\\_po_br_4.scss:\n   76                                  &.button2 {\n   77                                      height: 45px;\n   78:                                     @include color2wh;\n   79                                      font-size: 16px;\n   80                                      text-transform: uppercase;\n   ..\n  204                  .send-doc-scan {\n  205                      &.btn-clss {\n  206:                         @include color2wh;\n  207                          clear: both;\n  208                          margin-top: 14px;\n  ...\n  279                              min-width: 320px;\n  280                              display: inline-block;\n  281:                             @include color2wh;\n  282                          }\n  283                          #delete_bank_details {\n  ...\n  388                      &.button2 {\n  389                          height: 45px;\n  390:                         @include color2wh;\n  391                          font-size: 16px;\n  392                          text-transform: uppercase;\n  ...\n  598      margin-right: 15px;\n  599      &.submit_withdrawal {\n  600:         @include color2wh;\n  601      }\n  602  }\n\nD:\\work_bet\\front_www\\.source\\base\\po\\_warning-no-documents.scss:\n   23          }\n   24          .send-doc-scan {\n   25:             @include color2wh;\n   26              text-transform: uppercase;\n   27              font-size: 16px;\n\nD:\\work_bet\\front_www\\.source\\base\\po_v2\\_message-modal-site.scss:\n  125                  }\n  126                  &:first-child {\n  127:                     @include color2wh;\n  128                      margin-bottom: #{$site-delim-size}px;\n  129                  }\n  ...\n  203              button {\n  204                  @include button(44, 16, 500);\n  205:                 @include color2wh;\n  206                  width: 100%;\n  207                  padding: 0 20px;\n\nD:\\work_bet\\front_www\\.source\\base\\po_v2\\_po_49_v2.scss:\n  160      .subDoc {\n  161          &.button2 {\n  162:             @include color2wh;\n  163              @include border-radius(4px);\n  164              font-weight: bold;\n  ...\n  256                      }\n  257                      .submit_data_wallet_btn {\n  258:                         @include color2wh;\n  259                          display: inline-block;\n  260                          border-radius: 4px;\n\nD:\\work_bet\\front_www\\.source\\base\\po_v2\\_po_v2_account.scss:\n  364        font-size: 14px;\n  365  \n  366:       @include color2wh;\n  367      }\n  368    }\n  ...\n  768        font-size: 14px;\n  769  \n  770:       @include color2wh;\n  771      }\n  772    }\n\nD:\\work_bet\\front_www\\.source\\base\\po_v2\\_po_v2_balance.scss:\n   11        margin-top: 22px;\n   12        width: 296px;\n   13:       @include color2wh;\n   14      }\n   15  \n   ..\n  246          margin-top: 22px;\n  247          width: 296px;\n  248:         @include color2wh;\n  249        }\n  250  \n  ...\n  776  \n  777      .submit_data_wallet_bt {\n  778:       @include color2wh;\n  779      }\n  780    }\n  ...\n  797        display: inline-block;\n  798        border-radius: 4px;\n  799:       @include color2wh;\n  800      }\n  801    }\n  ...\n  813      .button1 {\n  814        margin-bottom: 15px;\n  815:       @include color2wh;\n  816        border-radius: 4px;\n  817        padding: 1px 12px;\n  ...\n 2267  \n 2268  .create_deposit_rub {\n 2269:   @include color2wh;\n 2270    padding: 6px 12px;\n 2271  }\n ....\n 2311    .submit_data_wallet_btn {\n 2312      @include border-radius(4px);\n 2313:     @include color2wh;\n 2314      margin-bottom: 10px;\n 2315      text-transform: uppercase;\n ....\n 2328      padding: 0 10px;\n 2329      @include border-radius(4px);\n 2330:     @include color2wh;\n 2331    }\n 2332  }\n\nD:\\work_bet\\front_www\\.source\\base\\po_v2\\_po_v2_club.scss:\n    9              width: 100%;\n   10              font-size: 12px;\n   11:             @include color2wh;\n   12              @include border-radius(4px);\n   13              padding: 0 10px;\n   ..\n   34                  margin-top: 22px;\n   35                  width: 296px;\n   36:                 @include color2wh;\n   37              }\n   38              \n   ..\n  479              text-transform: uppercase;\n  480              font-size: 14px;\n  481:             @include color2wh;\n  482              @include border-radius(4px);\n  483              padding-left: 18px;\n\nD:\\work_bet\\front_www\\.source\\base\\po_v2\\_po_v2_common.scss:\n  453          color: #ffffff;\n  454          padding: 10px;\n  455:         @include color2wh;\n  456          margin-left: 15px;\n  457  \n\nD:\\work_bet\\front_www\\.source\\base\\po_v2\\_po_v2_message.scss:\n  223                      font-size: 14px;\n  224                      margin-top: 22px;\n  225:                     @include color2wh;\n  226                  }\n  227              }\n  ...\n  288  \n  289              .set_as_not_read_message {\n  290:                 @include color2wh;\n  291              }\n  292  \n\nD:\\work_bet\\front_www\\.source\\base\\user\\_time-limit.scss:\n  124  \n  125              .modal--continue--button--continue {\n  126:                 @include color2wh;\n  127                  margin-right: 12px;\n  128                  \n\nD:\\work_bet\\front_www\\.source\\base\\user\\_user-info.scss:\n    9          text-align: center;\n   10          @include button1;\n   11:         @include color2wh;\n   12      }\n   13  }\n\nD:\\work_bet\\front_www\\.source\\base\\user\\_user-menu-block.scss:\n   32          width: auto;\n   33          padding: 0 10px;\n   34:         @include color2wh;\n   35          span {\n   36              display: block;\n   ..\n  387                          //padding: 0 10px;\n  388                          margin: 0;\n  389:                         //@include color2wh;\n  390                          //span {\n  391                          //    font-size: 12px;\n\nD:\\work_bet\\front_www\\.source\\base\\user\\v1.0\\_user.scss:\n   22              font-size: 14px;\n   23              +.submit_recovery_step.but-blue-1 {\n   24:                 @include color2wh;\n   25                  @include button1;\n   26                  padding: 0 20px;\n   ..\n  116                      border-radius: 4px;\n  117                      font-size: 14px;\n  118:                     @include color2wh;\n  119                  }\n  120              }\n  ...\n  268                  border-radius: 4px;\n  269                  font-size: 14px;\n  270:                 @include color2wh;\n  271              }\n  272          }\n  ...\n  414  .nav-recover-bl {\n  415      .but-blue-1 {\n  416:         @include color2wh;\n  417          text-transform: uppercase;\n  418      }\n\nD:\\work_bet\\front_www\\.source\\base\\user\\v2.3\\_auth.scss:\n  211  \n  212          &--blue {\n  213:             @include color2wh;\n  214  \n  215              &:disabled {\n  ...\n  992                  text-transform: uppercase;\n  993                  border-radius: 4px;\n  994:                 @include color2wh;\n  995              }\n  996          }\n\nD:\\work_bet\\front_www\\.source\\bet\\_prebet-to-live.scss:\n   82                          &.login, \n   83                          &.goto {\n   84:                             @include color2wh;\n   85                          }\n   86                          &.cancel {\n\nD:\\work_bet\\front_www\\.source\\bet\\_search-result.scss:\n  131  \n  132                      &:first-child {\n  133:                         @include color2wh;\n  134                      }\n  135  \n\nD:\\work_bet\\front_www\\.source\\bet\\_ticket-check.scss:\n   58          text-decoration: none;\n   59          border: 0 none;\n   60:         @include color2wh;\n   61      }\n   62      .tkt_card_sumout_label,\n   ..\n  138          border-radius: 3px;\n  139          margin: 5px;\n  140:         @include color2wh;\n  141      }\n  142  }\n\nD:\\work_bet\\front_www\\.source\\bet\\basket\\_site-basket.scss:\n  664          &.bbet_acpt {\n  665              margin-bottom: #{$site-delim-size}px;\n  666:             @include color2wh;\n  667              box-shadow: 0 0 0;\n  668          }\n  ...\n 2248  \n 2249              .btn-confirm {\n 2250:                 @include color2wh;\n 2251                  margin-right: 4px;\n 2252  \n\nD:\\work_bet\\front_www\\.source\\bet\\basket\\v3.0\\_footer-control.scss:\n   40                  padding: 0 5px;\n   41                  border-radius: 30px;\n   42:                 @include color2wh;\n   43                  margin: 0 16px;\n   44              }\n\nD:\\work_bet\\front_www\\.source\\bet\\basket\\v3.0\\_old-style.scss:\n   95        margin-bottom: 6px;\n   96  \n   97:       @include color2wh;\n   98  \n   99        box-shadow: 0 0 0;\n\nD:\\work_bet\\front_www\\.source\\bet\\basket\\v3.0\\_quick-bet-message.scss:\n   66    \n   67          .btn-confirm {\n   68:           @include color2wh;\n   69  \n   70            html[dir=\"ltr\"] & {\n\nD:\\work_bet\\front_www\\.source\\bet\\widgets\\_widget-special.scss:\n  114      height: 48px;\n  115      position: relative;\n  116:     @include color2wh;\n  117      @include border-radius(4px);\n  118      cursor: pointer;\n\nD:\\work_bet\\front_www\\.source\\partners\\1\\scss\\_color_themes_favbet.scss:\n   37      @include grad-to-botom2(#1588ee, #0367d3);\n   38  }\n   39: @mixin color2wh {\n   40      @include color2;\n   41      &:hover {\n\nD:\\work_bet\\front_www\\.source\\partners\\13\\scss\\_base-custom.scss:\n  103  .nav-recover-bl {\n  104      .but-blue-1 {\n  105:         @include color2wh;\n  106          text-transform: uppercase;\n  107      }\n\nD:\\work_bet\\front_www\\.source\\partners\\13\\scss\\_basket-custom-v2.0.scss:\n  114      padding: 0;\n  115      text-align: center;\n  116:     @include color2wh;\n  117      .fa {\n  118          display: none;\n\nD:\\work_bet\\front_www\\.source\\partners\\13\\scss\\_color_themes.scss:\n   43      @include grad-to-botom2(#1588ee, #0367d3);\n   44  }\n   45: @mixin color2wh {\n   46      @include color2;\n   47      &:hover {\n\nD:\\work_bet\\front_www\\.source\\partners\\15\\scss\\_base-custom.scss:\n   55  .nav-recover-bl {\n   56      .but-blue-1 {\n   57:         @include color2wh;\n   58          text-transform: uppercase;\n   59      }\n\nD:\\work_bet\\front_www\\.source\\partners\\15\\scss\\_color_themes.scss:\n   74  }\n   75  \n   76: @mixin color2wh {\n   77      @include color2;\n   78  \n\nD:\\work_bet\\front_www\\.source\\partners\\18\\scss\\_base-custom.scss:\n   64  .nav-recover-bl {\n   65      .but-blue-1 {\n   66:         @include color2wh;\n   67      }\n   68  }\n\nD:\\work_bet\\front_www\\.source\\partners\\19\\scss\\_color_themes.scss:\n   53  }\n   54  \n   55: @mixin color2wh {\n   56      @include color2;\n   57  \n\nD:\\work_bet\\front_www\\.source\\partners\\20\\scss\\_base-custom.scss:\n   20  .not_login {\n   21    > .but-blue-1 {\n   22:     @include color2wh;\n   23    }\n   24  \n   ..\n   95  .nav-recover-bl {\n   96    .but-blue-1 {\n   97:     @include color2wh;\n   98    }\n   99  }\n\nD:\\work_bet\\front_www\\.source\\partners\\20\\scss\\_color_themes.scss:\n  108      @include grad-to-botom2($pink-color, $pink-color);\n  109  }\n  110: @mixin color2wh {\n  111      @include color2;\n  112      &:hover {\n\nD:\\work_bet\\front_www\\.source\\partners\\30134\\scss\\_base-custom.scss:\n  104  .nav-recover-bl {\n  105      .but-blue-1 {\n  106:         @include color2wh;\n  107          text-transform: uppercase;\n  108      }\n\nD:\\work_bet\\front_www\\.source\\partners\\30149\\scss\\_color_themes.scss:\n   72      @include grad-to-botom($m2-color, darken($m2-color, 30%));\n   73  }\n   74: @mixin color2wh {\n   75      @include color2;\n   76      &:hover {\n\nD:\\work_bet\\front_www\\.source\\partners\\35\\scss\\_base-custom.scss:\n   58  .nav-recover-bl {\n   59      .but-blue-1 {\n   60:         @include color2wh;\n   61      }\n   62  }\n\nD:\\work_bet\\front_www\\.source\\partners\\35\\scss\\_color_themes.scss:\n   44      @include headblock($m2-color);\n   45  }\n   46: @mixin color2wh {\n   47      @include color2;\n   48      &:hover {\n\nD:\\work_bet\\front_www\\.source\\partners\\39\\scss\\_base-custom.scss:\n   34  .nav-recover-bl {\n   35      .but-blue-1 {\n   36:         @include color2wh;\n   37          text-transform: uppercase;\n   38      }\n\nD:\\work_bet\\front_www\\.source\\partners\\4\\scss\\_base-custom.scss:\n  101  .nav-recover-bl {\n  102      .but-blue-1 {\n  103:         @include color2wh;\n  104          text-transform: uppercase;\n  105      }\n\nD:\\work_bet\\front_www\\.source\\partners\\49\\scss\\_base-custom.scss:\n   20  .not_login {\n   21    > .but-blue-1 {\n   22:     @include color2wh;\n   23    }\n   24  \n   ..\n   95  .nav-recover-bl {\n   96    .but-blue-1 {\n   97:     @include color2wh;\n   98    }\n   99  }\n\nD:\\work_bet\\front_www\\.source\\partners\\49\\scss\\_color_themes.scss:\n  110      @include grad-to-botom2($pink-color, $pink-color);\n  111  }\n  112: @mixin color2wh {\n  113      @include color2;\n  114      &:hover {\n\nD:\\work_bet\\front_www\\.source\\partners\\50\\scss\\_color_themes.scss:\n   83      @include grad-to-botom($m2-color, darken($m2-color, 30%));\n   84  }\n   85: @mixin color2wh {\n   86      @include color2;\n   87      &:hover {\n\nD:\\work_bet\\front_www\\.source\\partners\\58\\scss\\_base-custom.scss:\n   66  .nav-recover-bl {\n   67      .but-blue-1 {\n   68:         @include color2wh;\n   69      }\n   70  }\n\nD:\\work_bet\\front_www\\.source\\partners\\58\\scss\\_color_themes_fav.scss:\n   40      @include headblock($m2-color);\n   41  }\n   42: @mixin color2wh {\n   43      @include color2;\n   44      &:hover {\n\nD:\\work_bet\\front_www\\.source\\partners\\88\\scss\\_base-custom.scss:\n   47  .nav-recover-bl {\n   48      .but-blue-1 {\n   49:         @include color2wh;\n   50          text-transform: uppercase;\n   51      }\n\nD:\\work_bet\\front_www\\.source\\partners\\88\\scss\\_color_themes.scss:\n   49      @include grad-to-botom2(#1588ee, #0367d3);\n   50  }\n   51: @mixin color2wh {\n   52      @include color2;\n   53      &:hover {\n\nD:\\work_bet\\front_www\\.source\\partners\\90\\scss\\_base-custom.scss:\n   55  .nav-recover-bl {\n   56      .but-blue-1 {\n   57:         @include color2wh;\n   58          text-transform: uppercase;\n   59      }\n\nD:\\work_bet\\front_www\\.source\\partners\\90\\scss\\_color_themes.scss:\n   75  }\n   76  \n   77: @mixin color2wh {\n   78      @include color2;\n   79  \n\n98 matches across 55 files\n",
-			"settings":
-			{
-				"buffer_size": 22857,
 				"line_ending": "Windows",
-				"name": "Find Results",
-				"scratch": true
+				"name": ".button_wrapper {"
 			}
 		},
 		{
-			"file": "/D/work_bet/front_www/.source/partners/50/scss/_color_themes.scss",
+			"file": "/D/work_bet/front_www/js/src/pages/vip/readMe.md",
 			"settings":
 			{
-				"buffer_size": 3236,
+				"buffer_size": 639,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/work_bet/front_www/js/src/pages/vip/tasks/css.js",
+			"settings":
+			{
+				"buffer_size": 1064,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/work_bet/front_www/js/src/pages/vip/js/vip.js",
+			"settings":
+			{
+				"buffer_size": 2620,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "$(function() {"
 			}
 		}
 	],
@@ -107,6 +87,54 @@
 		"selected_items":
 		[
 			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"expo",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"checkout ",
+				"Git: Checkout Current File"
+			],
+			[
+				"commi",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"git add ",
+				"Git: Add Current File"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
 				"checkou",
 				"Git: Checkout Current File"
 			],
@@ -117,10 +145,6 @@
 			[
 				"CHECKO",
 				"Git: Checkout Current File"
-			],
-			[
-				"in",
-				"Package Control: Install Package"
 			],
 			[
 				"che",
@@ -143,14 +167,6 @@
 				"Git: Checkout Current File"
 			],
 			[
-				"disa",
-				"Package Control: Disable Package"
-			],
-			[
-				"checkout ",
-				"Git: Checkout Current File"
-			],
-			[
 				"diff",
 				"Git: Diff Current File"
 			],
@@ -159,16 +175,8 @@
 				"Git: Open Modified Files"
 			],
 			[
-				"ins",
-				"Package Control: Install Package"
-			],
-			[
 				"op",
 				"Git: Open Modified Files"
-			],
-			[
-				"ena",
-				"Package Control: Enable Package"
 			],
 			[
 				"disab",
@@ -181,10 +189,6 @@
 			[
 				"rem",
 				"Package Control: Remove Package"
-			],
-			[
-				"list",
-				"Package Control: List Packages"
 			],
 			[
 				"rein",
@@ -265,10 +269,6 @@
 			[
 				"git con",
 				"Set Syntax: Git Config"
-			],
-			[
-				"inst",
-				"Package Control: Install Package"
 			]
 		],
 		"width": 0.0
@@ -292,21 +292,33 @@
 	},
 	"expanded_folders":
 	[
-		"/D/work_bet/1111111",
 		"/D/work_bet/front_www",
-		"/D/work_bet/front_www/.source",
-		"/D/work_bet/front_www/.source/base",
 		"/D/work_bet/front_www/js",
 		"/D/work_bet/front_www/js/src",
-		"/D/work_bet/front_www/js/src/personalOfficeNew",
-		"/D/work_bet/front_www/js/src/personalOfficeNew/src",
-		"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers",
-		"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal",
-		"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views",
-		"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step1"
+		"/D/work_bet/front_www/js/src/pages",
+		"/D/work_bet/front_www/js/src/pages/vip",
+		"/D/work_bet/front_www/js/src/pages/vip/css",
+		"/D/work_bet/front_www/js/src/pages/vip/css/scss"
 	],
 	"file_history":
 	[
+		"/D/work_bet/front_www/js/src/pages/vip/vip.html",
+		"/D/work_bet/front_www/js/src/pages/vip/gulpfile.js",
+		"/D/my-work/meta/gulpTasks/default.js",
+		"/D/my-work/meta/gulpTasks/css.js",
+		"/D/my/m-o-d-a/landing/tasks/clean.js",
+		"/D/my/m-o-d-a/landing/tasks/css.js",
+		"/D/work_bet/front_www/js/src/pages/vip/readMe.html",
+		"/C/Users/JaineKaminsky/Desktop/Screenshot_19.png",
+		"/D/my/m-o-d-a/landing/gulpfile.js",
+		"/D/work_bet/front_www/.source/partners/50/scss/_color_themes.scss",
+		"/D/work_bet/front_www/.source/base/po/_po_50.scss",
+		"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/DepositAbon.js",
+		"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/addWallet.js",
+		"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/index.js",
+		"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositWallet.js",
+		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
 		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
 		"/D/work_bet/front_www/.source/base/po/_po.scss",
 		"/D/work_bet/front_www/.source/base/po/_payment-instrument.scss",
@@ -345,19 +357,15 @@
 		"/D/work_bet/front_www/js/src/basket/package.json",
 		"/D/work_bet/front_www/.source/base/po_v2/_po_v2_unknown.scss",
 		"/D/work_bet/front_www/js/src/personalOfficeNew/src/reducers/balanceModal/actions.js",
-		"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/addWallet.js",
 		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Sublimerge 3/Sublimerge 3.sublime-settings",
 		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/AutoBackups/AutoBackups (Windows).sublime-settings",
 		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
 		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
 		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
-		"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositWallet.js",
-		"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/DepositAbon.js",
 		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Installed Packages/GitGutter.sublime-package",
 		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
 		"/C/Users/JaineKaminsky/Downloads/Telegram Desktop/ons/mebel_metall.html",
 		"/C/Users/JaineKaminsky/Downloads/Telegram Desktop/ons/index.html",
-		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
 		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/CSS Format/CSS Format.sublime-settings",
 		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/CSS Format.sublime-settings",
 		"/C/Users/JaineKaminsky/Desktop/123.js",
@@ -386,7 +394,6 @@
 		"/D/work_bet/front_tpl/.git/packed-refs",
 		"/D/work_bet/front_tpl/.git/description",
 		"/D/work_bet/core/src/components/common/Button/index.module.css",
-		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
 		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
 		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
 		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/AutoBackups (Windows).sublime-settings",
@@ -395,13 +402,14 @@
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 49.0
 	},
 	"find_in_files":
 	{
 		"height": 125.0,
 		"where_history":
 		[
+			"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\BalanceModal",
 			"D:\\work_bet\\front_www\\.source",
 			"D:\\work_bet\\front_www\\.source\\base",
 			"D:\\work_bet\\front_www\\.source\\base\\po",
@@ -427,9 +435,18 @@
 	},
 	"find_state":
 	{
-		"case_sensitive": false,
+		"case_sensitive": true,
 		"find_history":
 		[
+			"вуиг",
+			"handleDeposit",
+			"handleSubmit",
+			"handleDeposit",
+			"setisDisableDepositBtn",
+			"isActiveDepositBtn",
+			"onChangeError",
+			"handleSubmit",
+			"color",
 			"@mixin color2wh ",
 			"@mixin color2wh {\nimport ",
 			"import ",
@@ -514,6 +531,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"setIsDisableDepositBtn",
+			"isDisableDepositBtn"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -524,162 +543,38 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositWallet.js",
+					"file": "/D/work_bet/front_www/js/src/pages/vip/vip.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 12651,
+						"buffer_size": 27084,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								11941,
-								11941
+								185,
+								185
 							]
 						],
 						"settings":
 						{
 							"git_gutter_is_enabled": true,
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 7660.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/index.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7116,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2784,
-								2785
-							]
-						],
-						"settings":
-						{
-							"git_gutter_is_enabled": true,
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1196.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/DepositAbon.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1427,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								948,
-								948
-							]
-						],
-						"settings":
-						{
-							"git_gutter_enable": true,
-							"git_gutter_is_enabled": true,
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 126.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "ColorHighlighter.sublime-settings",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1085,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								410,
-								399
-							]
-						],
-						"settings":
-						{
-							"git_gutter_is_enabled": true,
-							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
-							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/addWallet.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 15819,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								644,
-								254
-							]
-						],
-						"settings":
-						{
-							"git_gutter_is_enabled": true,
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 373.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -689,594 +584,138 @@
 			"sheets":
 			[
 				{
-					"buffer": 5,
-					"file": "/D/work_bet/front_www/.source/base/po/_po_50.scss",
+					"buffer": 1,
+					"file": "/D/work_bet/front_www/js/src/pages/vip/css/scss/vip.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 628,
+						"buffer_size": 40521,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								625,
-								625
+								39838,
+								39838
 							]
 						],
 						"settings":
 						{
-							"git_gutter_is_enabled": true,
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 378.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 22857,
-						"regions":
-						{
-							"match":
-							{
-								"flags": 112,
-								"regions":
-								[
-									[
-										156,
-										178
-									],
-									[
-										361,
-										383
-									],
-									[
-										515,
-										537
-									],
-									[
-										662,
-										684
-									],
-									[
-										796,
-										818
-									],
-									[
-										940,
-										962
-									],
-									[
-										1056,
-										1078
-									],
-									[
-										1315,
-										1337
-									],
-									[
-										1475,
-										1497
-									],
-									[
-										1678,
-										1700
-									],
-									[
-										1911,
-										1933
-									],
-									[
-										2214,
-										2236
-									],
-									[
-										2386,
-										2408
-									],
-									[
-										2663,
-										2685
-									],
-									[
-										2896,
-										2918
-									],
-									[
-										3042,
-										3064
-									],
-									[
-										3183,
-										3205
-									],
-									[
-										3328,
-										3350
-									],
-									[
-										3452,
-										3474
-									],
-									[
-										3598,
-										3620
-									],
-									[
-										3710,
-										3732
-									],
-									[
-										3854,
-										3876
-									],
-									[
-										3981,
-										4003
-									],
-									[
-										4180,
-										4202
-									],
-									[
-										4407,
-										4415
-									],
-									[
-										4601,
-										4609
-									],
-									[
-										4842,
-										4850
-									],
-									[
-										5005,
-										5013
-									],
-									[
-										5265,
-										5273
-									],
-									[
-										5510,
-										5518
-									],
-									[
-										5731,
-										5739
-									],
-									[
-										5969,
-										5977
-									],
-									[
-										6136,
-										6144
-									],
-									[
-										6302,
-										6310
-									],
-									[
-										6530,
-										6538
-									],
-									[
-										6700,
-										6708
-									],
-									[
-										6832,
-										6840
-									],
-									[
-										6956,
-										6964
-									],
-									[
-										7108,
-										7116
-									],
-									[
-										7234,
-										7242
-									],
-									[
-										7326,
-										7334
-									],
-									[
-										7514,
-										7522
-									],
-									[
-										7673,
-										7681
-									],
-									[
-										7864,
-										7872
-									],
-									[
-										8026,
-										8034
-									],
-									[
-										8180,
-										8188
-									],
-									[
-										8350,
-										8358
-									],
-									[
-										8467,
-										8475
-									],
-									[
-										8722,
-										8730
-									],
-									[
-										9050,
-										9058
-									],
-									[
-										9316,
-										9324
-									],
-									[
-										9580,
-										9588
-									],
-									[
-										9807,
-										9815
-									],
-									[
-										10017,
-										10025
-									],
-									[
-										10193,
-										10201
-									],
-									[
-										10453,
-										10461
-									],
-									[
-										10672,
-										10680
-									],
-									[
-										10892,
-										10900
-									],
-									[
-										11116,
-										11124
-									],
-									[
-										11354,
-										11362
-									],
-									[
-										11454,
-										11462
-									],
-									[
-										11631,
-										11639
-									],
-									[
-										11754,
-										11762
-									],
-									[
-										11859,
-										11867
-									],
-									[
-										11990,
-										11998
-									],
-									[
-										12108,
-										12116
-									],
-									[
-										12244,
-										12252
-									],
-									[
-										12392,
-										12400
-									],
-									[
-										12566,
-										12574
-									],
-									[
-										12752,
-										12760
-									],
-									[
-										12962,
-										12970
-									],
-									[
-										13129,
-										13137
-									],
-									[
-										13373,
-										13381
-									],
-									[
-										13613,
-										13621
-									],
-									[
-										13761,
-										13769
-									],
-									[
-										13955,
-										13963
-									],
-									[
-										14182,
-										14190
-									],
-									[
-										14362,
-										14370
-									],
-									[
-										14569,
-										14577
-									],
-									[
-										14854,
-										14862
-									],
-									[
-										15078,
-										15086
-									],
-									[
-										15255,
-										15263
-									],
-									[
-										15383,
-										15391
-									],
-									[
-										15567,
-										15575
-									],
-									[
-										15748,
-										15756
-									],
-									[
-										15978,
-										15986
-									],
-									[
-										16210,
-										16218
-									],
-									[
-										16405,
-										16413
-									],
-									[
-										16556,
-										16564
-									],
-									[
-										16763,
-										16771
-									],
-									[
-										16908,
-										16916
-									],
-									[
-										17152,
-										17160
-									],
-									[
-										17349,
-										17357
-									],
-									[
-										17537,
-										17545
-									],
-									[
-										17733,
-										17741
-									],
-									[
-										17962,
-										17970
-									],
-									[
-										18163,
-										18171
-									],
-									[
-										18376,
-										18384
-									],
-									[
-										18578,
-										18586
-									],
-									[
-										18779,
-										18787
-									],
-									[
-										18943,
-										18951
-									],
-									[
-										19131,
-										19139
-									],
-									[
-										19262,
-										19270
-									],
-									[
-										19441,
-										19449
-									],
-									[
-										19544,
-										19552
-									],
-									[
-										19727,
-										19735
-									],
-									[
-										19931,
-										19939
-									],
-									[
-										20160,
-										20168
-									],
-									[
-										20361,
-										20369
-									],
-									[
-										20526,
-										20534
-									],
-									[
-										20727,
-										20735
-									],
-									[
-										20932,
-										20940
-									],
-									[
-										21129,
-										21137
-									],
-									[
-										21232,
-										21240
-									],
-									[
-										21415,
-										21423
-									],
-									[
-										21636,
-										21644
-									],
-									[
-										21837,
-										21845
-									],
-									[
-										22006,
-										22014
-									],
-									[
-										22207,
-										22215
-									],
-									[
-										22417,
-										22425
-									],
-									[
-										22618,
-										22626
-									],
-									[
-										22782,
-										22790
-									]
-								],
-								"scope": ""
-							}
-						},
-						"selection":
-						[
-							[
-								21636,
-								21636
-							]
-						],
-						"settings":
-						{
-							"detect_indentation": false,
-							"git_gutter_is_enabled": false,
-							"line_numbers": false,
-							"output_tag": 2,
-							"result_base_dir": "",
-							"result_file_regex": "^([^ \t].*):$",
-							"result_line_regex": "^ +([0-9]+):",
-							"scroll_past_end": true,
-							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 15211.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/D/work_bet/front_www/.source/partners/50/scss/_color_themes.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3236,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2033,
-								2033
-							]
-						],
-						"settings":
-						{
+							"auto_name": ".button_wrapper {",
 							"git_gutter_is_enabled": true,
 							"syntax": "Packages/SCSS/SCSS.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1343.0,
+						"translation.y": 8391.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/D/work_bet/front_www/js/src/pages/vip/readMe.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 639,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								123,
+								123
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"parser": "markdown",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"target": "sublime"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/work_bet/front_www/js/src/pages/vip/tasks/css.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1064,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1059,
+								1063
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 252.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "/D/work_bet/front_www/js/src/pages/vip/js/vip.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2620,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2140,
+								2140
+							]
+						],
+						"settings":
+						{
+							"auto_name": "$(function() {",
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1818.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
@@ -1308,6 +747,18 @@
 				0,
 				2,
 				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
 			]
 		],
 		"cols":
@@ -1319,6 +770,7 @@
 		"rows":
 		[
 			0.0,
+			0.94829369183,
 			1.0
 		]
 	},
@@ -1377,7 +829,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},

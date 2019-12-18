@@ -8,7 +8,7 @@
 		"/D/work_bet/mobile"
 	],
 	"last_version": 3211,
-	"last_window_id": 109,
+	"last_window_id": 110,
 	"log_indexing": false,
 	"settings":
 	{
@@ -52,18 +52,6 @@
 				"selected_items":
 				[
 					[
-						"in",
-						"Package Control: Install Package"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
-					],
-					[
-						"htm",
-						"Markdown Preview: Export HTML in Sublime Text"
-					],
-					[
 						"rem",
 						"Package Control: Remove Package"
 					],
@@ -82,6 +70,10 @@
 					[
 						"rei",
 						"Indentation: Reindent Lines"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
 					],
 					[
 						"inst",
@@ -170,6 +162,10 @@
 					[
 						"disab",
 						"Package Control: Disable Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
 					],
 					[
 						"dis",
@@ -265,9 +261,7 @@
 			},
 			"file_history":
 			[
-				"/D/work_bet/front_www/js/src/pages/vip/css/scss/slick.scss",
-				"/D/work_bet/front_www/js/src/pages/vip/css/scss/normalize.scss",
-				"/D/work_bet/front_www/js/src/pages/vip/readMe.html",
+				"/D/work_bet/front_www/js/src/pages/vip/css/scss/slider.scss",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/CSS Format.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/CSS Format/CSS Format.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
@@ -278,6 +272,7 @@
 				"/D/my-work/meta/gulpTasks/css.js",
 				"/D/my/m-o-d-a/landing/tasks/clean.js",
 				"/D/my/m-o-d-a/landing/tasks/css.js",
+				"/D/work_bet/front_www/js/src/pages/vip/readMe.html",
 				"/C/Users/JaineKaminsky/Desktop/Screenshot_19.png",
 				"/D/my/m-o-d-a/landing/gulpfile.js",
 				"/D/work_bet/front_www/.source/partners/50/scss/_color_themes.scss",
@@ -367,7 +362,7 @@
 			],
 			"find":
 			{
-				"height": 49.0
+				"height": 146.0
 			},
 			"find_in_files":
 			{
@@ -403,6 +398,17 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"h3 {\n            font-size: 32px;\n            color: #140474;\n            text-align: center;\n            margin-bottom: 80px;\n        }",
+					"{\n",
+					"\n.",
+					"}\n",
+					"body",
+					"carou",
+					"caro",
+					"/static/media/pages/vip_page/static/",
+					"MuiGrid-justify-xs-center",
+					"MuiGrid-container",
+					"MuiGrid-root",
 					"css",
 					"post",
 					"inpo",
@@ -1163,7 +1169,7 @@
 					"file": "/D/work_bet/front_www/js/src/pages/vip/vip.html",
 					"settings":
 					{
-						"buffer_size": 26865,
+						"buffer_size": 25460,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -1179,20 +1185,21 @@
 					}
 				},
 				{
-					"file": "/D/work_bet/front_www/js/src/pages/vip/css/scss/slider.scss",
+					"file": "/D/work_bet/front_www/js/src/pages/vip/css/scss/slick.scss",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 11091,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "ColorHighlighter.sublime-settings",
+					"file": "/D/work_bet/front_www/js/src/pages/vip/css/scss/slider.scss",
 					"settings":
 					{
-						"buffer_size": 1111,
-						"line_ending": "Unix"
+						"buffer_size": 206,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
 					}
 				},
 				{
@@ -1208,8 +1215,15 @@
 					"file": "/D/work_bet/front_www/js/src/pages/vip/tasks/css.js",
 					"settings":
 					{
-						"buffer_size": 1064,
+						"buffer_size": 887,
 						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"settings":
+					{
+						"buffer_size": 0,
 						"line_ending": "Windows"
 					}
 				}
@@ -1450,12 +1464,13 @@
 			],
 			"file_history":
 			[
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
 				"/D/work_bet/front_www/js/src/pages/vip/css/scss/slick.scss",
 				"/D/work_bet/front_www/js/src/pages/vip/css/scss/normalize.scss",
 				"/D/work_bet/front_www/js/src/pages/vip/readMe.html",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/CSS Format.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/CSS Format/CSS Format.sublime-settings",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
 				"/D/work_bet/front_www/js/src/pages/vip/vip.html",
 				"/D/work_bet/front_www/js/src/pages/vip/gulpfile.js",
@@ -1471,7 +1486,6 @@
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/addWallet.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/index.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositWallet.js",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
 				"/D/work_bet/front_www/.source/base/po/_po.scss",
 				"/D/work_bet/front_www/.source/base/po/_payment-instrument.scss",
@@ -1585,100 +1599,137 @@
 			},
 			"find_state":
 			{
-				"case_sensitive": true,
+				"case_sensitive": false,
 				"find_history":
 				[
+					"sm_6",
+					"MuiGrid-grid-xl-12",
+					"MuiGrid-grid-xl-11",
+					"MuiGrid-grid-xl-10",
+					"MuiGrid-grid-xl-0",
+					"MuiGrid-grid-xl-9",
+					"MuiGrid-grid-xl-8",
+					"MuiGrid-grid-xl-7",
+					"MuiGrid-grid-xl-6",
+					"MuiGrid-grid-xl-5",
+					"MuiGrid-grid-xl-4",
+					"MuiGrid-grid-xl-3",
+					"MuiGrid-grid-xl-2",
+					"MuiGrid-grid-xl-1",
+					"MuiGrid-grid-lg-12",
+					"MuiGrid-grid-lg-11",
+					"MuiGrid-grid-lg-10",
+					"MuiGrid-grid-lg-9",
+					"MuiGrid-grid-lg-8",
+					"MuiGrid-grid-lg-7",
+					"MuiGrid-grid-lg-6",
+					"MuiGrid-grid-lg-5",
+					"MuiGrid-grid-lg-4",
+					"MuiGrid-grid-lg-3",
+					"MuiGrid-grid-lg-2",
+					"MuiGrid-grid-lg-1",
+					"MuiGrid-grid-md-12",
+					"MuiGrid-grid-md-11",
+					"MuiGrid-grid-md-10",
+					"MuiGrid-grid-md-9",
+					"MuiGrid-grid-md-8",
+					"MuiGrid-grid-md-7",
+					"MuiGrid-grid-md-6",
+					"MuiGrid-grid-md-5",
+					"MuiGrid-grid-md-4",
+					"MuiGrid-grid-md-3",
+					"MuiGrid-grid-md-2",
+					"MuiGrid-grid-md-1",
+					"MuiGrid-grid-md-true",
+					"MuiGrid-grid-md-auto",
+					"MuiGrid-grid-sm-12",
+					"MuiGrid-grid-sm-11",
+					"MuiGrid-grid-sm-10",
+					"MuiGrid-grid-sm-9",
+					"MuiGrid-grid-sm-8",
+					"MuiGrid-grid-sm-7",
+					"MuiGrid-grid-sm-6",
+					"MuiGrid-grid-sm-5",
+					"MuiGrid-grid-sm-4",
+					"MuiGrid-grid-sm-3",
+					"MuiGrid-grid-sm-2",
+					"MuiGrid-grid-sm-1",
+					"MuiGrid-grid-sm-true",
+					"MuiGrid-grid-sm-auto",
+					"MuiGrid-grid-xs-9",
+					"MuiGrid-grid-xs-8",
+					"MuiGrid-grid-xs-7",
+					"MuiGrid-grid-xs-6",
+					"MuiGrid-grid-xs-5",
+					"MuiGrid-grid-xs-4",
+					"MuiGrid-grid-xs-3",
+					"MuiGrid-grid-xs-2",
+					"MuiGrid-grid-xs-1",
+					"MuiGrid-grid-xs-true",
+					"MuiGrid-grid-xs-auto",
+					"MuiGrid-spacing-xs-10",
+					"MuiGrid-spacing-xs-9",
+					"MuiGrid-spacing-xs-8",
+					"MuiGrid-spacing-xs-7",
+					"MuiGrid-spacing-xs-6",
+					"MuiGrid-spacing-xs-5",
+					"MuiGrid-spacing-xs-4",
+					"MuiGrid-spacing-xs-3",
+					"MuiGrid-spacing-xs-2",
+					"MuiGrid-item",
+					"MuiGrid-spacing-xs-1",
+					"MuiGrid-justify-xs-space-evenly",
+					"MuiGrid-justify-xs-space-around",
+					"MuiGrid-justify-xs-space-between",
+					"MuiGrid-justify-xs-flex-end",
+					"MuiGrid-align-content-xs-space-around",
+					"MuiGrid-align-content-xs-space-between",
+					"MuiGrid-align-content-xs-flex-end",
+					"MuiGrid-align-content-xs-flex-start",
+					"MuiGrid-align-content-xs-center",
+					"MuiGrid-align-items-xs-baseline",
+					"MuiGrid-align-items-xs-flex-end",
+					"MuiGrid-align-items-xs-flex-start",
+					"MuiGrid-align-items-xs-center",
+					"MuiGrid-wrap-xs-wrap-reverse",
+					"MuiGrid-wrap-xs-nowrap",
+					"MuiGrid-direction-xs-row-reverse",
+					"MuiGrid-direction-xs-column-reverse",
+					"MuiGrid-direction-xs-column",
+					"MuiGrid-zeroMinWidth",
+					"MuiGrid-root",
 					"css",
-					"post",
-					"inpo",
-					"/static/media/pages/vip_page/static/",
-					"\n                ",
-					"вуиг",
-					"handleDeposit",
-					"handleSubmit",
-					"handleDeposit",
-					"setisDisableDepositBtn",
-					"isActiveDepositBtn",
-					"onChangeError",
-					"handleSubmit",
-					"color",
-					"@mixin color2wh ",
-					"@mixin color2wh {\nimport ",
-					"import ",
-					"color_themes_favbet",
-					"color2wh",
-					"submit_data_wallet_btn",
-					"@mixin",
-					"color2wh",
-					"@mixin color2wh",
-					"color2wh",
-					"submit_data_wallet_btn",
-					"import ",
-					"import",
-					"color2wh",
-					"submit_data_wallet_btn",
-					"disabled",
-					"checkCouponAbon",
-					"!!!",
-					"111",
-					"sss",
-					"checkAcceptAbon",
-					"DepositAbon",
-					"isActiveDepositBtn",
-					"create",
-					"submit",
-					"subm",
-					"wallet_account_id",
-					"input",
-					"autoAmountList",
+					"slide",
 					"item",
-					"add_de",
-					"deposit_select",
-					"autoAmountList",
-					"depos",
-					"deb",
-					"pattern",
-					"patternMess",
-					"patternWall",
-					"pattern",
-					"patter",
-					"vali",
-					"onChangeError",
-					"err",
-					"vali",
-					"depos",
-					"handleSubmit",
-					"mini_",
-					"mini",
-					"show",
-					"hunk",
-					"selectwalletWrap",
-					"depositOptions",
-					"isSelectDisabled",
-					"favbetonline.hr",
-					"esli",
-					"уыдште",
-					"item--price--txt",
-					"walletId",
-					"wallet",
-					"replace",
-					"num_wallet",
-					"paymentInstrumentName",
-					"wallet",
-					"walletId",
-					"onli",
-					"auth",
-					"custom_file_extensions",
-					"inline",
-					"штдшту",
-					"custom_file_extensions ",
-					"not_login",
-					"double",
-					"conemu.exe",
-					"ConEmu.exe",
-					"cmd.exe",
-					"Terminus",
-					"кукьштгы"
+					"carousel-nodots",
+					"MuiGrid-grid-xs-12",
+					"MuiGrid-grid-xs-11",
+					"MuiGrid-grid-xs-10",
+					"img",
+					"MuiGrid-grid-xs-12",
+					"MuiGrid-grid-xs-10",
+					"MuiGrid-grid-xs-9",
+					"MuiGrid-grid-xs-8",
+					"MuiGrid-grid-xs-7",
+					"MuiGrid-grid-xs-6",
+					"MuiGrid-grid-xs-5",
+					"MuiGrid-grid-xs-4",
+					"MuiGrid-grid-xs-3",
+					"MuiGrid-grid-xs-2",
+					"MuiGrid-grid-xs-1",
+					"MuiGrid-grid-xs-true",
+					"MuiGrid-grid-xs-auto",
+					"MuiGrid-spacing-xs-10",
+					"MuiGrid-spacing-xs-9",
+					"MuiGrid-spacing-xs-8",
+					"MuiGrid-spacing-xs-7",
+					"MuiGrid-spacing-xs-6",
+					"MuiGrid-spacing-xs-5",
+					"MuiGrid-spacing-xs-4",
+					"MuiGrid-spacing-xs-3",
+					"MuiGrid-spacing-xs-2",
+					"MuiGrid-spacing-xs-1",
+					"MuiGrid-justify-xs-space-evenly"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1707,7 +1758,7 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 26865,
+								"buffer_size": 25460,
 								"regions":
 								{
 									"col_DA1A32FF":
@@ -1716,20 +1767,20 @@
 										"regions":
 										[
 											[
-												15131,
-												15138
+												14440,
+												14447
 											],
 											[
-												15586,
-												15593
+												14895,
+												14902
 											],
 											[
-												21015,
-												21022
+												19976,
+												19983
 											],
 											[
-												21442,
-												21449
+												20403,
+												20410
 											]
 										],
 										"scope": "col_DA1A32FF"
@@ -1738,8 +1789,8 @@
 								"selection":
 								[
 									[
-										293,
-										293
+										10785,
+										10796
 									]
 								],
 								"settings":
@@ -1749,9 +1800,6 @@
 									"color_helper.file_palette":
 									[
 									],
-									"color_helper.preview_meta":
-									{
-									},
 									"color_helper.scan":
 									{
 										"allowed_colors":
@@ -1774,7 +1822,7 @@
 										"current_ext": ".html",
 										"current_syntax": "HTML/HTML",
 										"enabled": true,
-										"last_updated": 1576592664.97,
+										"last_updated": 1576592729.39,
 										"scan_completion_scopes":
 										[
 										],
@@ -1794,7 +1842,7 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 63.0,
+								"translation.y": 5546.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -1819,44 +1867,204 @@
 								"selection":
 								[
 									[
-										443,
-										443
+										369,
+										369
 									]
 								],
 								"settings":
 								{
 									"auto_name": "$(function() {",
+									"color_helper.file_palette":
+									[
+									],
+									"color_helper.scan":
+									{
+										"current_ext": ".js",
+										"current_syntax": "Babel/JavaScript (Babel)",
+										"enabled": false,
+										"last_updated": 1576592729.39
+									},
 									"git_gutter_is_enabled": true,
 									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
 									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 63.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 4,
 							"type": "text"
 						},
 						{
 							"buffer": 2,
+							"file": "/D/work_bet/front_www/js/src/pages/vip/css/scss/slick.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11091,
+								"regions":
+								{
+									"col_000000FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												10919,
+												10923
+											],
+											[
+												11083,
+												11087
+											]
+										],
+										"scope": "col_000000FF"
+									},
+									"col_404040FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												385,
+												392
+											]
+										],
+										"scope": "col_404040FF"
+									},
+									"col_FFFFFFFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2432,
+												2436
+											],
+											[
+												9383,
+												9387
+											]
+										],
+										"scope": "col_FFFFFFFF"
+									}
+								},
+								"selection":
+								[
+									[
+										1809,
+										1814
+									]
+								],
+								"settings":
+								{
+									"color_helper.file_palette":
+									[
+										"#000000ff",
+										"#404040ff",
+										"#ffffffff"
+									],
+									"color_helper.scan":
+									{
+										"allowed_colors":
+										[
+											"webcolors",
+											"hwb",
+											"gray",
+											"hexa_compressed",
+											"hwba",
+											"graya",
+											"hex",
+											"hexa",
+											"rgb",
+											"rgba",
+											"hex_compressed",
+											"hsl",
+											"hsla"
+										],
+										"compress_hex_output": true,
+										"current_ext": ".scss",
+										"current_syntax": "SCSS/SCSS",
+										"enabled": true,
+										"last_updated": 1576592729.39,
+										"scan_completion_scopes":
+										[
+											"source.scss"
+										],
+										"scan_scopes":
+										[
+											"source.scss -comment -string"
+										],
+										"use_hex_argb": false
+									},
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/SCSS/SCSS.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1661.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
 							"file": "/D/work_bet/front_www/js/src/pages/vip/css/scss/slider.scss",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 0,
+								"buffer_size": 206,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										205,
+										3
 									]
 								],
 								"settings":
 								{
+									"color_helper.file_palette":
+									[
+									],
+									"color_helper.scan":
+									{
+										"allowed_colors":
+										[
+											"webcolors",
+											"hwb",
+											"gray",
+											"hexa_compressed",
+											"hwba",
+											"graya",
+											"hex",
+											"hexa",
+											"rgb",
+											"rgba",
+											"hex_compressed",
+											"hsl",
+											"hsla"
+										],
+										"compress_hex_output": true,
+										"current_ext": ".scss",
+										"current_syntax": "SCSS/SCSS",
+										"enabled": true,
+										"last_updated": 1576592729.39,
+										"scan_completion_scopes":
+										[
+											"source.scss"
+										],
+										"scan_scopes":
+										[
+											"source.scss -comment -string"
+										],
+										"use_hex_argb": false
+									},
 									"git_gutter_is_enabled": true,
 									"syntax": "Packages/SCSS/SCSS.tmLanguage",
 									"tab_size": 4,
@@ -1866,43 +2074,13 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "ColorHighlighter.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1111,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 882.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
+							"stack_index": 3,
 							"type": "text"
 						}
 					]
 				},
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
@@ -1933,7 +2111,7 @@
 								"translation.y": 63.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 6,
 							"type": "text"
 						},
 						{
@@ -1942,36 +2120,85 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1064,
+								"buffer_size": 887,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1059,
-										1063
+										269,
+										269
 									]
 								],
 								"settings":
 								{
+									"color_helper.file_palette":
+									[
+									],
+									"color_helper.scan":
+									{
+										"current_ext": ".js",
+										"current_syntax": "Babel/JavaScript (Babel)",
+										"enabled": false,
+										"last_updated": 1576592729.39
+									},
 									"git_gutter_is_enabled": true,
 									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 252.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 2,
 							"type": "text"
 						}
 					]
 				},
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 6,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"color_helper.file_palette":
+									[
+									],
+									"color_helper.scan":
+									{
+										"current_ext": null,
+										"current_syntax": "Text/Plain text",
+										"enabled": false,
+										"last_updated": 1576592729.39
+									},
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -2130,10 +2357,36 @@
 					"file": "/D/work_bet/front_www/js/src/pages/vip/css/scss/vip.scss",
 					"settings":
 					{
-						"buffer_size": 29363,
+						"buffer_size": 22333,
 						"encoding": "UTF-8",
 						"line_ending": "Windows",
 						"name": ".button_wrapper {"
+					}
+				},
+				{
+					"contents": "https://www.favorit.com.ua/static/media/pages/vip_new/css/vip.min.css\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/js/vip.js\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/header_img.png\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/header_bg.svg\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/ic_1_1.svg\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/ic_1_2.svg\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/ic_1_3.svg\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/ic_1_4.svg\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/ic_1_5.svg\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/ic_1_6.svg\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/ic_3_1.svg\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/ic_3_2.svg\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/ic_3_3.svg\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/bg_2.png\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/header_bg.svg\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/header_bg.svg\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/img_4.svg\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/ic_1_2.svg\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/ic_5_2.svg\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/bg_red.png\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/img_6.png\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/bg_red.png\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/img_9.png\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/header_bg.svg\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/img_10.png\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/bg_12.png\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/ic_13_1.svg\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/ic_13_2.svg\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/ic_13_3.svg\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/img_15_1.jpg\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/img_15_2.jpg\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/img_15_3.jpg\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/header_bg.svg\n\nhttps://www.favorit.com.ua/static/media/pages/vip_new/img/logo.svg",
+					"settings":
+					{
+						"buffer_size": 2394,
+						"line_ending": "Windows",
+						"name": "https://www.favorit.com.ua/static/media/pages/vip_"
+					}
+				},
+				{
+					"contents": "/static/media/pages/vip_new/",
+					"settings":
+					{
+						"buffer_size": 28,
+						"line_ending": "Windows",
+						"name": "/static/media/pages/vip_new/"
+					}
+				},
+				{
+					"contents": "\n// .vip_menu,\n// .vip_page {\n//     background-color: #163768;\n// }\n\n// .vip_menu .vip_tab,\n// .vip_tab3_Content .vip_order p a:hover {\n//     text-decoration: none;\n// }\n\n// body * {\n//     font-family: Roboto, sans-serif;\n// }\n\n// .vip_page {\n//     max-width: 1300px;\n//     margin: 0 auto;\n//     padding: 0 10px;\n//     flex-grow: 1;\n//     display: flex;\n// }\n\n// .vip_menu {\n//     padding: 20px 0;\n//     position: -webkit-sticky;\n//     position: sticky;\n//     top: 0;\n//     z-index: 1;\n// }\n\n// .vip_menu > div {\n//     position: relative;\n// }\n\n// .vip_menu .slick-slide + .slick-slide {\n//     margin-left: 15px;\n// }\n\n// .vip_menu .vip_tab {\n//     width: auto;\n//     padding-left: 25px;\n//     padding-right: 25px;\n//     height: 48px;\n//     border-radius: 24px;\n//     border: none;\n//     outline: 0;\n//     background-color: rgba(16, 31, 59, 0.5);\n//     color: #fff;\n//     white-space: nowrap;\n//     line-height: 48px;\n//     font-size: 14px;\n//     box-sizing: border-box;\n// }\n\n// .vip_menu .vip_tab.vip_tab_active {\n//     border-radius: 24px;\n//     background-image: linear-gradient(to bottom, #00b2ff, #007bff);\n// }\n\n// .vip_header {\n//     background-image: url(../img/header_img.png), url(../img/header_bg.svg);\n//     background-repeat: no-repeat;\n//     background-position: top right, center center;\n//     background-size: contain, cover;\n// }\n\n// .vip_header .vip_headerInner {\n//     display: block;\n//     padding-top: 20px;\n// }\n\n// .vip_header .vip_headerInner .vip_title {\n//     padding: 100px 30px 185px;\n//     color: #fff;\n// }\n\n// .vip_header .vip_headerInner .vip_title h1 {\n//     font-size: 48px;\n//     font-weight: 900;\n//     padding: 20px 0;\n// }\n\n// .vip_header .vip_headerInner .vip_title p {\n//     font-size: 18px;\n// }\n\n// .vip_wrapp {\n//     background: #fff;\n// }\n\n// .contact_button {\n//     width: 260px;\n//     height: 70px;\n//     border-radius: 4px;\n//     border: none;\n//     outline: 0;\n//     color: #fff;\n//     font-size: 14px;\n//     font-weight: 700;\n//     margin-top: 20px;\n//     background-image: linear-gradient(to bottom, #58bd53, #3dac39);\n// }\n\n// .vip_item {\n//     text-align: center;\n// }\n\n// .vip_item .vip_item_icon {\n//     width: 140px;\n//     height: 140px;\n//     margin: 0 auto 9px;\n//     border: 2px solid #bac4d1;\n//     border-radius: 100%;\n//     background-repeat: no-repeat;\n//     background-position: center center;\n// }\n\n// .vip_item .vip_item_title {\n//     font-size: 16px;\n//     font-weight: 700;\n//     color: #da1a32;\n//     margin-bottom: 15px;\n// }\n\n// .vip_item .vip_item_content {\n//     font-size: 16px;\n//     color: #140474;\n// }\n\n// .content_items {\n//     padding: 80px 25px 100px;\n//     background: #fff;\n// }\n\n// .content_items .item_slide {\n//     padding: 0 27px;\n// }\n\n// .content_items .item_slide a {\n//     font-weight: 700;\n//     font-size: 18px;\n// }\n\n// .content_items .item_slide:focus {\n//     outline: none;\n// }\n\n// .vip_tab1_Content {\n//     margin-top: 60px;\n//     margin-bottom: 100px;\n// }\n\n// .vip_tab8_Content .vip_contact .vip_work_time p {\n//     text-align: center;\n// }\n\n// .vip_header .vip_headerInner .vip_title h1,\n// .vip_tab1_Content h2,\n// .vip_tab2_Content h2,\n// .vip_tab3_Content h2,\n// .vip_tab4_Content h2,\n// .vip_tab5_Content h2,\n// .vip_tab6_Content h2,\n// .vip_tab7_Content h2,\n// .vip_tab8_Content h2 {\n//     padding: 20px 0;\n// }\n\n// .vip_tab1_Content .item_1_1 .vip_item_icon {\n//     background-image: url(../img/ic_1_1.svg);\n// }\n\n// .vip_tab1_Content .item_1_2 .vip_item_icon {\n//     background-image: url(../img/ic_1_2.svg);\n// }\n\n// .vip_tab1_Content .item_1_3 .vip_item_icon {\n//     background-image: url(../img/ic_1_3.svg);\n// }\n\n// .vip_tab1_Content .item_1_4 .vip_item_icon {\n//     background-image: url(../img/ic_1_4.svg);\n// }\n\n// .vip_tab1_Content .item_1_5 .vip_item_icon {\n//     background-image: url(../img/ic_1_5.svg);\n// }\n\n// .vip_tab1_Content .item_1_6 .vip_item_icon {\n//     background-image: url(../img/ic_1_6.svg);\n// }\n\n// .vip_tab2_Content .item_3_1 .vip_item_icon {\n//     background-image: url(../img/ic_3_1.svg);\n// }\n\n// .vip_tab2_Content .item_3_2 .vip_item_icon {\n//     background-image: url(../img/ic_3_2.svg);\n// }\n\n// .vip_tab2_Content .item_3_3 .vip_item_icon {\n//     background-image: url(../img/ic_3_3.svg);\n// }\n\n// .vip_tab2_Content .for_contact {\n//     background-image: url(../img/bg_2.png), url(../img/header_bg.svg);\n//     background-repeat: no-repeat;\n//     background-position: top center, center center;\n//     background-size: cover;\n//     padding: 180px 0;\n//     color: #fff;\n//     text-align: center;\n// }\n\n// .vip_tab2_Content .for_contact h2 {\n//     font-size: 48px;\n// }\n\n// .vip_tab2_Content .for_contact p {\n//     font-size: 18px;\n//     text-align: center;\n// }\n\n// .vip_tab3_Content {\n//     background-image: url(../img/header_bg.svg);\n// }\n\n// .vip_tab3_Content .vip_img {\n//     background-image: url(../img/img_4.svg);  +++\n//     background-size: 95%;  +++\n//     background-position: center right;  +++\n//     background-repeat: no-repeat;  +++\n// }\n\n// .vip_tab4_Content .vip_bet_img,\n// .vip_tab5_Content .vip_limits_img,\n// .vip_tab6_Content .vip_cash_img {\n//     background-repeat: no-repeat;\n//     background-size: contain;\n// }\n\n// .vip_tab3_Content .vip_order {\n//     padding: 120px 25px;\n//     color: #fff;\n//     text-align: right;\n//     box-sizing: border-box;\n// }\n\n// .vip_tab3_Content .vip_order h2 {\n//     font-size: 48px;\n// }\n\n// .vip_tab3_Content .vip_order p {\n//     text-align: right;\n//     font-size: 14px;\n// }\n\n// .vip_tab3_Content .vip_order p b {\n//     font-size: 18px;\n// }\n\n// .vip_tab3_Content .vip_order p a {\n//     color: #fff;\n// }\n\n// .vip_tab3_Content .item_slide {\n//     padding-top: 0px;\n//     padding-bottom: -1px;\n// }\n\n// .vip_tab3_Content .item_5_1 .vip_item_icon {\n//     background-image: url(../img/ic_1_2.svg);\n// }\n\n// .vip_tab3_Content .item_5_2 .vip_item_icon {\n//     background-image: url(../img/ic_5_2.svg);\n// }\n\n// .vip_tab4_Content {\n//     color: #140474;\n//     background-color: #fff;\n// }\n\n// .vip_tab4_Content h2 {\n//     font-size: 32px;\n// }\n\n// .vip_tab4_Content ul {\n//     list-style-type: none;\n//     padding-left: 0;\n// }\n\n// .vip_tab4_Content ul li {\n//     margin-bottom: 45px;\n//     font-size: 20px;\n//     position: relative;\n//     padding-left: 45px;\n// }\n\n// .vip_tab4_Content ul li span {\n//     text-align: center;\n//     width: 30px;\n//     height: 30px;\n//     background-color: #da1a32;\n//     border-radius: 100%;\n//     font-size: 18px;\n//     color: #fff;\n//     display: inline-block;\n//     line-height: 30px;\n//     position: absolute;\n//     left: 0;\n//     top: 0;\n// }\n\n// .vip_tab4_Content .vip_bet {\n//     background-image: url(../img/bg_red.png);\n// }\n\n// .vip_tab4_Content .vip_bet_info {\n//     padding-top: 207px;\n//     padding-left: 25px;\n//     padding-bottom: 195px;\n//     color: #fff;\n// }\n\n// .vip_tab4_Content .vip_bet_info h2 {\n//     font-size: 48px;\n// }\n\n// .vip_tab4_Content .vip_bet_info p {\n//     font-size: 14px;\n//     line-height: 20px;\n// }\n\n// .vip_tab4_Content .vip_bet_info p b {\n//     font-size: 18px;\n// }\n\n// .vip_tab4_Content .vip_bet_img {\n//     background-image: url(../img/img_6.png);\n//     background-position: bottom right;\n// }\n\n// .vip_tab4_Content .vip_bet_todo_info {\n//     padding-top: 80px;\n//     padding-bottom: 55px;\n// }\n\n// .vip_tab4_Content .vip_bet_note,\n// .vip_tab4_Content .vip_bet_todo {\n//     padding-left: 30px;\n//     padding-right: 30px;\n// }\n\n// .vip_tab4_Content .vip_bet_note p {\n//     margin-bottom: 50px;\n//     padding-top: 40px;\n//     border-top: 1px solid #f1f3f7;\n//     font-size: 20px;\n// }\n\n// .vip_tab4_Content .vip_bet_todo_stat {\n//     padding: 60px 30px 80px;\n//     background-color: #ecf3fb;\n// }\n\n// .vip_txt_imp {\n//     margin-top: 20px;\n//     padding: 20px;\n//     background-color: #f7f7f7;\n//     border-radius: 4px;\n//     position: relative;\n//     display: inline-block;\n//     width: auto;\n// }\n\n// .vip_txt_imp svg {\n//     position: absolute;\n//     top: 50%;\n//     transform: translateY(-13px);\n// }\n\n// .vip_txt_imp span {\n//     font-size: 16px;\n//     font-weight: 700;\n//     width: auto;\n//     padding-left: 40px;\n//     display: block;\n// }\n\n// .vip_tab5_Content {\n//     background-image: url(../img/bg_red.png);\n//     padding-left: 30px;\n//     padding-right: 30px;\n// }\n\n// .vip_tab5_Content .vip_limits_img {\n//     background-image: url(../img/img_9.png);\n//     background-position: center;\n// }\n\n// .vip_tab5_Content .vip_limits_info {\n//     padding-top: 130px;\n//     padding-bottom: 160px;\n//     color: #fff;\n//     text-align: right;\n// }\n\n// .vip_tab5_Content .vip_limits_info h2 {\n//     font-size: 48px;\n// }\n\n// .vip_tab5_Content .vip_limits_info p {\n//     font-size: 14px;\n//     text-align: right;\n// }\n\n// .vip_tab5_Content .vip_limits_info p b {\n//     font-size: 18px;\n// }\n\n// .vip_accent {\n//     color: #da1a32;\n// }\n\n// .vip_tab6_Content {\n//     background-color: #fff;\n// }\n\n// .vip_tab6_Content .vip_cash {\n//     background-image: url(../img/header_bg.svg);\n// }\n\n// .vip_tab6_Content .vip_cash_img {\n//     background-image: url(../img/img_10.png);\n//     background-position: center right;\n// }\n\n// .vip_tab7_Content .vip_billion,\n// .vip_tab7_Content .vip_interior,\n// .vip_tab8_Content .vip_contact {\n//     background-size: cover;\n//     background-position: center;\n//     background-repeat: no-repeat;\n// }\n\n// .vip_tab6_Content .vip_cash_info {\n//     padding-left: 30px;\n//     padding-top: 225px;\n//     padding-bottom: 245px;\n//     color: #fff;\n// }\n\n// .vip_tab6_Content .vip_cash_info h2 {\n//     font-size: 48px;\n// }\n\n// .vip_tab6_Content .vip_cash_info p,\n// .vip_tab6_Content .vip_cash_prog h3,\n// .vip_tab6_Content .vip_cash_prog p {\n//     font-size: 18px;\n//     line-height: 23px;\n// }\n\n// .vip_tab6_Content .vip_cash_prog {\n//     color: #140474;\n//     padding-left: 30px;\n//     padding-top: 80px;\n//     padding-bottom: 80px;\n// }\n\n// .vip_tab6_Content .vip_cash_note {\n//     padding-top: 30px;\n// }\n\n// .vip_tab7_Content .vip_billion {\n//     padding: 225px 0;\n//     text-align: center;\n//     background-color: #11117f;\n//     background-image: url(../img/bg_12.png);\n//     color: #fff;\n// }\n\n// .vip_tab7_Content .vip_billion h2 {\n//     font-size: 48px;\n// }\n\n// .vip_tab7_Content .vip_billion p {\n//     text-align: center;\n//     font-size: 18px;\n//     line-height: 23px;\n// }\n\n// .vip_tab7_Content .vip_club .content_items h3 {\n//     font-size: 32px;\n//     color: #140474;\n//     text-align: center;\n//     margin-bottom: 80px;\n// }\n\n// .vip_tab7_Content .vip_club .content_items .item_13_1 .vip_item_icon {\n//     background-image: url(../img/ic_13_1.svg);\n// }\n\n// .vip_tab7_Content .vip_club .content_items .item_13_2 .vip_item_icon {\n//     background-image: url(../img/ic_13_2.svg);\n// }\n\n// .vip_tab7_Content .vip_club .content_items .item_13_3 .vip_item_icon {\n//     background-image: url(../img/ic_13_3.svg);\n// }\n\n// .vip_tab7_Content .vip_relax {\n//     background-color: #ecf3fb;\n//     padding-top: 70px;\n//     padding-bottom: 50px;\n//     text-align: center;\n//     color: #140474;\n// }\n\n// .vip_tab7_Content .vip_relax h2 {\n//     font-size: 32px;\n// }\n\n// .vip_tab7_Content .vip_relax p {\n//     text-align: center;\n//     font-size: 22px;\n// }\n\n// .vip_tab7_Content .vip_interior {\n//     height: 317px;\n// }\n\n// .vip_tab7_Content .vip_interior.vip_interior1 {\n//     background-image: url(../img/img_15_1.jpg);\n// }\n\n// .vip_tab7_Content .vip_interior.vip_interior2 {\n//     background-image: url(../img/img_15_2.jpg);\n// }\n\n// .vip_tab7_Content .vip_interior.vip_interior3 {\n//     background-image: url(../img/img_15_3.jpg);\n// }\n\n// .vip_tab8_Content .vip_contact {\n//     padding-top: 75px;\n//     padding-bottom: 75px;\n//     background-image: url(../img/header_bg.svg);\n//     text-align: center;\n//     color: #fff;\n// }\n\n// .vip_tab8_Content .vip_contact h2 {\n//     font-size: 32px;\n// }\n\n// .vip_tab8_Content .vip_contact .vip_logo_bl {\n//     background-image: url(../img/logo.svg);\n//     background-size: contain;\n//     background-position: center;\n//     background-repeat: no-repeat;\n//     height: 35px;\n// }\n\n// .vip_tab8_Content .vip_contact .vip_work_time {\n//     padding: 30px 0;\n// }\n\n// .vip_tab8_Content .vip_contact .vip_work_time p {\n//     font-size: 22px;\n//     font-weight: 700;\n// }\n\n// .vip_tab8_Content .vip_contact .vip_contacts p {\n//     text-align: center;\n// }\n\n// .vip_tab8_Content .vip_contact .vip_contacts p,\n// .vip_tab8_Content .vip_contact .vip_work_time span {\n//     font-size: 14px;\n// }\n\n// .vip_tab8_Content .vip_contact .vip_contacts a {\n//     font-size: 18px;\n//     display: block;\n//     color: #fff;\n//     font-weight: 700;\n//     line-height: 32px;\n// }\n\n// @media screen and (max-width: 1185px) {\n//     .vip_header {\n//         background-position: top right -180px, center center;\n//     }\n// }\n\n// @media screen and (max-width: 983px) {\n//     .content_items .item_slide {\n//         padding: 0 2%;\n//     }\n// }\n\n// @media screen and (max-width: 983px) {\n//     .vip_header {\n//         background-position: top right -160px, center center;\n//     }\n\n//     .vip_header .vip_headerInner .vip_title h1,\n//     .vip_tab2_Content .for_contact h2,\n//     .vip_tab3_Content .vip_order h2,\n//     .vip_tab4_Content .vip_bet_info h2,\n//     .vip_tab5_Content .vip_limits_info h2,\n//     .vip_tab6_Content .vip_cash_info h2,\n//     .vip_tab7_Content .vip_billion h2 {\n//         font-size: 32px;\n//     }\n\n//     .vip_tab4_Content h2,\n//     .vip_tab7_Content .vip_club .content_items h3,\n//     .vip_tab7_Content .vip_relax h2 {\n//         font-size: 24px;\n//     }\n\n//     .vip_header .vip_headerInner .vip_title p,\n//     .vip_tab2_Content .for_contact p,\n//     .vip_tab3_Content .vip_order p b,\n//     .vip_tab4_Content .vip_bet_info p b,\n//     .vip_tab4_Content .vip_bet_note p,\n//     .vip_tab4_Content ul li,\n//     .vip_tab5_Content .vip_limits_info p b,\n//     .vip_tab6_Content .vip_cash_prog p,\n//     .vip_tab7_Content .vip_billion p,\n//     .vip_tab7_Content .vip_relax p,\n//     .vip_txt_imp span {\n//         font-size: 16px;\n//     }\n\n//     .vip_item .vip_item_content,\n//     .vip_tab3_Content .vip_order p,\n//     .vip_tab4_Content .vip_bet_info p,\n//     .vip_tab5_Content .vip_limits_info p {\n//         font-size: 14px;\n//     }\n\n//     .vip_tab3_Content .vip_img {\n//         background-size: contain; +++\n//         margin-top: 50px; +++\n//     }\n\n//     .vip_tab3_Content .vip_order {\n//         padding-top: 0;\n//         text-align: center;\n//     }\n\n//     .vip_tab3_Content .vip_img, +++\n//     .vip_tab4_Content .vip_bet_img,\n//     .vip_tab5_Content .vip_limits_img {\n//         height: 400px;\n//         background-position: center;\n//     }\n\n//     .vip_tab3_Content .vip_img, +++\n//     .vip_tab4_Content .vip_bet_info,\n//     .vip_tab5_Content .vip_limits_info,\n//     .vip_tab6_Content .vip_cash_info {\n//         padding: 30px 0;\n//         text-align: center;\n//     }\n\n//     .vip_tab5_Content .vip_limits_info {\n//         margin-bottom: 50px;\n//     }\n\n//     .vip_tab6_Content .vip_cash_img {\n//         height: 200px;\n//         margin-bottom: 50px;\n//     }\n// }\n\n// @media screen and (max-width: 768px) {\n//     .vip_header .vip_headerInner .vip_title,\n//     .vip_tab6_Content .vip_cash_prog,\n//     .vip_txt_imp span {\n//         text-align: center;\n//     }\n\n//     .vip_tab3_Content .vip_img,\n//     .vip_tab4_Content .vip_bet_img,\n//     .vip_tab5_Content .vip_limits_img {\n//         height: 250px;\n//         margin-top: 50px;\n//     }\n\n//     .vip_header .vip_headerInner .vip_title h1,\n//     .vip_tab2_Content .for_contact h2,\n//     .vip_tab3_Content .vip_order h2,\n//     .vip_tab4_Content .vip_bet_info h2,\n//     .vip_tab5_Content .vip_limits_info h2,\n//     .vip_tab6_Content .vip_cash_info h2,\n//     .vip_tab7_Content .vip_billion h2,\n//     .vip_tab8_Content .vip_contact h2 {\n//         font-size: 24px;\n//     }\n\n//     .vip_tab4_Content h2 {\n//         font-size: 20px;\n//     }\n\n//     .vip_tab6_Content .vip_cash_info h2 {\n//         font-size: 16px;\n//     }\n\n//     .vip_tab7_Content .vip_club .content_items h3 br {\n//         display: none;\n//     }\n\n//     .vip_tab7_Content .vip_relax {\n//         padding-left: 30px;\n//         padding-right: 30px;\n//     }\n\n//     .vip_tab7_Content .vip_club .content_items h3,\n//     .vip_tab7_Content .vip_relax h2 {\n//         font-size: 18px;\n//     }\n\n//     .vip_txt_imp svg {\n//         top: 20px;\n//         transform: translateY(0);\n//         left: 50%;\n//         transform: translateX(-13px);\n//     }\n\n//     .vip_txt_imp span {\n//         padding-left: 0;\n//         padding-top: 40px;\n//     }\n\n//     .vip_tab7_Content .vip_billion,\n//     .vip_tab8_Content .vip_contact {\n//         padding-left: 30px;\n//         padding-right: 30px;\n//     }\n\n//     .vip_tab4_Content ul li {\n//         margin-bottom: 15px;\n//     }\n\n//     .vip_tab4_Content ul li span {\n//         width: 20px;\n//         height: 20px;\n//         font-size: 12px;\n//         line-height: 20px;\n//     }\n\n//     .vip_header .vip_headerInner .vip_title p,\n//     .vip_tab3_Content .vip_order p,\n//     .vip_tab4_Content .vip_bet_info p,\n//     .vip_tab5_Content .vip_limits_info p,\n//     .vip_tab5_Content .vip_limits_info p,\n//     .vip_tab8_Content .vip_contact .vip_work_time p,\n//     .vip_tab6_Content .vip_cash_info p {\n//         text-align: center;\n//     }\n\n//     .vip_header .vip_headerInner .vip_title p,\n//     .vip_tab3_Content .vip_order p,\n//     .vip_tab4_Content .vip_bet_info p,\n//     .vip_tab5_Content .vip_limits_info p,\n//     .vip_tab6_Content .vip_cash_prog p,\n//     .vip_tab7_Content .vip_billion p {\n//         line-height: normal;\n//     }\n// }\n\n// @media screen and (max-width: 580px) {\n//     .vip_header {\n//         background-size: cover;\n//         background-position: bottom right -200px, center center;\n//     }\n\n//     .vip_tab2_Content .for_contact p {\n//         padding: 0 15px;\n//     }\n\n//     .vip_header .vip_headerInner .vip_title,\n//     .vip_tab2_Content .for_contact,\n//     .vip_tab4_Content .vip_bet_todo_info,\n//     .vip_tab4_Content .vip_bet_todo_stat,\n//     .vip_tab7_Content .vip_billion {\n//         padding-top: 70px;\n//         padding-bottom: 70px;\n//     }\n\n//     .vip_tab3_Content .vip_order {\n//         padding-bottom: 70px;\n//     }\n\n//     .vip_tab3_Content .item_slide {\n//         padding-top: 30px;\n//         padding-bottom: 30px;\n//     }\n\n//     .vip_tab3_Content .content_items {\n//         padding-top: 50px;\n//         padding-bottom: 50px;\n//     }\n\n//     .vip_tab4_Content .vip_bet_img {\n//         margin-top: 0;\n//     }\n\n//     .vip_tab5_Content .vip_limits_img {\n//         height: 200px;\n//     }\n\n//     .vip_tab6_Content .vip_cash_img {\n//         height: 100px;\n//     }\n\n//     .vip_tab6_Content .vip_cash_prog {\n//         padding-left: 15px;\n//         padding-right: 15px;\n//     }\n\n//     .vip_tab7_Content .vip_interior {\n//         height: 200px;\n//     }\n// }\n\n// .MuiGrid-container {\n//     width: 100%;\n//     display: flex;\n//     flex-wrap: wrap;\n//     box-sizing: border-box;\n// }\n\n// .MuiGrid-item {\n//     margin: 0;\n//     box-sizing: border-box;\n// }\n\n\n// .MuiGrid-justify-xs-center {\n//     justify-content: center;\n// }\n\n// .MuiGrid-grid-xs-10 {\n//     flex-grow: 0;\n//     max-width: 83.333333%;\n//     flex-basis: 83.333333%;\n// }\n\n// .MuiGrid-grid-xs-11 {\n//     flex-grow: 0;\n//     max-width: 91.666667%;\n//     flex-basis: 91.666667%;\n// }\n\n// .MuiGrid-grid-xs-12 {\n//     flex-grow: 0;\n//     max-width: 100%;\n//     flex-basis: 100%;\n// }\n\n// @media (min-width: 600px) {\n//     .MuiGrid-grid-sm-auto {\n//         flex-grow: 0;\n//         max-width: none;\n//         flex-basis: auto;\n//     }\n\n//     .MuiGrid-grid-sm-true {\n//         flex-grow: 1;\n//         max-width: 100%;\n//         flex-basis: 0;\n//     }\n\n//     .MuiGrid-grid-sm-1 {\n//         flex-grow: 0;\n//         max-width: 8.333333%;\n//         flex-basis: 8.333333%;\n//     }\n\n//     .MuiGrid-grid-sm-2 {\n//         flex-grow: 0;\n//         max-width: 16.666667%;\n//         flex-basis: 16.666667%;\n//     }\n\n//     .MuiGrid-grid-sm-3 {\n//         flex-grow: 0;\n//         max-width: 25%;\n//         flex-basis: 25%;\n//     }\n\n//     .MuiGrid-grid-sm-4 {\n//         flex-grow: 0;\n//         max-width: 33.333333%;\n//         flex-basis: 33.333333%;\n//     }\n\n//     .MuiGrid-grid-sm-5 {\n//         flex-grow: 0;\n//         max-width: 41.666667%;\n//         flex-basis: 41.666667%;\n//     }\n\n//     .MuiGrid-grid-sm-6 {\n//         flex-grow: 0;\n//         max-width: 50%;\n//         flex-basis: 50%;\n//     }\n\n//     .MuiGrid-grid-sm-7 {\n//         flex-grow: 0;\n//         max-width: 58.333333%;\n//         flex-basis: 58.333333%;\n//     }\n\n//     .MuiGrid-grid-sm-8 {\n//         flex-grow: 0;\n//         max-width: 66.666667%;\n//         flex-basis: 66.666667%;\n//     }\n\n//     .MuiGrid-grid-sm-9 {\n//         flex-grow: 0;\n//         max-width: 75%;\n//         flex-basis: 75%;\n//     }\n\n//     .MuiGrid-grid-sm-10 {\n//         flex-grow: 0;\n//         max-width: 83.333333%;\n//         flex-basis: 83.333333%;\n//     }\n\n//     .MuiGrid-grid-sm-11 {\n//         flex-grow: 0;\n//         max-width: 91.666667%;\n//         flex-basis: 91.666667%;\n//     }\n\n//     .MuiGrid-grid-sm-12 {\n//         flex-grow: 0;\n//         max-width: 100%;\n//         flex-basis: 100%;\n//     }\n// }\n\n// @media (min-width: 960px) {\n//     .MuiGrid-grid-md-auto {\n//         flex-grow: 0;\n//         max-width: none;\n//         flex-basis: auto;\n//     }\n\n//     .MuiGrid-grid-md-true {\n//         flex-grow: 1;\n//         max-width: 100%;\n//         flex-basis: 0;\n//     }\n\n//     .MuiGrid-grid-md-1 {\n//         flex-grow: 0;\n//         max-width: 8.333333%;\n//         flex-basis: 8.333333%;\n//     }\n\n//     .MuiGrid-grid-md-2 {\n//         flex-grow: 0;\n//         max-width: 16.666667%;\n//         flex-basis: 16.666667%;\n//     }\n\n//     .MuiGrid-grid-md-3 {\n//         flex-grow: 0;\n//         max-width: 25%;\n//         flex-basis: 25%;\n//     }\n\n//     .MuiGrid-grid-md-4 {\n//         flex-grow: 0;\n//         max-width: 33.333333%;\n//         flex-basis: 33.333333%;\n//     }\n\n//     .MuiGrid-grid-md-5 {\n//         flex-grow: 0;\n//         max-width: 41.666667%;\n//         flex-basis: 41.666667%;\n//     }\n\n//     .MuiGrid-grid-md-6 {\n//         flex-grow: 0;\n//         max-width: 50%;\n//         flex-basis: 50%;\n//     }\n\n//     .MuiGrid-grid-md-7 {\n//         flex-grow: 0;\n//         max-width: 58.333333%;\n//         flex-basis: 58.333333%;\n//     }\n\n//     .MuiGrid-grid-md-8 {\n//         flex-grow: 0;\n//         max-width: 66.666667%;\n//         flex-basis: 66.666667%;\n//     }\n\n//     .MuiGrid-grid-md-9 {\n//         flex-grow: 0;\n//         max-width: 75%;\n//         flex-basis: 75%;\n//     }\n\n//     .MuiGrid-grid-md-10 {\n//         flex-grow: 0;\n//         max-width: 83.333333%;\n//         flex-basis: 83.333333%;\n//     }\n\n//     .MuiGrid-grid-md-11 {\n//         flex-grow: 0;\n//         max-width: 91.666667%;\n//         flex-basis: 91.666667%;\n//     }\n\n//     .MuiGrid-grid-md-12 {\n//         flex-grow: 0;\n//         max-width: 100%;\n//         flex-basis: 100%;\n//     }\n// }\n\n// @media (min-width: 1280px) {\n//     .MuiGrid-grid-lg-auto {\n//         flex-grow: 0;\n//         max-width: none;\n//         flex-basis: auto;\n//     }\n\n//     .MuiGrid-grid-lg-true {\n//         flex-grow: 1;\n//         max-width: 100%;\n//         flex-basis: 0;\n//     }\n\n//     .MuiGrid-grid-lg-1 {\n//         flex-grow: 0;\n//         max-width: 8.333333%;\n//         flex-basis: 8.333333%;\n//     }\n\n//     .MuiGrid-grid-lg-2 {\n//         flex-grow: 0;\n//         max-width: 16.666667%;\n//         flex-basis: 16.666667%;\n//     }\n\n//     .MuiGrid-grid-lg-3 {\n//         flex-grow: 0;\n//         max-width: 25%;\n//         flex-basis: 25%;\n//     }\n\n//     .MuiGrid-grid-lg-4 {\n//         flex-grow: 0;\n//         max-width: 33.333333%;\n//         flex-basis: 33.333333%;\n//     }\n\n//     .MuiGrid-grid-lg-5 {\n//         flex-grow: 0;\n//         max-width: 41.666667%;\n//         flex-basis: 41.666667%;\n//     }\n\n//     .MuiGrid-grid-lg-6 {\n//         flex-grow: 0;\n//         max-width: 50%;\n//         flex-basis: 50%;\n//     }\n\n//     .MuiGrid-grid-lg-7 {\n//         flex-grow: 0;\n//         max-width: 58.333333%;\n//         flex-basis: 58.333333%;\n//     }\n\n//     .MuiGrid-grid-lg-8 {\n//         flex-grow: 0;\n//         max-width: 66.666667%;\n//         flex-basis: 66.666667%;\n//     }\n\n//     .MuiGrid-grid-lg-9 {\n//         flex-grow: 0;\n//         max-width: 75%;\n//         flex-basis: 75%;\n//     }\n\n//     .MuiGrid-grid-lg-10 {\n//         flex-grow: 0;\n//         max-width: 83.333333%;\n//         flex-basis: 83.333333%;\n//     }\n\n//     .MuiGrid-grid-lg-11 {\n//         flex-grow: 0;\n//         max-width: 91.666667%;\n//         flex-basis: 91.666667%;\n//     }\n\n//     .MuiGrid-grid-lg-12 {\n//         flex-grow: 0;\n//         max-width: 100%;\n//         flex-basis: 100%;\n//     }\n// }\n\n@media (min-width: 1920px) {\n    .MuiGrid-grid-xl-auto {\n        flex-grow: 0;\n        max-width: none;\n        flex-basis: auto;\n    }\n\n    .MuiGrid-grid-xl-true {\n        flex-grow: 1;\n        max-width: 100%;\n        flex-basis: 0;\n    }\n\n    .MuiGrid-grid-xl-1 {\n        flex-grow: 0;\n        max-width: 8.333333%;\n        flex-basis: 8.333333%;\n    }\n\n    .MuiGrid-grid-xl-2 {\n        flex-grow: 0;\n        max-width: 16.666667%;\n        flex-basis: 16.666667%;\n    }\n\n    .MuiGrid-grid-xl-3 {\n        flex-grow: 0;\n        max-width: 25%;\n        flex-basis: 25%;\n    }\n\n    .MuiGrid-grid-xl-4 {\n        flex-grow: 0;\n        max-width: 33.333333%;\n        flex-basis: 33.333333%;\n    }\n\n    .MuiGrid-grid-xl-5 {\n        flex-grow: 0;\n        max-width: 41.666667%;\n        flex-basis: 41.666667%;\n    }\n\n    .MuiGrid-grid-xl-6 {\n        flex-grow: 0;\n        max-width: 50%;\n        flex-basis: 50%;\n    }\n\n    .MuiGrid-grid-xl-7 {\n        flex-grow: 0;\n        max-width: 58.333333%;\n        flex-basis: 58.333333%;\n    }\n\n    .MuiGrid-grid-xl-8 {\n        flex-grow: 0;\n        max-width: 66.666667%;\n        flex-basis: 66.666667%;\n    }\n\n    .MuiGrid-grid-xl-9 {\n        flex-grow: 0;\n        max-width: 75%;\n        flex-basis: 75%;\n    }\n\n    .MuiGrid-grid-xl-10 {\n        flex-grow: 0;\n        max-width: 83.333333%;\n        flex-basis: 83.333333%;\n    }\n\n    .MuiGrid-grid-xl-11 {\n        flex-grow: 0;\n        max-width: 91.666667%;\n        flex-basis: 91.666667%;\n    }\n\n    .MuiGrid-grid-xl-12 {\n        flex-grow: 0;\n        max-width: 100%;\n        flex-basis: 100%;\n    }\n}\n\n// .button_wrapper {\n//     /* justify-content: center; */\n//     display: block;\n//     margin-top: 17px;\n// }\n\n// .chat_button,\n// .web_button {\n//     font-family: favfont;\n//     margin-right: 11px;\n//     padding: 10px 30px;\n//     cursor: pointer;\n//     border-radius: 4px;\n//     border: none;\n//     outline: 0;\n//     color: #fff;\n//     font-size: 14px;\n//     font-weight: 700;\n//     margin-top: 20px;\n//     background-image: linear-gradient(to bottom, #58bd53, #3dac39);\n// }\n\n// .chat_button:hover,\n// .web_button:hover {\n//     background-image: linear-gradient(to bottom, #3f983a, #3b9239);\n// }\n\n// .chat_button::before {\n//     content: \"\\e001\";\n// }\n\n// .web_button::before {\n//     content: \"\\e003\";\n// }\n\n// .vip_accent strong {\n//     font-weight: 800;\n// }\n",
+					"settings":
+					{
+						"buffer_size": 27557,
+						"line_ending": "Windows"
 					}
 				}
 			],
@@ -2358,6 +2611,8 @@
 			},
 			"file_history":
 			[
+				"/D/work_bet/front_www/js/src/pages/vip/css/vip.min.css",
+				"/D/work_bet/front_www/js/src/pages/vip/css/scss/slider.scss",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/CSS Format.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/CSS Format/CSS Format.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
@@ -2491,9 +2746,42 @@
 			},
 			"find_state":
 			{
-				"case_sensitive": true,
+				"case_sensitive": false,
 				"find_history":
 				[
+					"vip_cash_prog",
+					"vip_tab6_Content ",
+					"justify-content: center;",
+					"sm-3",
+					"vip_img",
+					"xs-12",
+					"xs_12",
+					"min-width: 600px",
+					"max-width: 580px",
+					"item",
+					"vip_flexXs_12",
+					"vip_flex_Xs_12",
+					"vip_img",
+					"MuiGrid-root",
+					"vip_tab8_Content",
+					"slick_item",
+					"1.0168e+07px",
+					"vip_container",
+					".MuiGrid-grid-xs-",
+					"MuiGrid-grid-xs-",
+					"./static/media/pages/",
+					"uk/page/vip_new/",
+					"\n",
+					"./static/media/pages/vip_new/img/",
+					"../img/",
+					"h3 {\n            font-size: 32px;\n            color: #140474;\n            text-align: center;\n            margin-bottom: 80px;\n        }",
+					"{\n",
+					"\n.",
+					"}\n",
+					"body",
+					"carou",
+					"caro",
+					"/static/media/pages/vip_page/static/",
 					"MuiGrid-justify-xs-center",
 					"MuiGrid-container",
 					"MuiGrid-root",
@@ -2616,7 +2904,7 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 29363,
+								"buffer_size": 22333,
 								"regions":
 								{
 									"col_007BFFFF":
@@ -2625,8 +2913,8 @@
 										"regions":
 										[
 											[
-												1113,
-												1120
+												1655,
+												1662
 											]
 										],
 										"scope": "col_007BFFFF"
@@ -2637,8 +2925,8 @@
 										"regions":
 										[
 											[
-												1104,
-												1111
+												1646,
+												1653
 											]
 										],
 										"scope": "col_00B2FFFF"
@@ -2649,8 +2937,8 @@
 										"regions":
 										[
 											[
-												854,
-												875
+												1340,
+												1361
 											]
 										],
 										"scope": "col_101F3B7F"
@@ -2661,8 +2949,8 @@
 										"regions":
 										[
 											[
-												9825,
-												9832
+												11540,
+												11547
 											]
 										],
 										"scope": "col_11117FFF"
@@ -2673,24 +2961,24 @@
 										"regions":
 										[
 											[
-												2502,
-												2509
+												3352,
+												3359
 											],
 											[
-												5979,
-												5986
+												6881,
+												6888
 											],
 											[
-												9578,
-												9585
+												10889,
+												10896
 											],
 											[
-												10174,
-												10181
+												11968,
+												11975
 											],
 											[
-												10831,
-												10838
+												12664,
+												12671
 											]
 										],
 										"scope": "col_140474FF"
@@ -2701,8 +2989,8 @@
 										"regions":
 										[
 											[
-												173,
-												180
+												204,
+												211
 											]
 										],
 										"scope": "col_163768FF"
@@ -2713,8 +3001,8 @@
 										"regions":
 										[
 											[
-												29210,
-												29217
+												15218,
+												15225
 											]
 										],
 										"scope": "col_3B9239FF"
@@ -2725,12 +3013,12 @@
 										"regions":
 										[
 											[
-												2048,
-												2055
+												2777,
+												2784
 											],
 											[
-												29099,
-												29106
+												15091,
+												15098
 											]
 										],
 										"scope": "col_3DAC39FF"
@@ -2741,8 +3029,8 @@
 										"regions":
 										[
 											[
-												29201,
-												29208
+												15209,
+												15216
 											]
 										],
 										"scope": "col_3F983AFF"
@@ -2753,12 +3041,12 @@
 										"regions":
 										[
 											[
-												2039,
-												2046
+												2768,
+												2775
 											],
 											[
-												29090,
-												29097
+												15082,
+												15089
 											]
 										],
 										"scope": "col_58BD53FF"
@@ -2769,8 +3057,8 @@
 										"regions":
 										[
 											[
-												2210,
-												2217
+												2978,
+												2985
 											]
 										],
 										"scope": "col_BAC4D1FF"
@@ -2781,16 +3069,16 @@
 										"regions":
 										[
 											[
-												2403,
-												2410
+												3224,
+												3231
 											],
 											[
-												6375,
-												6382
+												7378,
+												7385
 											],
 											[
-												8662,
-												8669
+												10154,
+												10161
 											]
 										],
 										"scope": "col_DA1A32FF"
@@ -2801,12 +3089,12 @@
 										"regions":
 										[
 											[
-												7583,
-												7590
+												8874,
+												8881
 											],
 											[
-												10738,
-												10745
+												12539,
+												12546
 											]
 										],
 										"scope": "col_ECF3FBFF"
@@ -2817,8 +3105,8 @@
 										"regions":
 										[
 											[
-												7460,
-												7467
+												8730,
+												8737
 											]
 										],
 										"scope": "col_F1F3F7FF"
@@ -2829,8 +3117,8 @@
 										"regions":
 										[
 											[
-												7673,
-												7680
+												8993,
+												9000
 											]
 										],
 										"scope": "col_F7F7F7FF"
@@ -2841,76 +3129,76 @@
 										"regions":
 										[
 											[
-												888,
-												892
+												1382,
+												1386
 											],
 											[
-												1569,
-												1573
+												2168,
+												2172
 											],
 											[
-												1787,
-												1791
+												2468,
+												2472
 											],
 											[
-												1919,
-												1923
+												2632,
+												2636
 											],
 											[
-												2577,
-												2581
+												3452,
+												3456
 											],
 											[
-												4590,
-												4594
+												5488,
+												5492
 											],
 											[
-												5307,
-												5311
+												6099,
+												6103
 											],
 											[
-												5610,
-												5614
+												6442,
+												6446
 											],
 											[
-												6010,
-												6014
+												6916,
+												6920
 											],
 											[
-												6441,
-												6445
+												7492,
+												7496
 											],
 											[
-												6776,
-												6780
+												7969,
+												7973
 											],
 											[
-												8390,
-												8394
+												9830,
+												9834
 											],
 											[
-												8716,
-												8720
+												10219,
+												10223
 											],
 											[
-												9304,
-												9308
+												10640,
+												10644
 											],
 											[
-												9919,
-												9923
+												11646,
+												11650
 											],
 											[
-												11617,
-												11621
+												13545,
+												13549
 											],
 											[
-												12393,
-												12397
+												14355,
+												14359
 											],
 											[
-												28970,
-												28974
+												14946,
+												14950
 											]
 										],
 										"scope": "col_FFFFFFFF"
@@ -2919,8 +3207,8 @@
 								"selection":
 								[
 									[
-										173,
-										173
+										10620,
+										10620
 									]
 								],
 								"settings":
@@ -2949,19 +3237,7 @@
 									],
 									"color_helper.no_auto": false,
 									"color_helper.popup_active": false,
-									"color_helper.popup_auto": false,
-									"color_helper.preview_meta":
-									{
-										"173":
-										[
-											7016329745038018219,
-											7,
-											"hex",
-											6319430926231481265,
-											52,
-											"1576592672.012492"
-										]
-									},
+									"color_helper.popup_auto": true,
 									"color_helper.scan":
 									{
 										"allowed_colors":
@@ -2984,7 +3260,7 @@
 										"current_ext": ".scss",
 										"current_syntax": "SCSS/SCSS",
 										"enabled": true,
-										"last_updated": 1576592664.97,
+										"last_updated": 1576592729.39,
 										"scan_completion_scopes":
 										[
 											"source.scss"
@@ -3001,10 +3277,464 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 8168.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2394,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										69,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "https://www.favorit.com.ua/static/media/pages/vip_",
+									"color_helper.file_palette":
+									[
+									],
+									"color_helper.scan":
+									{
+										"current_ext": null,
+										"current_syntax": "Text/Plain text",
+										"enabled": false,
+										"last_updated": 1576592729.39
+									},
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 28,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										28,
+										28
+									]
+								],
+								"settings":
+								{
+									"auto_name": "/static/media/pages/vip_new/",
+									"color_helper.file_palette":
+									[
+									],
+									"color_helper.scan":
+									{
+										"current_ext": null,
+										"current_syntax": "Text/Plain text",
+										"enabled": false,
+										"last_updated": 1576592729.39
+									},
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 3,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 27557,
+								"regions":
+								{
+									"col_007BFFFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												1133,
+												1140
+											]
+										],
+										"scope": "col_007BFFFF"
+									},
+									"col_00B2FFFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												1124,
+												1131
+											]
+										],
+										"scope": "col_00B2FFFF"
+									},
+									"col_101F3B7F":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												847,
+												868
+											]
+										],
+										"scope": "col_101F3B7F"
+									},
+									"col_11117FFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												10220,
+												10227
+											]
+										],
+										"scope": "col_11117FFF"
+									},
+									"col_140474FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2633,
+												2640
+											],
+											[
+												6053,
+												6060
+											],
+											[
+												9940,
+												9947
+											],
+											[
+												10582,
+												10589
+											],
+											[
+												11206,
+												11213
+											]
+										],
+										"scope": "col_140474FF"
+									},
+									"col_163768FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												55,
+												62
+											]
+										],
+										"scope": "col_163768FF"
+									},
+									"col_3B9239FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												27374,
+												27381
+											]
+										],
+										"scope": "col_3B9239FF"
+									},
+									"col_3DAC39FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2113,
+												2120
+											],
+											[
+												27251,
+												27258
+											]
+										],
+										"scope": "col_3DAC39FF"
+									},
+									"col_3F983AFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												27365,
+												27372
+											]
+										],
+										"scope": "col_3F983AFF"
+									},
+									"col_58BD53FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2104,
+												2111
+											],
+											[
+												27242,
+												27249
+											]
+										],
+										"scope": "col_58BD53FF"
+									},
+									"col_BAC4D1FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2302,
+												2309
+											]
+										],
+										"scope": "col_BAC4D1FF"
+									},
+									"col_DA1A32FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2519,
+												2526
+											],
+											[
+												6509,
+												6516
+											],
+											[
+												8977,
+												8984
+											]
+										],
+										"scope": "col_DA1A32FF"
+									},
+									"col_ECF3FBFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												7809,
+												7816
+											],
+											[
+												11101,
+												11108
+											]
+										],
+										"scope": "col_ECF3FBFF"
+									},
+									"col_F1F3F7FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												7671,
+												7678
+											]
+										],
+										"scope": "col_F1F3F7FF"
+									},
+									"col_F7F7F7FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												7914,
+												7921
+											]
+										],
+										"scope": "col_F7F7F7FF"
+									},
+									"col_FFFFFFFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												884,
+												888
+											],
+											[
+												1565,
+												1569
+											],
+											[
+												1816,
+												1820
+											],
+											[
+												1972,
+												1976
+											],
+											[
+												2720,
+												2724
+											],
+											[
+												4595,
+												4599
+											],
+											[
+												5355,
+												5359
+											],
+											[
+												5703,
+												5707
+											],
+											[
+												6087,
+												6091
+											],
+											[
+												6584,
+												6588
+											],
+											[
+												6932,
+												6936
+											],
+											[
+												8663,
+												8667
+											],
+											[
+												9040,
+												9044
+											],
+											[
+												9630,
+												9634
+											],
+											[
+												10291,
+												10295
+											],
+											[
+												11954,
+												11958
+											],
+											[
+												12788,
+												12792
+											],
+											[
+												27110,
+												27114
+											]
+										],
+										"scope": "col_FFFFFFFF"
+									}
+								},
+								"selection":
+								[
+									[
+										20324,
+										20337
+									],
+									[
+										20349,
+										20364
+									],
+									[
+										20376,
+										20392
+									]
+								],
+								"settings":
+								{
+									"color_helper.file_palette":
+									[
+									],
+									"color_helper.scan":
+									{
+										"allowed_colors":
+										[
+											"webcolors",
+											"hwb",
+											"gray",
+											"hexa_compressed",
+											"hwba",
+											"graya",
+											"hex",
+											"hexa",
+											"rgb",
+											"rgba",
+											"hex_compressed",
+											"hsl",
+											"hsla"
+										],
+										"compress_hex_output": true,
+										"current_ext": null,
+										"current_syntax": "SCSS/SCSS",
+										"enabled": true,
+										"last_updated": 1576592729.39,
+										"scan_completion_scopes":
+										[
+											"source.scss"
+										],
+										"scan_scopes":
+										[
+											"source.scss -comment -string"
+										],
+										"use_hex_argb": false
+									},
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/SCSS/SCSS.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 18332.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -3027,11 +3757,18 @@
 						0,
 						1,
 						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
 					]
 				],
 				"cols":
 				[
 					0.0,
+					0.509457755359,
 					1.0
 				],
 				"rows":
@@ -3110,633 +3847,6 @@
 			{
 			},
 			"window_id": 107,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"co",
-						"console"
-					],
-					[
-						"cu",
-						"cur-c\tcursor: crosshair;"
-					],
-					[
-						"ai",
-						"ai-c\talign-items: center;"
-					],
-					[
-						"wpa",
-						"wrapDepositAbon"
-					],
-					[
-						"Depo",
-						"DepositCard"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"contents": "{\n    // Show debug logging\n    \"debug\": false,\n\n    // Show index status in the status bar.\n    \"show_index_status\": true,\n\n    // Show popups automatically in configured files.\n    \"auto_popup\": true,\n\n    // Upper case hex when inserting\n    \"upper_case_hex\": false,\n\n    // Use webcolor names when value color matches a webcolor name.\n    \"use_webcolor_names\": true,\n\n    // For Windows 10 HiDpi setups.  This is a temporary workaround\n    // to help reduce abnormally large color previews and other images.\n    // This will be removed once the issue is fixed in Sublime Text 3.\n    \"line_height_workaround\": false,\n\n    // Color picker and palette picker by default\n    // are accessed by clicking an icon on the color info panel.\n    // Click access for one of these can be moved to the color box\n    // (visual representation of the color).\n    // (none|color_picker|palette_picker)\n    \"click_color_box_to_pick\": \"none\",\n\n    // Enables inline color previews found beside the identified color.\n    // Requires ST 3116+ and mdpopups 1.7.4\n    \"inline_previews\": true,\n\n    // Adjust the size of inline image previews by the offset given.\n    // Please use either a positive or negative number.\n    \"inline_preview_offset\": 0,\n\n    // Adjust the position of inline image previews.\n    // (left|right)\n    \"inline_preview_position\": \"left\",\n\n    // Enable color picker option.  Will use native color picker\n    // unless \"use_color_picker_package\" is enabled and external\n    // package is installed.\n    \"enable_color_picker\": true,\n\n    // If the color picker is too big or too small, try playing with this.\n    // This is a coarse control which scales image size relative to the\n    // approximate line height. small (1x), medium (1.5x), and large (2x).\n    // (small | medium | large)\n    \"graphic_size\": \"medium\",\n\n    // Fine scaling of image sizes. Overrides `graphic_size`.\n    // Use an integer or floating point value. `null` disables fine scaling.\n    \"graphic_scale\": null,\n\n    // Use https://github.com/weslly/ColorPicker for the color picker if installed.\n    \"use_color_picker_package\": false,\n\n    // This can be turned off to get a rectangular color picker\n    // That displays possible options by hue and brightness/luminance.\n    \"use_hex_color_picker\": true,\n\n    // Show global palettes in palette panel\n    \"enable_global_user_palettes\": true,\n\n    // Enable storing favorite colors to the favorite palette\n    \"enable_favorite_palette\": true,\n\n    // Enable showing current file color palette\n    \"enable_current_file_palette\": true,\n\n    // Enable color conversion options on color info panel\n    \"enable_color_conversions\": true,\n\n    // Scanning rules\n    \"color_scanning\": [\n        {\n            \"syntax_files\": [],\n            \"syntax_filter\": \"whitelist\",\n            \"base_scopes\": [\n                \"source.css\",\n                \"text.html\"\n            ],\n            \"scan_scopes\": [\n                // https://packagecontrol.io/packages/CSS3\n                \"meta.declaration-list.css -support.type.property-name.css -comment -string\",\n                // CSS, CSS in HTML etc. (based on: Sublime Default)\n                \"meta.property-value.css -comment -string\",\n                // CSS3, CSS3 in HTML etc. (based on: https://packagecontrol.io/packages/CSS3)\n                \"meta.value.css -comment -string\",\n                // HTML attributes (based on: Sublime Default)\n                \"meta.tag.inline.any.html string.quoted -constant.character.entity.html\",\n                \"meta.tag.any.html meta.attribute-with-value.style.html\"\n            ],\n            \"scan_completion_scopes\": [],\n            \"extensions\": [],\n            \"allowed_colors\": [\"css4\"],\n            \"use_hex_argb\": false,\n            \"compress_hex_output\": true\n        },\n        {\n            //Sass (based on: https://packagecontrol.io/packages/Sass)\n            \"syntax_files\": [\"Sass/Syntaxes/Sass\", \"Sass/Syntaxes/SCSS\"],\n            \"syntax_filter\": \"whitelist\",\n            \"base_scopes\": [\n                \"source.sass\",\n                \"source.scss\"\n            ],\n            \"scan_scopes\": [\n                \"source.sass meta.property-value.css -comment -string\",\n                \"source.scss meta.property-value.css -comment -string\"\n            ],\n            \"scan_completion_scopes\": [\n                \"source.scss meta.property-value.css -comment -string\",\n                \"source.sass meta.property-value.css -comment -string\"\n            ],\n            \"extensions\": [],\n            \"allowed_colors\": [\"css4\"],\n            \"use_hex_argb\": false,\n            \"compress_hex_output\": true\n        },\n        {\n            // SCSS (based on https://packagecontrol.io/packages/SCSS)\n            \"syntax_files\": [\"SCSS/SCSS\"],\n            \"syntax_filter\": \"whitelist\",\n            \"base_scopes\": [\n                \"source.scss\"\n            ],\n            \"scan_scopes\": [\n                \"source.scss -comment -string\"\n            ],\n            \"scan_completion_scopes\": [\n                \"source.scss\"\n            ],\n            \"extensions\": [],\n            \"allowed_colors\": [\"css4\"],\n            \"use_hex_argb\": false,\n            \"compress_hex_output\": true\n        },\n        {\n            // SCSS (based on https://packagecontrol.io/packages/Syntax%20Highlighting%20for%20Sass)\n            \"syntax_files\": [\n                \"Syntax Highlighting for Sass/Syntaxes/SCSS\",\n                \"Syntax Highlighting for Sass/Syntaxes/Sass\"\n            ],\n            \"syntax_filter\": \"whitelist\",\n            \"base_scopes\": [\n                \"source.scss\",\n                \"source.sass\"\n            ],\n            \"scan_scopes\": [\n                \"source.scss -comment -string -support.type.property-name\",\n                \"source.sass -comment -string -support.type.property-name\"\n            ],\n            \"scan_completion_scopes\": [\n                \"source.scss -comment -string -support.type.property-name\",\n                \"source.sass -comment -string -support.type.property-name\"\n            ],\n            \"extensions\": [],\n            \"allowed_colors\": [\"css4\"],\n            \"use_hex_argb\": false,\n            \"compress_hex_output\": true\n        },\n        {\n            // Sass (based on https://packagecontrol.io/packages/Syntax%20Highlighting%20for%20PostCSS)\n            \"syntax_files\": [\"Syntax Highlighting for PostCSS/Syntaxes/PostCSS\"],\n            \"syntax_filter\": \"whitelist\",\n            \"base_scopes\": [\n                \"source.postcss\"\n            ],\n            \"scan_scopes\": [\n                \"source.postcss meta.property-list.css.postcss -comment -string\"\n            ],\n            \"scan_completion_scopes\": [\n                \"source.postcss meta.property-list.css.postcss -comment -string\"\n            ],\n            \"extensions\": [],\n            \"allowed_colors\": [\"css4\"],\n            \"use_hex_argb\": false,\n            \"compress_hex_output\": true\n        },\n        {\n            \"syntax_files\": [],\n            \"syntax_filter\": \"whitelist\",\n            \"base_scopes\": [\"text.xml\"],\n            \"scan_scopes\": [\"text.xml -meta.tag.xml -comment -string, string.unquoted.cdata.xml\"],\n            \"allowed_colors\": [\"hex\", \"hexa\", \"hex_compressed\"],\n            \"extensions\": [\".tmTheme\", \".hidden-tmTheme\", \".stTheme\"],\n            \"use_hex_argb\": false,\n            \"compress_hex_output\": false\n        },\n        {\n            \"syntax_files\": [],\n            \"syntax_filter\": \"whitelist\",\n            \"base_scopes\": [\"source.stylus\"],\n            \"scan_scopes\": [\n                // Based on https://github.com/billymoon/Stylus/blob/master/Stylus.tmLanguage\n                \"constant.other.color.rgb-value.stylus\",\n                \"constant.color.w3c-standard-color-name.stylus\",\n                \"meta.property-value.stylus\"\n            ],\n            \"allowed_colors\": [\"css3\"],\n            \"extensions\": [],\n            \"use_hex_argb\": false,\n            \"compress_hex_output\": true\n        },\n        {\n            \"syntax_files\": [],\n            \"syntax_filter\": \"whitelist\",\n            \"base_scopes\": [\"source.less\"],\n            \"scan_scopes\": [\n                \"constant.other.color.rgb-value.css\",\n                \"constant.color.w3c-standard-color-name.css\",\n                \"meta.property-value.css\"\n            ],\n            \"allowed_colors\": [\"css3\"],\n            \"extensions\": [],\n            \"use_hex_argb\": false,\n            \"compress_hex_output\": true\n        }\n    ],\n\n    // Enable project palettes in palette panel (Palettes stored in project file).\n    \"enable_project_user_palettes\": true,\n\n    // Override image border color. This is mainly for schemes that use a dramatically different\n    // background for popups vs code background. Color should be in the form `#RRGGBB`. Alpha channels will\n    // be ignored.\n    \"image_border_color\": null\n}\n",
-					"file": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/ColorHelper/color_helper.sublime-settings",
-					"file_size": -1,
-					"file_write_time": -1,
-					"settings":
-					{
-						"buffer_size": 8834,
-						"line_ending": "Windows",
-						"read_only": true,
-						"scratch": true
-					}
-				},
-				{
-					"file": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/color_helper.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 146,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				}
-			],
-			"build_system": "",
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"in",
-						"Package Control: Install Package"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
-					],
-					[
-						"htm",
-						"Markdown Preview: Export HTML in Sublime Text"
-					],
-					[
-						"rem",
-						"Package Control: Remove Package"
-					],
-					[
-						"ena",
-						"Package Control: Enable Package"
-					],
-					[
-						"rein",
-						"Indentation: Reindent Lines"
-					],
-					[
-						"pre",
-						"JsPrettier: Format Code"
-					],
-					[
-						"rei",
-						"Indentation: Reindent Lines"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"list",
-						"Package Control: List Packages"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"disa",
-						"Package Control: Disable Package"
-					],
-					[
-						"expo",
-						"Markdown Preview: Export HTML in Sublime Text"
-					],
-					[
-						"preview",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"checkout ",
-						"Git: Checkout Current File"
-					],
-					[
-						"commi",
-						"Set Syntax: Git Commit Message"
-					],
-					[
-						"git add ",
-						"Git: Add Current File"
-					],
-					[
-						"lis",
-						"Package Control: List Packages"
-					],
-					[
-						"checkou",
-						"Git: Checkout Current File"
-					],
-					[
-						"checko",
-						"Git: Checkout Current File"
-					],
-					[
-						"CHECKO",
-						"Git: Checkout Current File"
-					],
-					[
-						"che",
-						"Git: Checkout Current File"
-					],
-					[
-						"gitgutter",
-						"Preferences: GitGutter Popup Stylesheet"
-					],
-					[
-						"checkout",
-						"Git: Checkout Current File"
-					],
-					[
-						"chec",
-						"Git: Checkout Current File"
-					],
-					[
-						"ch",
-						"Git: Checkout Current File"
-					],
-					[
-						"diff",
-						"Git: Diff Current File"
-					],
-					[
-						"open",
-						"Git: Open Modified Files"
-					],
-					[
-						"op",
-						"Git: Open Modified Files"
-					],
-					[
-						"disab",
-						"Package Control: Disable Package"
-					],
-					[
-						"dis",
-						"Package Control: Disable Package"
-					],
-					[
-						"enab",
-						"Package Control: Enable Package"
-					],
-					[
-						"prett",
-						"Pretty JSON: Format and Sort JSON"
-					],
-					[
-						"re",
-						"Package Control: Remove Package"
-					],
-					[
-						"gutt",
-						"Preferences: GitGutter Settings"
-					],
-					[
-						"gutte",
-						"Preferences: GitGutter Popup Stylesheet"
-					],
-					[
-						"js",
-						"JsPrettier: Format Code"
-					],
-					[
-						"jspre",
-						"JsPrettier: Format Code"
-					],
-					[
-						"pretti",
-						"JsPrettier: Format Code"
-					],
-					[
-						"con",
-						"ConEmu: Open current file folder"
-					],
-					[
-						"conEm",
-						"ConEmu: Open current file folder"
-					],
-					[
-						"ter",
-						"Terminus: Open ConEmu"
-					],
-					[
-						"prefer",
-						"Preferences: Terminus Command Palette"
-					],
-					[
-						"termi",
-						"Terminus: Open Default Shell in Panel"
-					],
-					[
-						"inde",
-						"Indentation: Reindent Lines"
-					],
-					[
-						"prefe",
-						"Preferences: Terminus Command Palette"
-					],
-					[
-						"git ",
-						"Set Syntax: Git Link"
-					],
-					[
-						"git con",
-						"Set Syntax: Git Config"
-					]
-				],
-				"width": 0.0
-			},
-			"console":
-			{
-				"height": 536.0,
-				"history":
-				[
-					"3"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/D/work_bet/front_www/js/src/pages/vip/css/scss/slick.scss",
-				"/D/work_bet/front_www/js/src/pages/vip/css/scss/normalize.scss",
-				"/D/work_bet/front_www/js/src/pages/vip/readMe.html",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/CSS Format.sublime-settings",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/CSS Format/CSS Format.sublime-settings",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
-				"/D/work_bet/front_www/js/src/pages/vip/vip.html",
-				"/D/work_bet/front_www/js/src/pages/vip/gulpfile.js",
-				"/D/my-work/meta/gulpTasks/default.js",
-				"/D/my-work/meta/gulpTasks/css.js",
-				"/D/my/m-o-d-a/landing/tasks/clean.js",
-				"/D/my/m-o-d-a/landing/tasks/css.js",
-				"/C/Users/JaineKaminsky/Desktop/Screenshot_19.png",
-				"/D/my/m-o-d-a/landing/gulpfile.js",
-				"/D/work_bet/front_www/.source/partners/50/scss/_color_themes.scss",
-				"/D/work_bet/front_www/.source/base/po/_po_50.scss",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/DepositAbon.js",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/addWallet.js",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/index.js",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositWallet.js",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
-				"/D/work_bet/front_www/.source/base/po/_po.scss",
-				"/D/work_bet/front_www/.source/base/po/_payment-instrument.scss",
-				"/D/work_bet/front_www/.source/partners/13/scss/_color_themes.scss",
-				"/D/work_bet/front_www/.source/partners/1/scss/_color_themes_favbet.scss",
-				"/D/work_bet/front_www/.source/base/po/_warning-message.scss",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step1/index.js",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/components/Common/Input.js",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/index.js",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/stepTypes.js",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/components/Common/PanKeeper.js",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/DepositCard.js",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/reducers/personalOfficeModal/actions.js",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/node_modules/redux-actions/lib/index.js",
-				"/D/work_bet/front_www/js/src/basket/node_modules/@storybook/addon-actions/dist/preview/actions.js",
-				"/D/work_bet/front_www/package.json",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/GitGutter.sublime-color-scheme",
-				"/D/work_bet/front_www/partners/1/css/base.css",
-				"/D/work_bet/front_www/partners/13/css/base.css",
-				"/D/work_bet/front_www/partners/15/css/base.css",
-				"/D/work_bet/front_www/partners/18/css/base.css",
-				"/D/work_bet/front_www/partners/19/css/base.css",
-				"/D/work_bet/front_www/partners/20/css/base.css",
-				"/D/work_bet/front_www/partners/30134/css/base.css",
-				"/D/work_bet/front_www/partners/30149/css/base.css",
-				"/D/work_bet/front_www/partners/35/css/base.css",
-				"/D/work_bet/front_www/partners/4/css/base.css",
-				"/D/work_bet/front_www/partners/49/css/base.css",
-				"/D/work_bet/front_www/partners/50/css/base.css",
-				"/D/work_bet/front_www/partners/58/css/base.css",
-				"/D/work_bet/front_www/partners/88/css/base.css",
-				"/D/work_bet/front_www/partners/90/css/base.css",
-				"/D/work_bet/front_www/partners/91/css/base.css",
-				"/D/work_bet/front_www/.source/partners/50/scss/base.scss",
-				"/D/work_bet/front_www/js/src/basket/package.json",
-				"/D/work_bet/front_www/.source/base/po_v2/_po_v2_unknown.scss",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/reducers/balanceModal/actions.js",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Sublimerge 3/Sublimerge 3.sublime-settings",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/AutoBackups/AutoBackups (Windows).sublime-settings",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Installed Packages/GitGutter.sublime-package",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
-				"/C/Users/JaineKaminsky/Downloads/Telegram Desktop/ons/mebel_metall.html",
-				"/C/Users/JaineKaminsky/Downloads/Telegram Desktop/ons/index.html",
-				"/C/Users/JaineKaminsky/Desktop/123.js",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/translate.js",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/Balance/Wallets/index.js",
-				"/D/work_bet/front_www/js/src/basket/src/components/basket/index.js",
-				"/C/Users/JaineKaminsky/AppData/Roaming/npm/node_modules/prettier/package.json",
-				"/D/work_bet/front_www/js/src/basket/src/modules/loginUser/containers/noAuth/rootNoAuth.js",
-				"/D/work_bet/front_www/js/src/basket/src/modules/auth/components/NoAuth/index.js",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Babel.sublime-settings",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-commands",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-menu",
-				"/C/Program Files/Sublime Text 3/Packages/CSS.sublime-package",
-				"/C/Program Files/Sublime Text 3/Packages/PHP.sublime-package",
-				"/C/Program Files/Sublime Text 3/Packages/Python.sublime-package",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Terminus/Default.sublime-commands",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
-				"/C/Users/JaineKaminsky/AppData/Roaming/ConEmu.xml",
-				"/D/work_bet/front_tpl/.git/config",
-				"/D/work_bet/front_www/.git/config",
-				"/D/work_bet/core/.git/config",
-				"/D/work_bet/front_tpl/.git/packed-refs",
-				"/D/work_bet/front_tpl/.git/description",
-				"/D/work_bet/core/src/components/common/Button/index.module.css",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/AutoBackups (Windows).sublime-settings",
-				"/C/Users/JaineKaminsky/package.json",
-				"/C/Users/JaineKaminsky/.babel.json"
-			],
-			"find":
-			{
-				"height": 29.0
-			},
-			"find_in_files":
-			{
-				"height": 125.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": true,
-				"find_history":
-				[
-					"true",
-					"false"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"groups":
-			[
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/ColorHelper/color_helper.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 8834,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1050,
-										1074
-									]
-								],
-								"settings":
-								{
-									"color_helper.box_height": 18,
-									"color_helper.color_scheme": "Packages/gruvbox/gruvbox (Dark) (Medium).sublime-color-scheme",
-									"color_helper.file_palette":
-									[
-									],
-									"color_helper.preview_meta":
-									{
-									},
-									"color_helper.scan":
-									{
-										"current_ext": ".sublime-settings",
-										"current_syntax": "zzz A File Icon zzz/aliases/JSON (Sublime)",
-										"enabled": false,
-										"last_updated": 1576592664.97
-									},
-									"edit_settings_other_view_id": 101,
-									"edit_settings_view": "base",
-									"git_gutter_is_enabled": false,
-									"mini_diff": false,
-									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 189.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 1,
-							"file": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/color_helper.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 146,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										142,
-										142
-									]
-								],
-								"settings":
-								{
-									"color_helper.box_height": 18,
-									"color_helper.color_scheme": "Packages/gruvbox/gruvbox (Dark) (Medium).sublime-color-scheme",
-									"color_helper.file_palette":
-									[
-									],
-									"color_helper.preview_meta":
-									{
-									},
-									"color_helper.scan":
-									{
-										"current_ext": ".sublime-settings",
-										"current_syntax": "zzz A File Icon zzz/aliases/JSON (Sublime)",
-										"enabled": false,
-										"last_updated": 1576592664.97
-									},
-									"edit_settings_default": "// Settings in here override those in \"ColorHelper/color_helper.sublime-settings\",\n\n{\n\t\n}\n",
-									"edit_settings_other_view_id": 100,
-									"edit_settings_view": "user",
-									"git_gutter_is_enabled": false,
-									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 29.0
-			},
-			"input":
-			{
-				"height": 47.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					0.5,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.Terminus":
-			{
-				"height": 139.0
-			},
-			"output.Terminus 2":
-			{
-				"height": 288.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"output.git":
-			{
-				"height": 455.0
-			},
-			"output.mdpopups":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,1060,26,26,1898",
-			"project": "",
-			"replace":
-			{
-				"height": 54.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"selected_group": 1,
-			"settings":
-			{
-			},
-			"show_minimap": true,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": false,
-			"side_bar_width": 334.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			},
-			"window_id": 109,
 			"workspace_name": ""
 		}
 	],

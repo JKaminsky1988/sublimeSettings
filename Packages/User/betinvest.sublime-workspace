@@ -28,38 +28,64 @@
 	"buffers":
 	[
 		{
-			"file": "/D/work_bet/front_www/js/src/pages/vip/vip.html",
-			"settings":
-			{
-				"buffer_size": 27084,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "/D/work_bet/front_www/js/src/pages/vip/css/scss/vip.scss",
 			"settings":
 			{
-				"buffer_size": 40521,
+				"buffer_size": 21594,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": ".button_wrapper {"
 			}
 		},
 		{
-			"file": "/D/work_bet/front_www/js/src/pages/vip/readMe.md",
+			"file": "/D/work_bet/front_www/js/src/pages/vip/vip_en.html",
 			"settings":
 			{
-				"buffer_size": 639,
+				"buffer_size": 23177,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/D/work_bet/front_www/js/src/pages/vip/tasks/css.js",
+			"file": "/D/work_bet/front_www/js/src/pages/vip/vip_ru.html",
 			"settings":
 			{
-				"buffer_size": 1064,
+				"buffer_size": 22881,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/work_bet/front_www/js/src/pages/vip/vip_uk.html",
+			"settings":
+			{
+				"buffer_size": 22872,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\n.vip_flexContainer {\n    width: 100%;\n    display: flex;\n    flex-wrap: wrap;\n    box-sizing: border-box;\n}\n.vip_flexItem {\n    margin: 0;\n    box-sizing: border-box;\n}\n.vip_flexJC {\n    justify-content: center;\n}\n.vip_flexXS_10 {\n    flex-grow: 0;\n    max-width: 83.333333%;\n    flex-basis: 83.333333%;\n}\n.vip_flexXS_11 {\n    flex-grow: 0;\n    max-width: 91.666667%;\n    flex-basis: 91.666667%;\n}\n.vip_flexXS_12 {\n    flex-grow: 0;\n    max-width: 100%;\n    flex-basis: 100%;\n}\n\n@media (min-width: 600px) {\n    .vip_flexSm_3 {\n        flex-grow: 0;\n        max-width: 25%;\n        flex-basis: 25%;\n    }\n    .vip_flexSm_4 {\n        flex-grow: 0;\n        max-width: 33.333333%;\n        flex-basis: 33.333333%;\n    }\n\n    .vip_flexSm_6 {\n        flex-grow: 0;\n        max-width: 50%;\n        flex-basis: 50%;\n    }\n\n    .vip_flexSm_12 {\n        flex-grow: 0;\n        max-width: 100%;\n        flex-basis: 100%;\n    }\n}\n\n@media (min-width: 960px) {\n    .vip_flexMd_4 {\n        flex-grow: 0;\n        max-width: 33.333333%;\n        flex-basis: 33.333333%;\n    }\n\n    .vip_flexMd_6 {\n        flex-grow: 0;\n        max-width: 50%;\n        flex-basis: 50%;\n    }\n\n    .vip_flexMd_7 {\n        flex-grow: 0;\n        max-width: 58.333333%;\n        flex-basis: 58.333333%;\n    }\n\n    .vip_flexMd_8 {\n        flex-grow: 0;\n        max-width: 66.666667%;\n        flex-basis: 66.666667%;\n    }\n}\n\n",
+			"settings":
+			{
+				"buffer_size": 1382,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/work_bet/front_www/js/src/pages/vip/css/vip_old.css",
+			"settings":
+			{
+				"buffer_size": 37094,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/work_bet/front_www/js/src/pages/vip/readMe.md",
+			"settings":
+			{
+				"buffer_size": 2318,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -68,10 +94,27 @@
 			"file": "/D/work_bet/front_www/js/src/pages/vip/js/vip.js",
 			"settings":
 			{
-				"buffer_size": 2620,
+				"buffer_size": 2694,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "$(function() {"
+			}
+		},
+		{
+			"file": "/D/work_bet/front_www/js/src/pages/vip/css/scss/slick.scss",
+			"settings":
+			{
+				"buffer_size": 11091,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<link\n  rel=\"stylesheet\"\n  media=\"screen,print\"\n  type=\"text/css\"\n  href=\"/static/media/pages/vip_page/static/css/vip-main.css\"\n/>\n<link\n  rel=\"stylesheet\"\n  media=\"screen,print\"\n  type=\"text/css\"\n  href=\"/static/media/pages/vip_page/static/css/vip-main-edits.css\"\n/>\n\n<div id=\"vip_page\">\n  <div class=\"vip_page\">\n    <div class=\"MuiGrid-root MuiGrid-container MuiGrid-justify-xs-center\">\n      <div class=\"MuiGrid-root vip_menu MuiGrid-item MuiGrid-grid-xs-12\">\n        <div>\n          <div class=\"carousel carousel-menu\" dir=\"ltr\">\n            <div>\n              <a\n                href=\"#vip_advantages\"\n                id=\"vip_link_1\"\n                class=\"vip_tab vip_tab_1 vip_tab_active\"\n                tabindex=\"-1\"\n                style=\"width: 100%; display: inline-block;\"\n                >Переваги</a\n              >\n            </div>\n\n            <div>\n              <a\n                href=\"#vip_manager\"\n                id=\"vip_link_2\"\n                class=\"vip_tab vip_tab_2 \"\n                tabindex=\"-1\"\n                style=\"width: 100%; display: inline-block;\"\n                >Персональний менеджер</a\n              >\n            </div>\n\n            <div>\n              <a\n                href=\"#vip_shop\"\n                id=\"vip_link_3\"\n                class=\"vip_tab vip_tab_3 \"\n                tabindex=\"-1\"\n                style=\"width: 100%; display: inline-block;\"\n                >VIP-магазин</a\n              >\n            </div>\n\n            <div>\n              <a\n                href=\"#vip_bet\"\n                id=\"vip_link_4\"\n                class=\"vip_tab vip_tab_4 \"\n                tabindex=\"-1\"\n                style=\"width: 100%;display: inline-block;\"\n                >VIP-Ставка</a\n              >\n            </div>\n\n            <div>\n              <a\n                href=\"#vip_limits\"\n                id=\"vip_link_5\"\n                class=\"vip_tab vip_tab_5 \"\n                tabindex=\"-1\"\n                style=\"width: 100%; display: inline-block;\"\n                >Ліміти на виведення </a\n              >\n            </div>\n\n            <div>\n              <a\n                href=\"#vip_cashback\"\n                id=\"vip_link_6\"\n                class=\"vip_tab vip_tab_6 \"\n                tabindex=\"-1\"\n                style=\"width: 100%; display: inline-block;\"\n                >Кешбек</a\n              >\n            </div>\n\n            <div>\n              <a\n                href=\"#vip_club\"\n                id=\"vip_link_7\"\n                class=\"vip_tab vip_tab_7 \"\n                tabindex=\"-1\"\n                style=\"width: 100%; display: inline-block;\"\n                >VIP-клуб</a\n              >\n            </div>\n\n            <div>\n              <a\n                href=\"#vip_contacts\"\n                id=\"vip_link_8\"\n                class=\"vip_tab vip_tab_8 \"\n                tabindex=\"-1\"\n                style=\"width: 100%; display: inline-block;\"\n                >Контакти </a\n              >\n            </div>\n          </div>\n        </div>\n      </div>\n      <div class=\"MuiGrid-root vip_header MuiGrid-item MuiGrid-grid-xs-12\">\n        <div class=\"vip_headerInner\">\n          <div class=\"vip_title\">\n            <h1>Premium можливості для VIP-гравців</h1>\n            <p>\n              В знак нашої вдячності за Ваш вибір і лояльність. Ми раді, що Ви з нами.\n            </p>\n          <div class=\"button_wrapper\">\n        <a class=\"contact_button chat_button\"></a>\n        <a class=\"contact_button web_button\"></a>\n      </div>\n          </div>\n        </div>\n      </div>\n      <div class=\"MuiGrid-root vip_wrapp MuiGrid-item MuiGrid-grid-xs-12\">\n        <div class=\"MuiGrid-root MuiGrid-container MuiGrid-justify-xs-center\">\n          <div\n            class=\"MuiGrid-root vip_tab1_Content MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12\"\n            id=\"vip_advantages\"\n          >\n            <div class=\"content_items\">\n              <div class=\"container\">\n                <div class=\"carousel carousel-dots\">\n                  <div class=\"vip_item item_slide item_1_1\">\n                    <div class=\"vip_item_icon\"></div>\n                    <div class=\"vip_item_title\">\n                      Персональний менеджер\n                    </div>\n                    <div class=\"vip_item_content\">\n                      Виведення коштів? Верифікація рахунку? Замовлення товару в магазині? – Ваш VIP-менеджер допоможе вирішити будь-яке питання максимально швидко\n                    </div>\n                  </div>\n\n                  <div class=\"vip_item item_slide item_1_2\">\n                    <div class=\"vip_item_icon\"></div>\n                    <div class=\"vip_item_title\">\n                      Спеціальні пропозиції\n                    </div>\n                    <div class=\"vip_item_content\">\n                      Спеціальні акції та бонусні пропозиції тільки для вузького кола Наших VIP-гравців\n                    </div>\n                  </div>\n\n                  <div class=\"vip_item item_slide item_1_3\">\n                    <div class=\"vip_item_icon\"></div>\n                    <div class=\"vip_item_title\">VIP-ставки</div>\n                    <div class=\"vip_item_content\">\n                      Хочете поставити більше? Запропонуйте свою ставку Букмекеру! \n                    </div>\n                  </div>\n\n                  <div class=\"vip_item item_slide item_1_4\">\n                    <div class=\"vip_item_icon\"></div>\n                    <div class=\"vip_item_title\">\n                      Розширені ліміти на виведення \n                    </div>\n                    <div class=\"vip_item_content\">\n                      Індивідуальний підхід при виведенні великих сум \n                    </div>\n                  </div>\n\n                  <div class=\"vip_item item_slide item_1_5\">\n                    <div class=\"vip_item_icon\"></div>\n                    <div class=\"vip_item_title\">\n                      Додатковий Кешбек в Казино \n                    </div>\n                    <div class=\"vip_item_content\">\n                      Граєте в розділах Казино та ТВ-Лото? Отримуйте додатковий кешбек! \n                    </div>\n                  </div>\n\n                  <div class=\"vip_item item_slide item_1_6\">\n                    <div class=\"vip_item_icon\"></div>\n                    <div class=\"vip_item_title\">\n                      VIP-Клуб «Billionare» в Києві\n                    </div>\n                    <div class=\"vip_item_content\">\n                      Закритий Букмекерський Клуб класу Premium для тих, хто любить комфорт і великі ставки\n                    </div>\n                  </div>\n                </div>\n              </div>\n            </div>\n          </div>\n        </div>\n        <div\n          class=\"MuiGrid-root vip_tab2_Content MuiGrid-item MuiGrid-grid-xs-12\"\n          id=\"vip_manager\"\n        >\n          <div class=\"for_contact\">\n            <h2>Персональний VIP-менеджер</h2>\n            <p>Ваш особистий консультант готовий допомогти з будь-яким питанням </p>\n          <div class=\"button_wrapper\">\n        <a class=\"contact_button chat_button\"></a>\n        <a class=\"contact_button web_button\"></a>\n      </div>\n          </div>\n          <div class=\"content_items\">\n            <div class=\"container\">\n              <div class=\"carousel carousel-nodots\">\n                <div class=\"vip_item item_slide item_3_1\">\n                  <div class=\"vip_item_icon\"></div>\n                  <div class=\"vip_item_title\"></div>\n                  <div class=\"vip_item_content\">\n                    Пріоритетне обслуговування та найвищі стандарти якості \n                  </div>\n                </div>\n\n                <div class=\"vip_item item_slide item_3_2\">\n                  <div class=\"vip_item_icon\"></div>\n                  <div class=\"vip_item_title\"></div>\n                  <div class=\"vip_item_content\">\n                    Гнучкість та персональний підхід у вирішенні будь-яких ситуацій \n                  </div>\n                </div>\n\n                <div class=\"vip_item item_slide item_3_3\">\n                  <div class=\"vip_item_icon\"></div>\n                  <div class=\"vip_item_title\"></div>\n                  <div class=\"vip_item_content\">\n                    Компетентність та оперативність \n                  </div>\n                </div>\n              </div>\n            </div>\n          </div>\n        </div>\n        <div\n          class=\"MuiGrid-root vip_tab3_Content MuiGrid-item MuiGrid-grid-xs-12\"\n          id=\"vip_shop\"\n        >\n          <div class=\"MuiGrid-root MuiGrid-container MuiGrid-justify-xs-center\">\n            <div\n              class=\"MuiGrid-root vip_img MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-4\"\n            ></div>\n            <div\n              class=\"MuiGrid-root vip_order MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-8\"\n            >\n              <h2>VIP-замовлення в Магазині Фаворит</h2>\n              <p>\n                <b\n                  >Є накопичені бали, але потрібного товару немає в нашому Магазині? Не проблема!</b\n                >\n              </p>\n              <p>\n                Для наших VIP-гравців ми розширюємо асортимент. <br />\n                Просто дайте знати VIP-Менеджеру яка позиція Вас цікавить.\n              </p>\n              <p>\n                В найкоротші терміни ми знайдемо товар, підберемо оптимальні варіанти та підготуємо <br />для Вас індивідуальну пропозицію по цій позиції в нашому <a href=\"/shop\">Магазині</a>\n              </p>\n      <div class=\"button_wrapper\">\n        <a class=\"contact_button chat_button\"></a>\n        <a class=\"contact_button web_button\"></a>\n      </div>\n            </div>\n            <div class=\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12\">\n              <div class=\"MuiGrid-root content_items MuiGrid-container\">\n                <div\n                  class=\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6\"\n                >\n                  <div class=\"vip_item item_slide item_5_1\">\n                    <div class=\"vip_item_icon\"></div>\n                    <div class=\"vip_item_title\"></div>\n                    <div class=\"vip_item_content\">\n                      <a href=\"/page/main_vippromo/\">Акції</a>\n                    </div>\n                  </div>\n                </div>\n                <div\n                  class=\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6\"\n                >\n                  <div class=\"vip_item item_slide item_5_2\">\n                    <div class=\"vip_item_icon\"></div>\n                    <div class=\"vip_item_title\"></div>\n                    <div class=\"vip_item_content\">\n                      <a href=\"/shop\">Магазин</a>\n                    </div>\n                  </div>\n                </div>\n              </div>\n            </div>\n          </div>\n        </div>\n        <div\n          class=\"MuiGrid-root vip_tab4_Content MuiGrid-item MuiGrid-grid-xs-12\"\n          id=\"vip_bet\"\n        >\n          <div\n            class=\"MuiGrid-root vip_bet MuiGrid-container MuiGrid-justify-xs-center\"\n          >\n            <div\n              class=\"MuiGrid-root vip_bet_info MuiGrid-item MuiGrid-grid-xs-10 MuiGrid-grid-sm-6\"\n            >\n              <h2>VIP-Ставка</h2>\n              <p><b>Хочете поставити більше? Запропонуйте свою ставку! </b></p>\n              <p>\n                VIP-ставка - ставка на суму, що перевищує поточний максимум для даного результату. Приймаються прогнози типу «Ординар» і тільки на події Пре-матч.\n              </p>\n            </div>\n            <div\n              class=\"MuiGrid-root vip_bet_img MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6\"\n            ></div>\n          </div>\n          <div class=\"MuiGrid-root vip_bet_todo_info MuiGrid-container\">\n            <div class=\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12\">\n              <div class=\"MuiGrid-root MuiGrid-container\">\n                <div\n                  class=\"MuiGrid-root vip_bet_todo MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-7\"\n                >\n                  <h2>Щоб замовити VIP-ставку достатньо: </h2>\n                  <ul>\n                    <li><span>1</span>Увійти до свого ігрового рахунку. </li>\n                    <li><span>2</span>Додати результат в ігровий білет.</li>\n                    <li>\n                      <span>3</span>Ввести бажану суму і натиснути «Зробити ставку».\n                    </li>\n                    <li>\n                      <span>4</span>Обрати один із запропонованих варіантів: поставити максимум або не ставити у випадку, якщо бажана сума не буде прийнята. \n                    </li>\n                  </ul>\n                </div>\n                <div\n                  class=\"MuiGrid-root vip_bet_note MuiGrid-item MuiGrid-grid-xs-12\"\n                >\n                  <p>\n                    Розгляд займає не більше 3-х хвилин, після чого на екрані з’явиться рішення по заявці\n                  </p>\n                  <div class=\"vip_txt_imp\">\n                    <svg\n                      xmlns=\"http://www.w3.org/2000/svg\"\n                      width=\"26\"\n                      height=\"26\"\n                      viewBox=\"0 0 26 26\"\n                    >\n                      <g fill=\"none\" fill-rule=\"evenodd\">\n                        <path\n                          stroke=\"#DA1A32\"\n                          stroke-linecap=\"round\"\n                          stroke-linejoin=\"round\"\n                          stroke-width=\"2\"\n                          d=\"M12.99 1c6.618 0 11.991 5.373 11.991 11.99 0 6.618-5.373 11.991-11.99 11.991C6.373 24.981 1 19.608 1 12.991 1 6.373 6.373 1 12.99 1zM12.99 7.061v7.665\"\n                        ></path>\n                        <path\n                          fill=\"#DA1A32\"\n                          d=\"M12.99 16.856a1.033 1.033 0 1 1 0 2.065 1.033 1.033 0 0 1 0-2.065z\"\n                        ></path>\n                      </g></svg\n                    ><span\n                      > Зверніть увагу, на час розгляду VIP-ставки прийом інших заявок буде тимчасово призупинено</span\n                    >\n                  </div>\n                </div>\n              </div>\n            </div>\n          </div>\n          <div class=\"MuiGrid-root vip_bet_todo_stat MuiGrid-container\">\n            <div class=\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12\">\n              <h2>Умови VIP-ставки: </h2>\n              <ul>\n                <li>\n                  <span>1</span>Ставки типу «Експрес», «Система» та ставки на події Live не потрапляють до категорії VIP-ставок;\n                </li>\n                <li>\n                  <span>2</span>По рішенню Favorit на деякі спортивні події VIP-ставки не приймаються;\n                </li>\n                <li>\n                  <span>3</span>Після розміщення заявки на VIP-ставку, вона може бути відмінена, змінена або відкликана;\n                </li>\n                <li>\n                  <span>4</span>Favorit залишає за собою право обмежувати прийом VIP-ставок, підтверджувати або відхиляти VIP-ставки без пояснення причин;\n                </li>\n                <li>\n                  <span>5</span>Після визначення результатів по ставці розрахунок відбувається за загальними правилами сайту.\n                </li>\n              </ul>\n            </div>\n          </div>\n        </div>\n        <div\n          class=\"MuiGrid-root vip_tab5_Content MuiGrid-item MuiGrid-grid-xs-12\"\n          id=\"vip_limits\"\n        >\n          <div class=\"MuiGrid-root MuiGrid-container MuiGrid-justify-xs-center\">\n            <div\n              class=\"MuiGrid-root vip_limits_img MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6\"\n            ></div>\n            <div\n              class=\"MuiGrid-root vip_limits_info MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6\"\n            >\n              <h2>Розширені ліміти </h2>\n              <p><b>Привілейовані умови виведення</b></p>\n              <p>\n                Хочете вивести більше, ніж дозволяє добовий ліміт?\n                <br />Зв’яжіться з Вашим персональним менеджером! <br />\n                Спеціальні умови виведення на картки Visa/MasterCard для наших VIP-клієнтів. \n              </p>\n              <div class=\"button_wrapper\">\n        <a class=\"contact_button chat_button\"></a>\n        <a class=\"contact_button web_button\"></a>\n      </div>\n            </div>\n          </div>\n        </div>\n        <div\n          class=\"MuiGrid-root vip_tab6_Content MuiGrid-item MuiGrid-grid-xs-12\"\n          id=\"vip_cashback\"\n        >\n          <div\n            class=\"MuiGrid-root vip_cash MuiGrid-container MuiGrid-justify-xs-center\"\n          >\n            <div\n              class=\"MuiGrid-root vip_cash_info MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-8\"\n            >\n              <h2>Додатковий кешбек в Казино</h2>\n              <p>Отримуйте більше з VIP-статусом </p>\n            </div>\n            <div\n              class=\"MuiGrid-root vip_cash_img MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-4\"\n            ></div>\n          </div>\n          <div class=\"MuiGrid-root vip_cash_prog MuiGrid-container\">\n            <div class=\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-11\">\n              <h3>\n                Наша спеціальна програма лояльності для VIP-гравців – додатковий кешбек за гру в розділах Казино, Казино Live та ТВ Лото\n              </h3>\n              <p>\n                Кожні 2 тижні на різницю між програшними та виграшними ставками у вказаних сервісах нараховується\n                <span class=\"vip_accent\"><strong>кешбек 7%</strong></span>. <br />\n                Розрахунок та зарахування відбувається автоматично 1 та 16 числа кожен місяць (або в найближчий будній день, якщо випадають на вихідні). \n              </p>\n              <p>\n                Забрати кешбек можна в\n                <a href=\"#qwerty\">Особистому кабінеті</a>, розділ «Бонуси», протягом 14-ти днів з моменту нарахування.\n              </p>\n            </div>\n            <div\n              class=\"MuiGrid-root vip_cash_note MuiGrid-item MuiGrid-grid-xs-12\"\n            >\n              <div class=\"vip_txt_imp\">\n                <svg\n                  xmlns=\"http://www.w3.org/2000/svg\"\n                  width=\"26\"\n                  height=\"26\"\n                  viewBox=\"0 0 26 26\"\n                >\n                  <g fill=\"none\" fill-rule=\"evenodd\">\n                    <path\n                      stroke=\"#DA1A32\"\n                      stroke-linecap=\"round\"\n                      stroke-linejoin=\"round\"\n                      stroke-width=\"2\"\n                      d=\"M12.99 1c6.618 0 11.991 5.373 11.991 11.99 0 6.618-5.373 11.991-11.99 11.991C6.373 24.981 1 19.608 1 12.991 1 6.373 6.373 1 12.99 1zM12.99 7.061v7.665\"\n                    ></path>\n                    <path\n                      fill=\"#DA1A32\"\n                      d=\"M12.99 16.856a1.033 1.033 0 1 1 0 2.065 1.033 1.033 0 0 1 0-2.065z\"\n                    ></path>\n                  </g></svg\n                ><span> Мінімальна сума нарахування 25 UAH</span>\n              </div>\n            </div>\n          </div>\n        </div>\n        <div\n          class=\"MuiGrid-root vip_tab7_Content MuiGrid-item MuiGrid-grid-xs-12\"\n          id=\"vip_club\"\n        >\n          <div class=\"MuiGrid-root MuiGrid-container\">\n            <div\n              class=\"MuiGrid-root vip_billion MuiGrid-item MuiGrid-grid-xs-12\"\n            >\n              <h2>VIP-Клуб «Billionare» в Києві</h2>\n              <p>\n                Віддаєте перевагу комфорту, індивідуальному підходу та великим ставкам?<br />\n                Оцініть наш закритий клуб класу Premium. \n              </p>\n            </div>\n            <div class=\"MuiGrid-root vip_club MuiGrid-item MuiGrid-grid-xs-12\">\n              <div class=\"content_items\">\n                <h3>\n                  Перший в Україні VIP-Клуб в будівлі готелю\n                  <br />«Інтерконтиненталь» на Великій Житомирській 2А\n                </h3>\n                <div class=\"container\">\n                  <div class=\"carousel carousel-nodots\">\n                    <div class=\"vip_item item_slide item_13_1\">\n                      <div class=\"vip_item_icon\"></div>\n                      <div class=\"vip_item_title\"></div>\n                      <div class=\"vip_item_content\">\n                        Комфорт преміального рівня, VIP-зал і ставки від 2500 UAH.\n                      </div>\n                    </div>\n\n                    <div class=\"vip_item item_slide item_13_2\">\n                      <div class=\"vip_item_icon\"></div>\n                      <div class=\"vip_item_title\"></div>\n                      <div class=\"vip_item_content\">\n                        Індивідуальний підхід в питаннях лімітів і коефіцієнтів.\n                      </div>\n                    </div>\n\n                    <div class=\"vip_item item_slide item_13_3\">\n                      <div class=\"vip_item_icon\"></div>\n                      <div class=\"vip_item_title\"></div>\n                      <div class=\"vip_item_content\">\n                        Спортивні трансляції на великому екрані, розслаблена атмосфера та чудовий бар.\n                      </div>\n                    </div>\n                  </div>\n                </div>\n              </div>\n            </div>\n            <div class=\"MuiGrid-root vip_relax MuiGrid-item MuiGrid-grid-xs-12\">\n              <h2>Ми готові запропонувати найкращі умови для Вашого відпочинку</h2>\n              <p>\n                «Billionare» Клуб відчинено цілодобово. Чекаємо Вас в будь-який час. Dress Code: Smart Casual.\n              </p>\n            </div>\n            <div class=\"MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12\">\n              <div class=\"MuiGrid-root MuiGrid-container\">\n                <div\n                  class=\"MuiGrid-root vip_interior vip_interior1 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-4\"\n                ></div>\n                <div\n                  class=\"MuiGrid-root vip_interior vip_interior2 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-4\"\n                ></div>\n                <div\n                  class=\"MuiGrid-root vip_interior vip_interior3 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-4\"\n                ></div>\n              </div>\n            </div>\n          </div>\n        </div>\n        <div\n          class=\"MuiGrid-root vip_tab8_Content MuiGrid-item MuiGrid-grid-xs-12\"\n          id=\"vip_contacts\"\n        >\n          <div class=\"MuiGrid-root MuiGrid-container\">\n            <div\n              class=\"MuiGrid-root vip_contact MuiGrid-item MuiGrid-grid-xs-12\"\n            >\n              <h2>Контакти та графік роботи VIP-відділу</h2>\n              <div class=\"vip_logo_bl\"></div>\n              <div class=\"vip_work_time\">\n                <p>08:00 – 20:00 </p>\n                <span>Понеділок – Неділя</span>\n              </div>\n              <div class=\"vip_contacts\">\n                <p>Контактна інформація:</p>\n                <a href=\"mailto:vip@favorit.com.ua\">vip@favorit.com.ua</a\n                ><a href=\"tel:0 800 210 414\">0 800 210 414</a>\n              </div>\n            <div class=\"button_wrapper\">\n        <a class=\"contact_button chat_button\"></a>\n        <a class=\"contact_button web_button\"></a>\n      </div>\n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>\n<script\n  type=\"text/javascript\"\n  src=\"https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js\"\n></script>\n<script\n  type=\"text/javascript\"\n  src=\"/static/media/pages/vip_page/static/js/vip-main.js\"\n></script>",
+			"settings":
+			{
+				"buffer_size": 23517,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -87,20 +130,64 @@
 		"selected_items":
 		[
 			[
-				"inst",
-				"Package Control: Install Package"
+				"checkou",
+				"Git: Checkout Current File"
 			],
 			[
-				"list",
-				"Package Control: List Packages"
+				"checko",
+				"Git: Checkout Current File"
 			],
 			[
 				"ins",
 				"Package Control: Install Package"
 			],
 			[
+				"maek",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"m",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"htm",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
 				"ena",
 				"Package Control: Enable Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pre",
+				"JsPrettier: Format Code"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
 			],
 			[
 				"disa",
@@ -113,10 +200,6 @@
 			[
 				"preview",
 				"Markdown Preview: Preview in Browser"
-			],
-			[
-				"in",
-				"Package Control: Install Package"
 			],
 			[
 				"checkout ",
@@ -133,14 +216,6 @@
 			[
 				"lis",
 				"Package Control: List Packages"
-			],
-			[
-				"checkou",
-				"Git: Checkout Current File"
-			],
-			[
-				"checko",
-				"Git: Checkout Current File"
 			],
 			[
 				"CHECKO",
@@ -183,18 +258,6 @@
 				"Package Control: Disable Package"
 			],
 			[
-				"remo",
-				"Package Control: Remove Package"
-			],
-			[
-				"rem",
-				"Package Control: Remove Package"
-			],
-			[
-				"rein",
-				"Indentation: Reindent Lines"
-			],
-			[
 				"dis",
 				"Package Control: Disable Package"
 			],
@@ -217,10 +280,6 @@
 			[
 				"gutte",
 				"Preferences: GitGutter Popup Stylesheet"
-			],
-			[
-				"pre",
-				"JsPrettier: Format Code"
 			],
 			[
 				"js",
@@ -293,22 +352,51 @@
 	"expanded_folders":
 	[
 		"/D/work_bet/front_www",
+		"/D/work_bet/front_www/default",
+		"/D/work_bet/front_www/default/fonts",
 		"/D/work_bet/front_www/js",
 		"/D/work_bet/front_www/js/src",
 		"/D/work_bet/front_www/js/src/pages",
 		"/D/work_bet/front_www/js/src/pages/vip",
 		"/D/work_bet/front_www/js/src/pages/vip/css",
-		"/D/work_bet/front_www/js/src/pages/vip/css/scss"
+		"/D/work_bet/front_www/js/src/pages/vip/css/scss",
+		"/D/work_bet/front_www/js/src/pages/vip/instruction",
+		"/D/work_bet/front_www/js/src/pages/vip/js",
+		"/D/work_bet/front_www/js/src/pages/vip/tasks"
 	],
 	"file_history":
 	[
+		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/D/work_bet/front_www/js/src/pages/vip/css/vip.min.css",
+		"/D/work_bet/mobile/.env",
+		"/D/work_bet/mobile/README.md",
+		"/D/work_bet/mobile/src/services/pages/pages/Page/styles.scss",
+		"/D/work_bet/mobile/.eslintrc.yml",
+		"/D/work_bet/mobile/.gitignore",
+		"/D/work_bet/mobile/src/consts/partners.js",
+		"/D/work_bet/mobile/src/client.js",
+		"/D/work_bet/mobile/src/helpers/Html.js",
+		"/D/work_bet/front_www/js/src/pages/vip/css/vip_old.css",
+		"/D/work_bet/front_www/js/src/pages/vip/css/scss/reset.scss",
+		"/D/work_bet/front_www/js/src/pages/vip/tasks/css.js",
+		"/D/work_bet/front_www/js/src/pages/vip/css/scss/normalize.scss",
+		"/D/work_bet/front_www/js/src/pages/vip/readMe.html",
+		"/D/work_bet/front_www/js/src/pages/vip/css/scss/slider.scss",
+		"/D/work_bet/front_www/js/src/pages/vip/vip_uk.html",
+		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
+		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/D/work_bet/front_www/js/src/pages/vip/css/scss/slick.scss",
+		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/CSS Format.sublime-settings",
+		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/CSS Format/CSS Format.sublime-settings",
+		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
 		"/D/work_bet/front_www/js/src/pages/vip/vip.html",
 		"/D/work_bet/front_www/js/src/pages/vip/gulpfile.js",
 		"/D/my-work/meta/gulpTasks/default.js",
 		"/D/my-work/meta/gulpTasks/css.js",
 		"/D/my/m-o-d-a/landing/tasks/clean.js",
 		"/D/my/m-o-d-a/landing/tasks/css.js",
-		"/D/work_bet/front_www/js/src/pages/vip/readMe.html",
 		"/C/Users/JaineKaminsky/Desktop/Screenshot_19.png",
 		"/D/my/m-o-d-a/landing/gulpfile.js",
 		"/D/work_bet/front_www/.source/partners/50/scss/_color_themes.scss",
@@ -317,8 +405,6 @@
 		"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/addWallet.js",
 		"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/index.js",
 		"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositWallet.js",
-		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
-		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
 		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
 		"/D/work_bet/front_www/.source/base/po/_po.scss",
 		"/D/work_bet/front_www/.source/base/po/_payment-instrument.scss",
@@ -327,7 +413,6 @@
 		"/D/work_bet/front_www/.source/base/po/_warning-message.scss",
 		"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step1/index.js",
 		"/D/work_bet/front_www/js/src/personalOfficeNew/src/components/Common/Input.js",
-		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
 		"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/index.js",
 		"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/stepTypes.js",
 		"/D/work_bet/front_www/js/src/personalOfficeNew/src/components/Common/PanKeeper.js",
@@ -366,8 +451,6 @@
 		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
 		"/C/Users/JaineKaminsky/Downloads/Telegram Desktop/ons/mebel_metall.html",
 		"/C/Users/JaineKaminsky/Downloads/Telegram Desktop/ons/index.html",
-		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/CSS Format/CSS Format.sublime-settings",
-		"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/CSS Format.sublime-settings",
 		"/C/Users/JaineKaminsky/Desktop/123.js",
 		"/D/work_bet/front_www/js/src/personalOfficeNew/src/translate.js",
 		"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/Balance/Wallets/index.js",
@@ -435,95 +518,137 @@
 	},
 	"find_state":
 	{
-		"case_sensitive": true,
+		"case_sensitive": false,
 		"find_history":
 		[
-			"вуиг",
-			"handleDeposit",
-			"handleSubmit",
-			"handleDeposit",
-			"setisDisableDepositBtn",
-			"isActiveDepositBtn",
-			"onChangeError",
-			"handleSubmit",
-			"color",
-			"@mixin color2wh ",
-			"@mixin color2wh {\nimport ",
-			"import ",
-			"color_themes_favbet",
-			"color2wh",
-			"submit_data_wallet_btn",
-			"@mixin",
-			"color2wh",
-			"@mixin color2wh",
-			"color2wh",
-			"submit_data_wallet_btn",
-			"import ",
-			"import",
-			"color2wh",
-			"submit_data_wallet_btn",
-			"disabled",
-			"checkCouponAbon",
-			"!!!",
-			"111",
-			"sss",
-			"checkAcceptAbon",
-			"DepositAbon",
-			"isActiveDepositBtn",
-			"create",
-			"submit",
-			"subm",
-			"wallet_account_id",
-			"input",
-			"autoAmountList",
+			"cash",
+			"bill",
+			"vip_tab4_Content",
+			"vip_item",
+			"vip_item_icon",
+			"content_items",
+			"h1",
+			"vip_tab1_Content",
+			"vip_headerInner",
+			"vip_tab1_Content",
+			"favbet.devel",
+			"line",
+			"linux",
+			"vip_tab1_Content",
+			"vip_container",
+			"vip_flex",
+			"xs",
+			"vip_tab3_co",
+			"vip_tab3Pcon",
+			"983px",
+			"960",
+			"67em",
+			"h1",
+			"vip_new",
+			"img",
+			"sm_6",
+			"MuiGrid-grid-xl-12",
+			"MuiGrid-grid-xl-11",
+			"MuiGrid-grid-xl-10",
+			"MuiGrid-grid-xl-0",
+			"MuiGrid-grid-xl-9",
+			"MuiGrid-grid-xl-8",
+			"MuiGrid-grid-xl-7",
+			"MuiGrid-grid-xl-6",
+			"MuiGrid-grid-xl-5",
+			"MuiGrid-grid-xl-4",
+			"MuiGrid-grid-xl-3",
+			"MuiGrid-grid-xl-2",
+			"MuiGrid-grid-xl-1",
+			"MuiGrid-grid-lg-12",
+			"MuiGrid-grid-lg-11",
+			"MuiGrid-grid-lg-10",
+			"MuiGrid-grid-lg-9",
+			"MuiGrid-grid-lg-8",
+			"MuiGrid-grid-lg-7",
+			"MuiGrid-grid-lg-6",
+			"MuiGrid-grid-lg-5",
+			"MuiGrid-grid-lg-4",
+			"MuiGrid-grid-lg-3",
+			"MuiGrid-grid-lg-2",
+			"MuiGrid-grid-lg-1",
+			"MuiGrid-grid-md-12",
+			"MuiGrid-grid-md-11",
+			"MuiGrid-grid-md-10",
+			"MuiGrid-grid-md-9",
+			"MuiGrid-grid-md-8",
+			"MuiGrid-grid-md-7",
+			"MuiGrid-grid-md-6",
+			"MuiGrid-grid-md-5",
+			"MuiGrid-grid-md-4",
+			"MuiGrid-grid-md-3",
+			"MuiGrid-grid-md-2",
+			"MuiGrid-grid-md-1",
+			"MuiGrid-grid-md-true",
+			"MuiGrid-grid-md-auto",
+			"MuiGrid-grid-sm-12",
+			"MuiGrid-grid-sm-11",
+			"MuiGrid-grid-sm-10",
+			"MuiGrid-grid-sm-9",
+			"MuiGrid-grid-sm-8",
+			"MuiGrid-grid-sm-7",
+			"MuiGrid-grid-sm-6",
+			"MuiGrid-grid-sm-5",
+			"MuiGrid-grid-sm-4",
+			"MuiGrid-grid-sm-3",
+			"MuiGrid-grid-sm-2",
+			"MuiGrid-grid-sm-1",
+			"MuiGrid-grid-sm-true",
+			"MuiGrid-grid-sm-auto",
+			"MuiGrid-grid-xs-9",
+			"MuiGrid-grid-xs-8",
+			"MuiGrid-grid-xs-7",
+			"MuiGrid-grid-xs-6",
+			"MuiGrid-grid-xs-5",
+			"MuiGrid-grid-xs-4",
+			"MuiGrid-grid-xs-3",
+			"MuiGrid-grid-xs-2",
+			"MuiGrid-grid-xs-1",
+			"MuiGrid-grid-xs-true",
+			"MuiGrid-grid-xs-auto",
+			"MuiGrid-spacing-xs-10",
+			"MuiGrid-spacing-xs-9",
+			"MuiGrid-spacing-xs-8",
+			"MuiGrid-spacing-xs-7",
+			"MuiGrid-spacing-xs-6",
+			"MuiGrid-spacing-xs-5",
+			"MuiGrid-spacing-xs-4",
+			"MuiGrid-spacing-xs-3",
+			"MuiGrid-spacing-xs-2",
+			"MuiGrid-item",
+			"MuiGrid-spacing-xs-1",
+			"MuiGrid-justify-xs-space-evenly",
+			"MuiGrid-justify-xs-space-around",
+			"MuiGrid-justify-xs-space-between",
+			"MuiGrid-justify-xs-flex-end",
+			"MuiGrid-align-content-xs-space-around",
+			"MuiGrid-align-content-xs-space-between",
+			"MuiGrid-align-content-xs-flex-end",
+			"MuiGrid-align-content-xs-flex-start",
+			"MuiGrid-align-content-xs-center",
+			"MuiGrid-align-items-xs-baseline",
+			"MuiGrid-align-items-xs-flex-end",
+			"MuiGrid-align-items-xs-flex-start",
+			"MuiGrid-align-items-xs-center",
+			"MuiGrid-wrap-xs-wrap-reverse",
+			"MuiGrid-wrap-xs-nowrap",
+			"MuiGrid-direction-xs-row-reverse",
+			"MuiGrid-direction-xs-column-reverse",
+			"MuiGrid-direction-xs-column",
+			"MuiGrid-zeroMinWidth",
+			"MuiGrid-root",
+			"css",
+			"slide",
 			"item",
-			"add_de",
-			"deposit_select",
-			"autoAmountList",
-			"depos",
-			"deb",
-			"pattern",
-			"patternMess",
-			"patternWall",
-			"pattern",
-			"patter",
-			"vali",
-			"onChangeError",
-			"err",
-			"vali",
-			"depos",
-			"handleSubmit",
-			"mini_",
-			"mini",
-			"show",
-			"hunk",
-			"selectwalletWrap",
-			"depositOptions",
-			"isSelectDisabled",
-			"favbetonline.hr",
-			"esli",
-			"уыдште",
-			"item--price--txt",
-			"walletId",
-			"wallet",
-			"replace",
-			"num_wallet",
-			"paymentInstrumentName",
-			"wallet",
-			"walletId",
-			"onli",
-			"auth",
-			"custom_file_extensions",
-			"inline",
-			"штдшту",
-			"custom_file_extensions ",
-			"not_login",
-			"double",
-			"conemu.exe",
-			"ConEmu.exe",
-			"cmd.exe",
-			"Terminus",
-			"кукьштгы"
+			"carousel-nodots",
+			"MuiGrid-grid-xs-12",
+			"MuiGrid-grid-xs-11",
+			"MuiGrid-grid-xs-10"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -548,30 +673,389 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/D/work_bet/front_www/js/src/pages/vip/vip.html",
+					"file": "/D/work_bet/front_www/js/src/pages/vip/css/scss/vip.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 27084,
+						"buffer_size": 21594,
 						"regions":
 						{
+							"col_007BFFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1594,
+										1601
+									]
+								],
+								"scope": "col_007BFFFF"
+							},
+							"col_00B2FFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1585,
+										1592
+									]
+								],
+								"scope": "col_00B2FFFF"
+							},
+							"col_101F3B7F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1331,
+										1352
+									]
+								],
+								"scope": "col_101F3B7F"
+							},
+							"col_11117FFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										10878,
+										10885
+									]
+								],
+								"scope": "col_11117FFF"
+							},
+							"col_140474FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										2830,
+										2837
+									],
+									[
+										6056,
+										6063
+									],
+									[
+										10207,
+										10214
+									],
+									[
+										11235,
+										11242
+									],
+									[
+										11853,
+										11860
+									]
+								],
+								"scope": "col_140474FF"
+							},
+							"col_163768FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										392,
+										399
+									]
+								],
+								"scope": "col_163768FF"
+							},
+							"col_3B9239FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										14246,
+										14253
+									]
+								],
+								"scope": "col_3B9239FF"
+							},
+							"col_3DAC39FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										14163,
+										14170
+									]
+								],
+								"scope": "col_3DAC39FF"
+							},
+							"col_3F983AFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										14237,
+										14244
+									]
+								],
+								"scope": "col_3F983AFF"
+							},
+							"col_58BD53FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										14154,
+										14161
+									]
+								],
+								"scope": "col_58BD53FF"
+							},
+							"col_BAC4D1FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										2499,
+										2506
+									]
+								],
+								"scope": "col_BAC4D1FF"
+							},
+							"col_D5DFEAFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										8259,
+										8266
+									]
+								],
+								"scope": "col_D5DFEAFF"
+							},
+							"col_DA1A32FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										2701,
+										2708
+									],
+									[
+										6630,
+										6637
+									],
+									[
+										9628,
+										9635
+									]
+								],
+								"scope": "col_DA1A32FF"
+							},
+							"col_ECF3FBFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										8086,
+										8093
+									],
+									[
+										11752,
+										11759
+									]
+								],
+								"scope": "col_ECF3FBFF"
+							},
+							"col_F1F3F7FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										6491,
+										6498
+									],
+									[
+										7920,
+										7927
+									]
+								],
+								"scope": "col_F1F3F7FF"
+							},
+							"col_F7F7F7FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										8354,
+										8361
+									]
+								],
+								"scope": "col_F7F7F7FF"
+							},
+							"col_FFFFFFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1367,
+										1371
+									],
+									[
+										2008,
+										2012
+									],
+									[
+										2338,
+										2342
+									],
+									[
+										2941,
+										2945
+									],
+									[
+										4690,
+										4694
+									],
+									[
+										5345,
+										5349
+									],
+									[
+										5699,
+										5703
+									],
+									[
+										6087,
+										6091
+									],
+									[
+										6714,
+										6718
+									],
+									[
+										7027,
+										7031
+									],
+									[
+										9109,
+										9113
+									],
+									[
+										9685,
+										9689
+									],
+									[
+										10064,
+										10068
+									],
+									[
+										10968,
+										10972
+									],
+									[
+										12710,
+										12714
+									],
+									[
+										13560,
+										13564
+									],
+									[
+										14034,
+										14038
+									]
+								],
+								"scope": "col_FFFFFFFF"
+							}
 						},
 						"selection":
 						[
 							[
-								185,
-								185
+								9640,
+								9640
 							]
 						],
 						"settings":
 						{
+							"auto_name": ".button_wrapper {",
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/gruvbox/gruvbox (Dark) (Medium).sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+								"#007bffff",
+								"#00b2ffff",
+								"#101f3b7F@1",
+								"#11117fff",
+								"#140474ff",
+								"#163768ff",
+								"#3b9239ff",
+								"#3dac39ff",
+								"#3f983aff",
+								"#58bd53ff",
+								"#bac4d1ff",
+								"#d5dfeaff",
+								"#da1a32ff",
+								"#ecf3fbff",
+								"#f1f3f7ff",
+								"#f7f7f7ff",
+								"#ffffffff"
+							],
+							"color_helper.no_auto": false,
+							"color_helper.popup_active": false,
+							"color_helper.popup_auto": true,
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"gray",
+									"graya",
+									"rgb",
+									"hwb",
+									"hexa_compressed",
+									"hsl",
+									"hwba",
+									"rgba",
+									"webcolors",
+									"hsla",
+									"hex",
+									"hexa",
+									"hex_compressed"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".scss",
+								"current_syntax": "SCSS/SCSS",
+								"enabled": true,
+								"last_updated": 1576658263.43,
+								"scan_completion_scopes":
+								[
+									"source.scss"
+								],
+								"scan_scopes":
+								[
+									"source.scss -comment -string"
+								],
+								"use_hex_argb": false
+							},
 							"git_gutter_is_enabled": true,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 9263.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -585,65 +1069,184 @@
 			[
 				{
 					"buffer": 1,
-					"file": "/D/work_bet/front_www/js/src/pages/vip/css/scss/vip.scss",
+					"file": "/D/work_bet/front_www/js/src/pages/vip/vip_en.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 40521,
+						"buffer_size": 23177,
 						"regions":
 						{
+							"col_DA1A32FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										13141,
+										13148
+									],
+									[
+										13568,
+										13575
+									],
+									[
+										18116,
+										18123
+									],
+									[
+										18515,
+										18522
+									]
+								],
+								"scope": "col_DA1A32FF"
+							}
 						},
 						"selection":
 						[
 							[
-								39838,
-								39838
+								118,
+								22973
 							]
 						],
 						"settings":
 						{
-							"auto_name": ".button_wrapper {",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"gray",
+									"graya",
+									"rgb",
+									"hwb",
+									"hexa_compressed",
+									"hsl",
+									"hwba",
+									"rgba",
+									"webcolors",
+									"hsla",
+									"hex",
+									"hexa",
+									"hex_compressed"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".html",
+								"current_syntax": "HTML/HTML",
+								"enabled": true,
+								"last_updated": 1576658263.43,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
 							"git_gutter_is_enabled": true,
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
-							"tab_size": 4,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 8391.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 1,
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 1,
-			"sheets":
-			[
+				},
 				{
 					"buffer": 2,
-					"file": "/D/work_bet/front_www/js/src/pages/vip/readMe.md",
+					"file": "/D/work_bet/front_www/js/src/pages/vip/vip_ru.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 639,
+						"buffer_size": 22881,
 						"regions":
 						{
+							"col_DA1A32FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										12832,
+										12839
+									],
+									[
+										13259,
+										13266
+									],
+									[
+										17893,
+										17900
+									],
+									[
+										18292,
+										18299
+									]
+								],
+								"scope": "col_DA1A32FF"
+							}
 						},
 						"selection":
 						[
 							[
-								123,
-								123
+								118,
+								22677
 							]
 						],
 						"settings":
 						{
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"gray",
+									"graya",
+									"rgb",
+									"hwb",
+									"hexa_compressed",
+									"hsl",
+									"hwba",
+									"rgba",
+									"webcolors",
+									"hsla",
+									"hex",
+									"hexa",
+									"hex_compressed"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".html",
+								"current_syntax": "HTML/HTML",
+								"enabled": true,
+								"last_updated": 1576658263.43,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
 							"git_gutter_is_enabled": true,
-							"parser": "markdown",
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
-							"target": "sublime"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -654,33 +1257,542 @@
 				},
 				{
 					"buffer": 3,
-					"file": "/D/work_bet/front_www/js/src/pages/vip/tasks/css.js",
+					"file": "/D/work_bet/front_www/js/src/pages/vip/vip_uk.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1064,
+						"buffer_size": 22872,
+						"regions":
+						{
+							"col_DA1A32FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										12878,
+										12885
+									],
+									[
+										13305,
+										13312
+									],
+									[
+										17883,
+										17890
+									],
+									[
+										18282,
+										18289
+									]
+								],
+								"scope": "col_DA1A32FF"
+							}
+						},
+						"selection":
+						[
+							[
+								118,
+								22668
+							]
+						],
+						"settings":
+						{
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"gray",
+									"graya",
+									"rgb",
+									"hwb",
+									"hexa_compressed",
+									"hsl",
+									"hwba",
+									"rgba",
+									"webcolors",
+									"hsla",
+									"hex",
+									"hexa",
+									"hex_compressed"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".html",
+								"current_syntax": "HTML/HTML",
+								"enabled": true,
+								"last_updated": 1576658263.43,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1382,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1059,
-								1063
+								169,
+								169
 							]
 						],
 						"settings":
 						{
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"gray",
+									"graya",
+									"rgb",
+									"hwb",
+									"hexa_compressed",
+									"hsl",
+									"hwba",
+									"rgba",
+									"webcolors",
+									"hsla",
+									"hex",
+									"hexa",
+									"hex_compressed"
+								],
+								"compress_hex_output": true,
+								"current_ext": null,
+								"current_syntax": "SCSS/SCSS",
+								"enabled": true,
+								"last_updated": 1576658263.43,
+								"scan_completion_scopes":
+								[
+									"source.scss"
+								],
+								"scan_scopes":
+								[
+									"source.scss -comment -string"
+								],
+								"use_hex_argb": false
+							},
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/work_bet/front_www/js/src/pages/vip/css/vip_old.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 37094,
+						"regions":
+						{
+							"col_000000FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										10675,
+										10679
+									],
+									[
+										10830,
+										10834
+									]
+								],
+								"scope": "col_000000FF"
+							},
+							"col_007BFFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										11826,
+										11833
+									]
+								],
+								"scope": "col_007BFFFF"
+							},
+							"col_00B2FFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										11817,
+										11824
+									]
+								],
+								"scope": "col_00B2FFFF"
+							},
+							"col_101F3B7F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										11582,
+										11603
+									]
+								],
+								"scope": "col_101F3B7F"
+							},
+							"col_11117FFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										20096,
+										20103
+									]
+								],
+								"scope": "col_11117FFF"
+							},
+							"col_140474FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										13126,
+										13133
+									],
+									[
+										16468,
+										16475
+									],
+									[
+										19865,
+										19872
+									],
+									[
+										20426,
+										20433
+									],
+									[
+										21059,
+										21066
+									]
+								],
+								"scope": "col_140474FF"
+							},
+							"col_163768FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										10952,
+										10959
+									]
+								],
+								"scope": "col_163768FF"
+							},
+							"col_3DAC39FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										12704,
+										12711
+									]
+								],
+								"scope": "col_3DAC39FF"
+							},
+							"col_404040FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										475,
+										482
+									]
+								],
+								"scope": "col_404040FF"
+							},
+							"col_58BD53FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										12695,
+										12702
+									]
+								],
+								"scope": "col_58BD53FF"
+							},
+							"col_BAC4D1FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										12854,
+										12861
+									]
+								],
+								"scope": "col_BAC4D1FF"
+							},
+							"col_DA1A32FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										13034,
+										13041
+									],
+									[
+										16836,
+										16843
+									],
+									[
+										18987,
+										18994
+									]
+								],
+								"scope": "col_DA1A32FF"
+							},
+							"col_ECF3FBFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										17976,
+										17983
+									],
+									[
+										20974,
+										20981
+									]
+								],
+								"scope": "col_ECF3FBFF"
+							},
+							"col_F1F3F7FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										17860,
+										17867
+									]
+								],
+								"scope": "col_F1F3F7FF"
+							},
+							"col_F7F7F7FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										18059,
+										18066
+									]
+								],
+								"scope": "col_F7F7F7FF"
+							},
+							"col_FFFFFFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										2399,
+										2403
+									],
+									[
+										9260,
+										9264
+									],
+									[
+										11614,
+										11618
+									],
+									[
+										12259,
+										12263
+									],
+									[
+										12464,
+										12468
+									],
+									[
+										12583,
+										12587
+									],
+									[
+										13196,
+										13200
+									],
+									[
+										15143,
+										15147
+									],
+									[
+										15828,
+										15832
+									],
+									[
+										16113,
+										16117
+									],
+									[
+										16497,
+										16501
+									],
+									[
+										16896,
+										16900
+									],
+									[
+										17209,
+										17213
+									],
+									[
+										18731,
+										18735
+									],
+									[
+										19038,
+										19042
+									],
+									[
+										19602,
+										19606
+									],
+									[
+										20186,
+										20190
+									],
+									[
+										21814,
+										21818
+									],
+									[
+										22555,
+										22559
+									]
+								],
+								"scope": "col_FFFFFFFF"
+							}
+						},
+						"selection":
+						[
+							[
+								26803,
+								26864
+							]
+						],
+						"settings":
+						{
+							"color_helper.file_palette":
+							[
+								"#000000ff",
+								"#007bffff",
+								"#00b2ffff",
+								"#101f3b7F@1",
+								"#11117fff",
+								"#140474ff",
+								"#163768ff",
+								"#3dac39ff",
+								"#404040ff",
+								"#58bd53ff",
+								"#bac4d1ff",
+								"#da1a32ff",
+								"#ecf3fbff",
+								"#f1f3f7ff",
+								"#f7f7f7ff",
+								"#ffffffff"
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"gray",
+									"graya",
+									"rgb",
+									"hwb",
+									"hexa_compressed",
+									"hsl",
+									"hwba",
+									"rgba",
+									"webcolors",
+									"hsla",
+									"hex",
+									"hexa",
+									"hex_compressed"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".css",
+								"current_syntax": "CSS/CSS",
+								"enabled": true,
+								"last_updated": 1576658263.43,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
 							"git_gutter_is_enabled": true,
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-							"tab_size": 4,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 252.0,
+						"translation.y": 20614.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
@@ -690,35 +1802,263 @@
 			"sheets":
 			[
 				{
-					"buffer": 4,
-					"file": "/D/work_bet/front_www/js/src/pages/vip/js/vip.js",
+					"buffer": 6,
+					"file": "/D/work_bet/front_www/js/src/pages/vip/readMe.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2620,
+						"buffer_size": 2318,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2140,
-								2140
+								1247,
+								1247
+							]
+						],
+						"settings":
+						{
+							"color_helper.file_palette":
+							[
+								"#ff0000ff"
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"gray",
+									"graya",
+									"rgb",
+									"hwb",
+									"hexa_compressed",
+									"hsl",
+									"hwba",
+									"rgba",
+									"webcolors",
+									"hsla",
+									"hex",
+									"hexa",
+									"hex_compressed"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".md",
+								"current_syntax": "Markdown/Markdown",
+								"enabled": true,
+								"last_updated": 1576658263.43,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"git_gutter_is_enabled": true,
+							"parser": "markdown",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"target": "sublime",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1262.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"file": "/D/work_bet/front_www/js/src/pages/vip/js/vip.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2694,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								830,
+								830
 							]
 						],
 						"settings":
 						{
 							"auto_name": "$(function() {",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"current_ext": ".js",
+								"current_syntax": "Babel/JavaScript (Babel)",
+								"enabled": false,
+								"last_updated": 1576658263.43
+							},
 							"git_gutter_is_enabled": true,
 							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1818.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/D/work_bet/front_www/js/src/pages/vip/css/scss/slick.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11091,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1809,
+								1814
+							]
+						],
+						"settings":
+						{
+							"color_helper.file_palette":
+							[
+								"#000000ff",
+								"#404040ff",
+								"#ffffffff"
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"gray",
+									"graya",
+									"rgb",
+									"hwb",
+									"hexa_compressed",
+									"hsl",
+									"hwba",
+									"rgba",
+									"webcolors",
+									"hsla",
+									"hex",
+									"hexa",
+									"hex_compressed"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".scss",
+								"current_syntax": "SCSS/SCSS",
+								"enabled": true,
+								"last_updated": 1576658263.43,
+								"scan_completion_scopes":
+								[
+									"source.scss"
+								],
+								"scan_scopes":
+								[
+									"source.scss -comment -string"
+								],
+								"use_hex_argb": false
+							},
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 233.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23517,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23517,
+								23517
+							]
+						],
+						"settings":
+						{
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"gray",
+									"graya",
+									"rgb",
+									"hwb",
+									"hexa_compressed",
+									"hsl",
+									"hwba",
+									"rgba",
+									"webcolors",
+									"hsla",
+									"hex",
+									"hexa",
+									"hex_compressed"
+								],
+								"compress_hex_output": true,
+								"current_ext": null,
+								"current_syntax": "HTML/HTML",
+								"enabled": true,
+								"last_updated": 1576658263.43,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
 					"type": "text"
 				}
 			]

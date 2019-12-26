@@ -7,18 +7,17 @@
 	"draw_minimap_border": true,
 	"draw_white_space": "all",
 	"font_face": "Consolas",
-	"font_size": 11,
-	"gn_hide_tab_close": true,
-	"gn_hide_tab_dropdown": true,
-	"gn_overlay_scroll_bars": true,
-	"gn_sb_cnvx": true,
-	"gn_sidebar_box": true,
-	"gnwidg2": true,
+	"font_size": 12,
+	"gni_001": false,
+	"gni_002": false,
+	"gni_003": false,
 	"highlight_line": true,
 	"highlight_modified_tabs": false,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Guna",
+		"Vintage",
+		"zzz A File Icon zzz"
 	],
 	"index_files": false,
 	"line_padding_bottom": 3,
@@ -30,7 +29,7 @@
 	"show_definitions": false,
 	"show_encoding": true,
 	"tab_size": 2,
-	"theme": "Guna.sublime-theme",
+	"theme": "gruvbox.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true

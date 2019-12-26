@@ -1,21 +1,20 @@
-// Specify your own settings. You don't need to restart
 {
 	"sidebar_widget": "weather",
-	"weather": {
-		"appid": "02dbd3cf5e6a5617d2d0a22e727bfcdd",      // - http://openweathermap.org/appid
-		"city_name": "Kiev",  // - city name, country code e.g) seoul,KR
-		"proxy": ""       // - http proxy e.g) 10.75.97.11:8080
-	},
+	// "weather": {
+	// 	"appid": "02dbd3cf5e6a5617d2d0a22e727bfcdd",
+	// 	"city_name": "Kiev",
+	// 	"proxy": ""
+	// },
 
-	"city": {
-		"id": 703448,
-		"name":"Kiev",
-		"country": "UA",
-		"coord": {
-			"lon": 30.425398,
-			"lat": 50.448377,
-		}
-	},
+	// "city": {
+	// 	"id": 703448,
+	// 	"name":"Kiev",
+	// 	"country": "UA",
+	// 	"coord": {
+	// 		"lon": 30.425398,
+	// 		"lat": 50.448377,
+	// 	}
+	// },
 
 	"base-color": "#282828",
 

@@ -8,7 +8,7 @@
 		"/D/work_bet/mobile"
 	],
 	"last_version": 3211,
-	"last_window_id": 115,
+	"last_window_id": 119,
 	"log_indexing": false,
 	"settings":
 	{
@@ -19,6 +19,30 @@
 			{
 				"selected_items":
 				[
+					[
+						"header",
+						"header_img.png\tw:566 h:550"
+					],
+					[
+						"jc",
+						"jc-sb\tjustify-content: space-between;"
+					],
+					[
+						"fdr",
+						"fxd-rr\tflex-direction: row-reverse;"
+					],
+					[
+						"bgz",
+						"bgsz-cv\tbackground-size: cover;"
+					],
+					[
+						"bdr",
+						"bdrs\tborder-radius"
+					],
+					[
+						"bgr",
+						"bgr-n\tbackground-repeat: no-repeat;"
+					],
 					[
 						"co",
 						"console"
@@ -52,11 +76,35 @@
 				"selected_items":
 				[
 					[
-						"checkou",
+						"upda",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"ma",
+						"Markdown Preview: Export HTML in Sublime Text"
+					],
+					[
+						"checkout ",
 						"Git: Checkout Current File"
 					],
 					[
+						"up",
+						"Package Control: Upgrade Package"
+					],
+					[
 						"checko",
+						"Git: Checkout Current File"
+					],
+					[
+						"checkout",
+						"Git: Checkout Current File"
+					],
+					[
+						"che",
+						"Git: Checkout Current File"
+					],
+					[
+						"checkou",
 						"Git: Checkout Current File"
 					],
 					[
@@ -124,10 +172,6 @@
 						"Markdown Preview: Preview in Browser"
 					],
 					[
-						"checkout ",
-						"Git: Checkout Current File"
-					],
-					[
 						"commi",
 						"Set Syntax: Git Commit Message"
 					],
@@ -144,16 +188,8 @@
 						"Git: Checkout Current File"
 					],
 					[
-						"che",
-						"Git: Checkout Current File"
-					],
-					[
 						"gitgutter",
 						"Preferences: GitGutter Popup Stylesheet"
-					],
-					[
-						"checkout",
-						"Git: Checkout Current File"
 					],
 					[
 						"chec",
@@ -273,12 +309,38 @@
 			},
 			"file_history":
 			[
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/reducers/balanceModal/actions.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/config/pids.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositWallet.js",
+				"/D/work_bet/front_www/js/src/pages/vip/readMe.md",
+				"/D/work_bet/front_www/js/src/pages/vip/readMe.html",
+				"/D/work_bet/front_www/js/src/pages/vip/css/scss/slick.scss",
+				"/D/work_bet/front_www/js/src/pages/vip/css/scss/reset.scss",
+				"/D/work_bet/front_www/js/src/pages/vip/css/scss/media.scss",
+				"/D/work_bet/front_www/js/src/pages/vip/css/scss/main.scss",
+				"/D/work_bet/front_www/js/src/pages/vip/js/vip.js",
+				"/D/work_bet/front_www/js/src/pages/vip/tasks/css.js",
+				"/D/work_bet/front_www/js/src/pages/vip/vip_uk.html",
+				"/D/work_bet/front_www/js/src/pages/vip/vip_en.html",
+				"/D/work_bet/front_www/js/src/pages/vip/css/vip.min.css",
+				"/D/work_bet/front_www/js/src/pages/vip/css/scss/vip.scss",
+				"/D/work_bet/mobile/src/services/cabinet/modules/deposit/reducer.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/PayGiga.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/package.json",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/DepositCard.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step1/index.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/Balance/Wallets/index.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/stepTypes.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/index.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/reducers/withdrawModal/actions.js",
+				"/D/work_bet/1111111/user_accounts_prod-devel.txt",
+				"/D/work_bet/mobile/README.md",
+				"/D/work_bet/front_www/js/src/pages/vip/vip_ru.html",
+				"/D/work_bet/front_www/js/src/pages/vip/index_new.html",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
-				"/D/work_bet/front_www/js/src/pages/vip/css/vip.min.css",
 				"/D/work_bet/mobile/.env",
-				"/D/work_bet/mobile/README.md",
 				"/D/work_bet/mobile/src/services/pages/pages/Page/styles.scss",
 				"/D/work_bet/mobile/.eslintrc.yml",
 				"/D/work_bet/mobile/.gitignore",
@@ -286,15 +348,10 @@
 				"/D/work_bet/mobile/src/client.js",
 				"/D/work_bet/mobile/src/helpers/Html.js",
 				"/D/work_bet/front_www/js/src/pages/vip/css/vip_old.css",
-				"/D/work_bet/front_www/js/src/pages/vip/css/scss/reset.scss",
-				"/D/work_bet/front_www/js/src/pages/vip/tasks/css.js",
 				"/D/work_bet/front_www/js/src/pages/vip/css/scss/normalize.scss",
-				"/D/work_bet/front_www/js/src/pages/vip/readMe.html",
 				"/D/work_bet/front_www/js/src/pages/vip/css/scss/slider.scss",
-				"/D/work_bet/front_www/js/src/pages/vip/vip_uk.html",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
-				"/D/work_bet/front_www/js/src/pages/vip/css/scss/slick.scss",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/CSS Format.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/CSS Format/CSS Format.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
@@ -310,20 +367,15 @@
 				"/D/work_bet/front_www/.source/base/po/_po_50.scss",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/DepositAbon.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/addWallet.js",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/index.js",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositWallet.js",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
 				"/D/work_bet/front_www/.source/base/po/_po.scss",
 				"/D/work_bet/front_www/.source/base/po/_payment-instrument.scss",
 				"/D/work_bet/front_www/.source/partners/13/scss/_color_themes.scss",
 				"/D/work_bet/front_www/.source/partners/1/scss/_color_themes_favbet.scss",
 				"/D/work_bet/front_www/.source/base/po/_warning-message.scss",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step1/index.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/components/Common/Input.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/index.js",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/stepTypes.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/components/Common/PanKeeper.js",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/DepositCard.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/reducers/personalOfficeModal/actions.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/node_modules/redux-actions/lib/index.js",
 				"/D/work_bet/front_www/js/src/basket/node_modules/@storybook/addon-actions/dist/preview/actions.js",
@@ -348,7 +400,6 @@
 				"/D/work_bet/front_www/.source/partners/50/scss/base.scss",
 				"/D/work_bet/front_www/js/src/basket/package.json",
 				"/D/work_bet/front_www/.source/base/po_v2/_po_v2_unknown.scss",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/reducers/balanceModal/actions.js",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Sublimerge 3/Sublimerge 3.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/AutoBackups/AutoBackups (Windows).sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
@@ -360,7 +411,6 @@
 				"/C/Users/JaineKaminsky/Downloads/Telegram Desktop/ons/index.html",
 				"/C/Users/JaineKaminsky/Desktop/123.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/translate.js",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/Balance/Wallets/index.js",
 				"/D/work_bet/front_www/js/src/basket/src/components/basket/index.js",
 				"/C/Users/JaineKaminsky/AppData/Roaming/npm/node_modules/prettier/package.json",
 				"/D/work_bet/front_www/js/src/basket/src/modules/loginUser/containers/noAuth/rootNoAuth.js",
@@ -386,19 +436,20 @@
 				"/D/work_bet/core/src/components/common/Button/index.module.css",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/AutoBackups (Windows).sublime-settings",
-				"/C/Users/JaineKaminsky/package.json",
-				"/C/Users/JaineKaminsky/.babel.json"
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/AutoBackups (Windows).sublime-settings"
 			],
 			"find":
 			{
-				"height": 49.0
+				"height": 30.0
 			},
 			"find_in_files":
 			{
 				"height": 125.0,
 				"where_history":
 				[
+					"D:\\work_bet\\front_www\\js\\src\\pages\\vip\\css\\scss",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers",
 					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\BalanceModal",
 					"D:\\work_bet\\front_www\\.source",
 					"D:\\work_bet\\front_www\\.source\\base",
@@ -428,6 +479,64 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"vip_cash_content",
+					"span",
+					"vip_order_content",
+					"vip_order_content ",
+					"../../img/",
+					"./img",
+					"carousel-menu",
+					"/static/media/pages/vip/",
+					"aval_currency_bl",
+					"isStepAddWallet",
+					"602",
+					"paymentInstrumentId",
+					"paygiga",
+					"pay",
+					"paygiga",
+					"openMakedepositModal",
+					"create_dep_btn",
+					"muchbetter",
+					"get_bank_list",
+					"get_amount_list",
+					"get_bank_list",
+					"muchbetter",
+					"create_dep_btn",
+					"depo",
+					"create_dep_btn",
+					"depo",
+					",\n",
+					"\nget_bank_list",
+					"get_bank_list",
+					"get_bank_list\n\n",
+					"Smart Casual",
+					"order_",
+					"vip_link_1",
+					"titl",
+					"men",
+					"../img/",
+					">\n",
+					"\n",
+					"carousel-nodots",
+					";\n",
+					"vip-ста",
+					"vip-c",
+					"slick-dots",
+					"vip_interior",
+					"/static/media/pages/vip",
+					"vip_advantages_bl",
+					"vip_item_icon",
+					"(../",
+					"/static/media/pages/vip",
+					"vip_tab2_Content .",
+					".vip_tab1_Content ",
+					"vip_item",
+					"for",
+					"vip_titl",
+					"txt_imp",
+					"content_it",
+					"conten",
+					"txt_imp",
 					"cash",
 					"bill",
 					"vip_tab4_Content",
@@ -497,65 +606,7 @@
 					"MuiGrid-grid-sm-11",
 					"MuiGrid-grid-sm-10",
 					"MuiGrid-grid-sm-9",
-					"MuiGrid-grid-sm-8",
-					"MuiGrid-grid-sm-7",
-					"MuiGrid-grid-sm-6",
-					"MuiGrid-grid-sm-5",
-					"MuiGrid-grid-sm-4",
-					"MuiGrid-grid-sm-3",
-					"MuiGrid-grid-sm-2",
-					"MuiGrid-grid-sm-1",
-					"MuiGrid-grid-sm-true",
-					"MuiGrid-grid-sm-auto",
-					"MuiGrid-grid-xs-9",
-					"MuiGrid-grid-xs-8",
-					"MuiGrid-grid-xs-7",
-					"MuiGrid-grid-xs-6",
-					"MuiGrid-grid-xs-5",
-					"MuiGrid-grid-xs-4",
-					"MuiGrid-grid-xs-3",
-					"MuiGrid-grid-xs-2",
-					"MuiGrid-grid-xs-1",
-					"MuiGrid-grid-xs-true",
-					"MuiGrid-grid-xs-auto",
-					"MuiGrid-spacing-xs-10",
-					"MuiGrid-spacing-xs-9",
-					"MuiGrid-spacing-xs-8",
-					"MuiGrid-spacing-xs-7",
-					"MuiGrid-spacing-xs-6",
-					"MuiGrid-spacing-xs-5",
-					"MuiGrid-spacing-xs-4",
-					"MuiGrid-spacing-xs-3",
-					"MuiGrid-spacing-xs-2",
-					"MuiGrid-item",
-					"MuiGrid-spacing-xs-1",
-					"MuiGrid-justify-xs-space-evenly",
-					"MuiGrid-justify-xs-space-around",
-					"MuiGrid-justify-xs-space-between",
-					"MuiGrid-justify-xs-flex-end",
-					"MuiGrid-align-content-xs-space-around",
-					"MuiGrid-align-content-xs-space-between",
-					"MuiGrid-align-content-xs-flex-end",
-					"MuiGrid-align-content-xs-flex-start",
-					"MuiGrid-align-content-xs-center",
-					"MuiGrid-align-items-xs-baseline",
-					"MuiGrid-align-items-xs-flex-end",
-					"MuiGrid-align-items-xs-flex-start",
-					"MuiGrid-align-items-xs-center",
-					"MuiGrid-wrap-xs-wrap-reverse",
-					"MuiGrid-wrap-xs-nowrap",
-					"MuiGrid-direction-xs-row-reverse",
-					"MuiGrid-direction-xs-column-reverse",
-					"MuiGrid-direction-xs-column",
-					"MuiGrid-zeroMinWidth",
-					"MuiGrid-root",
-					"css",
-					"slide",
-					"item",
-					"carousel-nodots",
-					"MuiGrid-grid-xs-12",
-					"MuiGrid-grid-xs-11",
-					"MuiGrid-grid-xs-10"
+					"MuiGrid-grid-sm-8"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -563,6 +614,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"./",
 					"setIsDisableDepositBtn",
 					"isDisableDepositBtn"
 				],
@@ -574,11 +626,11 @@
 			},
 			"incremental_find":
 			{
-				"height": 29.0
+				"height": 30.0
 			},
 			"input":
 			{
-				"height": 47.0
+				"height": 50.0
 			},
 			"menu_visible": true,
 			"output.Terminus":
@@ -604,7 +656,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 54.0
+				"height": 56.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -638,13 +690,13 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 334.0,
+			"side_bar_width": 275.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1854.0
+		"new_window_width": 1862.0
 	},
 	"windows":
 	[
@@ -653,6 +705,30 @@
 			{
 				"selected_items":
 				[
+					[
+						"header",
+						"header_img.png\tw:566 h:550"
+					],
+					[
+						"jc",
+						"jc-sb\tjustify-content: space-between;"
+					],
+					[
+						"fdr",
+						"fxd-rr\tflex-direction: row-reverse;"
+					],
+					[
+						"bgz",
+						"bgsz-cv\tbackground-size: cover;"
+					],
+					[
+						"bdr",
+						"bdrs\tborder-radius"
+					],
+					[
+						"bgr",
+						"bgr-n\tbackground-repeat: no-repeat;"
+					],
 					[
 						"co",
 						"console"
@@ -677,14 +753,6 @@
 			},
 			"buffers":
 			[
-				{
-					"file": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 961,
-						"line_ending": "Unix"
-					}
-				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -702,24 +770,80 @@
 						"Package Control: Disable Package"
 					],
 					[
-						"rein",
-						"Indentation: Reindent Lines"
+						"upda",
+						"Package Control: Upgrade Package"
 					],
 					[
-						"pre",
-						"JsPrettier: Format Code"
+						"ma",
+						"Markdown Preview: Export HTML in Sublime Text"
+					],
+					[
+						"checkout ",
+						"Git: Checkout Current File"
+					],
+					[
+						"up",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"checko",
+						"Git: Checkout Current File"
+					],
+					[
+						"checkout",
+						"Git: Checkout Current File"
+					],
+					[
+						"che",
+						"Git: Checkout Current File"
+					],
+					[
+						"checkou",
+						"Git: Checkout Current File"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"maek",
+						"Markdown Preview: Export HTML in Sublime Text"
 					],
 					[
 						"rei",
 						"Indentation: Reindent Lines"
 					],
 					[
+						"m",
+						"Markdown Preview: Save to HTML"
+					],
+					[
 						"in",
 						"Package Control: Install Package"
 					],
 					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"htm",
+						"Markdown Preview: Export HTML in Sublime Text"
+					],
+					[
 						"rem",
 						"Package Control: Remove Package"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"pre",
+						"JsPrettier: Format Code"
 					],
 					[
 						"inst",
@@ -730,24 +854,12 @@
 						"Package Control: List Packages"
 					],
 					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"ena",
-						"Package Control: Enable Package"
-					],
-					[
 						"expo",
 						"Markdown Preview: Export HTML in Sublime Text"
 					],
 					[
 						"preview",
 						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"checkout ",
-						"Git: Checkout Current File"
 					],
 					[
 						"commi",
@@ -762,28 +874,12 @@
 						"Package Control: List Packages"
 					],
 					[
-						"checkou",
-						"Git: Checkout Current File"
-					],
-					[
-						"checko",
-						"Git: Checkout Current File"
-					],
-					[
 						"CHECKO",
-						"Git: Checkout Current File"
-					],
-					[
-						"che",
 						"Git: Checkout Current File"
 					],
 					[
 						"gitgutter",
 						"Preferences: GitGutter Popup Stylesheet"
-					],
-					[
-						"checkout",
-						"Git: Checkout Current File"
 					],
 					[
 						"chec",
@@ -808,10 +904,6 @@
 					[
 						"disab",
 						"Package Control: Disable Package"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
 					],
 					[
 						"dis",
@@ -905,10 +997,65 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/D/work_bet/front_www",
+				"/D/work_bet/front_www/js",
+				"/D/work_bet/front_www/js/src",
+				"/D/work_bet/front_www/js/src/pages",
+				"/D/work_bet/front_www/js/src/pages/vip",
+				"/D/work_bet/front_www/js/src/pages/vip/css",
+				"/D/work_bet/front_www/js/src/pages/vip/css/scss",
+				"/D/work_bet/front_www/js/src/pages/vip/js",
+				"/D/work_bet/front_www/js/src/pages/vip/tasks"
+			],
 			"file_history":
 			[
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/reducers/balanceModal/actions.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/config/pids.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositWallet.js",
+				"/D/work_bet/front_www/js/src/pages/vip/readMe.md",
+				"/D/work_bet/front_www/js/src/pages/vip/readMe.html",
+				"/D/work_bet/front_www/js/src/pages/vip/css/scss/slick.scss",
+				"/D/work_bet/front_www/js/src/pages/vip/css/scss/reset.scss",
+				"/D/work_bet/front_www/js/src/pages/vip/css/scss/media.scss",
+				"/D/work_bet/front_www/js/src/pages/vip/css/scss/main.scss",
+				"/D/work_bet/front_www/js/src/pages/vip/js/vip.js",
+				"/D/work_bet/front_www/js/src/pages/vip/tasks/css.js",
+				"/D/work_bet/front_www/js/src/pages/vip/vip_uk.html",
+				"/D/work_bet/front_www/js/src/pages/vip/vip_en.html",
+				"/D/work_bet/front_www/js/src/pages/vip/css/vip.min.css",
+				"/D/work_bet/front_www/js/src/pages/vip/css/scss/vip.scss",
+				"/D/work_bet/mobile/src/services/cabinet/modules/deposit/reducer.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/PayGiga.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/package.json",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/DepositCard.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step1/index.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/Balance/Wallets/index.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/stepTypes.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/index.js",
+				"/D/work_bet/front_www/js/src/personalOfficeNew/src/reducers/withdrawModal/actions.js",
+				"/D/work_bet/1111111/user_accounts_prod-devel.txt",
+				"/D/work_bet/mobile/README.md",
+				"/D/work_bet/front_www/js/src/pages/vip/vip_ru.html",
+				"/D/work_bet/front_www/js/src/pages/vip/index_new.html",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/D/work_bet/mobile/.env",
+				"/D/work_bet/mobile/src/services/pages/pages/Page/styles.scss",
+				"/D/work_bet/mobile/.eslintrc.yml",
+				"/D/work_bet/mobile/.gitignore",
+				"/D/work_bet/mobile/src/consts/partners.js",
+				"/D/work_bet/mobile/src/client.js",
+				"/D/work_bet/mobile/src/helpers/Html.js",
+				"/D/work_bet/front_www/js/src/pages/vip/css/vip_old.css",
+				"/D/work_bet/front_www/js/src/pages/vip/css/scss/normalize.scss",
+				"/D/work_bet/front_www/js/src/pages/vip/css/scss/slider.scss",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/CSS Format.sublime-settings",
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/CSS Format/CSS Format.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
 				"/D/work_bet/front_www/js/src/pages/vip/vip.html",
 				"/D/work_bet/front_www/js/src/pages/vip/gulpfile.js",
@@ -916,28 +1063,21 @@
 				"/D/my-work/meta/gulpTasks/css.js",
 				"/D/my/m-o-d-a/landing/tasks/clean.js",
 				"/D/my/m-o-d-a/landing/tasks/css.js",
-				"/D/work_bet/front_www/js/src/pages/vip/readMe.html",
 				"/C/Users/JaineKaminsky/Desktop/Screenshot_19.png",
 				"/D/my/m-o-d-a/landing/gulpfile.js",
 				"/D/work_bet/front_www/.source/partners/50/scss/_color_themes.scss",
 				"/D/work_bet/front_www/.source/base/po/_po_50.scss",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/DepositAbon.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/addWallet.js",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/index.js",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositWallet.js",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
 				"/D/work_bet/front_www/.source/base/po/_po.scss",
 				"/D/work_bet/front_www/.source/base/po/_payment-instrument.scss",
 				"/D/work_bet/front_www/.source/partners/13/scss/_color_themes.scss",
 				"/D/work_bet/front_www/.source/partners/1/scss/_color_themes_favbet.scss",
 				"/D/work_bet/front_www/.source/base/po/_warning-message.scss",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step1/index.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/components/Common/Input.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/index.js",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/stepTypes.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/components/Common/PanKeeper.js",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/BalanceModal/views/Step2/stepType/depositComponents/DepositCard.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/reducers/personalOfficeModal/actions.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/node_modules/redux-actions/lib/index.js",
 				"/D/work_bet/front_www/js/src/basket/node_modules/@storybook/addon-actions/dist/preview/actions.js",
@@ -962,7 +1102,6 @@
 				"/D/work_bet/front_www/.source/partners/50/scss/base.scss",
 				"/D/work_bet/front_www/js/src/basket/package.json",
 				"/D/work_bet/front_www/.source/base/po_v2/_po_v2_unknown.scss",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/reducers/balanceModal/actions.js",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Sublimerge 3/Sublimerge 3.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/AutoBackups/AutoBackups (Windows).sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
@@ -972,11 +1111,8 @@
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
 				"/C/Users/JaineKaminsky/Downloads/Telegram Desktop/ons/mebel_metall.html",
 				"/C/Users/JaineKaminsky/Downloads/Telegram Desktop/ons/index.html",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/CSS Format/CSS Format.sublime-settings",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/CSS Format.sublime-settings",
 				"/C/Users/JaineKaminsky/Desktop/123.js",
 				"/D/work_bet/front_www/js/src/personalOfficeNew/src/translate.js",
-				"/D/work_bet/front_www/js/src/personalOfficeNew/src/containers/Balance/Wallets/index.js",
 				"/D/work_bet/front_www/js/src/basket/src/components/basket/index.js",
 				"/C/Users/JaineKaminsky/AppData/Roaming/npm/node_modules/prettier/package.json",
 				"/D/work_bet/front_www/js/src/basket/src/modules/loginUser/containers/noAuth/rootNoAuth.js",
@@ -1002,27 +1138,177 @@
 				"/D/work_bet/core/src/components/common/Button/index.module.css",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
 				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
-				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/AutoBackups (Windows).sublime-settings",
-				"/C/Users/JaineKaminsky/package.json",
-				"/C/Users/JaineKaminsky/.babel.json"
+				"/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/AutoBackups (Windows).sublime-settings"
 			],
 			"find":
 			{
-				"height": 29.0
+				"height": 31.0
 			},
 			"find_in_files":
 			{
 				"height": 125.0,
 				"where_history":
 				[
+					"D:\\work_bet\\front_www\\js\\src\\pages\\vip\\css\\scss",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\BalanceModal",
+					"D:\\work_bet\\front_www\\.source",
+					"D:\\work_bet\\front_www\\.source\\base",
+					"D:\\work_bet\\front_www\\.source\\base\\po",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\BalanceModal",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\Balance",
+					"D:\\work_bet\\front_www\\.source\\base",
+					"D:\\work_bet\\front_www\\.source\\base\\po_v2",
+					"D:\\work_bet\\front_www\\.source\\base",
+					"D:\\work_bet\\front_www\\.source\\base\\po",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\BalanceModal",
+					"D:\\work_bet\\front_www\\.source\\partners\\50\\scss",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\BalanceModal\\views\\Step2",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers\\BalanceModal",
+					"D:\\work_bet\\front_www\\js\\src\\basket\\src",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src",
+					"D:\\work_bet\\front_www\\js\\src\\personalOfficeNew\\src\\containers",
+					"D:\\work_bet\\front_www\\js\\src\\basket\\src",
+					"D:\\work_bet\\front_www\\js\\src\\basket",
+					"C:\\Program Files\\Sublime Text 3\\Packages",
+					"C:\\Users\\JaineKaminsky\\AppData\\Roaming\\Sublime Text 3\\",
+					"C:\\Users\\JaineKaminsky\\AppData\\Roaming\\Sublime Text 3\\Packages"
 				]
 			},
 			"find_state":
 			{
-				"case_sensitive": true,
+				"case_sensitive": false,
 				"find_history":
 				[
-					"post"
+					"vip_cash_content",
+					"span",
+					"vip_order_content",
+					"vip_order_content ",
+					"../../img/",
+					"./img",
+					"carousel-menu",
+					"/static/media/pages/vip/",
+					"aval_currency_bl",
+					"isStepAddWallet",
+					"602",
+					"paymentInstrumentId",
+					"paygiga",
+					"pay",
+					"paygiga",
+					"openMakedepositModal",
+					"create_dep_btn",
+					"muchbetter",
+					"get_bank_list",
+					"get_amount_list",
+					"get_bank_list",
+					"muchbetter",
+					"create_dep_btn",
+					"depo",
+					"create_dep_btn",
+					"depo",
+					",\n",
+					"\nget_bank_list",
+					"get_bank_list",
+					"get_bank_list\n\n",
+					"Smart Casual",
+					"order_",
+					"vip_link_1",
+					"titl",
+					"men",
+					"../img/",
+					">\n",
+					"\n",
+					"carousel-nodots",
+					";\n",
+					"vip-ста",
+					"vip-c",
+					"slick-dots",
+					"vip_interior",
+					"/static/media/pages/vip",
+					"vip_advantages_bl",
+					"vip_item_icon",
+					"(../",
+					"/static/media/pages/vip",
+					"vip_tab2_Content .",
+					".vip_tab1_Content ",
+					"vip_item",
+					"for",
+					"vip_titl",
+					"txt_imp",
+					"content_it",
+					"conten",
+					"txt_imp",
+					"cash",
+					"bill",
+					"vip_tab4_Content",
+					"vip_item",
+					"vip_item_icon",
+					"content_items",
+					"h1",
+					"vip_tab1_Content",
+					"vip_headerInner",
+					"vip_tab1_Content",
+					"favbet.devel",
+					"line",
+					"linux",
+					"vip_tab1_Content",
+					"vip_container",
+					"vip_flex",
+					"xs",
+					"vip_tab3_co",
+					"vip_tab3Pcon",
+					"983px",
+					"960",
+					"67em",
+					"h1",
+					"vip_new",
+					"img",
+					"sm_6",
+					"MuiGrid-grid-xl-12",
+					"MuiGrid-grid-xl-11",
+					"MuiGrid-grid-xl-10",
+					"MuiGrid-grid-xl-0",
+					"MuiGrid-grid-xl-9",
+					"MuiGrid-grid-xl-8",
+					"MuiGrid-grid-xl-7",
+					"MuiGrid-grid-xl-6",
+					"MuiGrid-grid-xl-5",
+					"MuiGrid-grid-xl-4",
+					"MuiGrid-grid-xl-3",
+					"MuiGrid-grid-xl-2",
+					"MuiGrid-grid-xl-1",
+					"MuiGrid-grid-lg-12",
+					"MuiGrid-grid-lg-11",
+					"MuiGrid-grid-lg-10",
+					"MuiGrid-grid-lg-9",
+					"MuiGrid-grid-lg-8",
+					"MuiGrid-grid-lg-7",
+					"MuiGrid-grid-lg-6",
+					"MuiGrid-grid-lg-5",
+					"MuiGrid-grid-lg-4",
+					"MuiGrid-grid-lg-3",
+					"MuiGrid-grid-lg-2",
+					"MuiGrid-grid-lg-1",
+					"MuiGrid-grid-md-12",
+					"MuiGrid-grid-md-11",
+					"MuiGrid-grid-md-10",
+					"MuiGrid-grid-md-9",
+					"MuiGrid-grid-md-8",
+					"MuiGrid-grid-md-7",
+					"MuiGrid-grid-md-6",
+					"MuiGrid-grid-md-5",
+					"MuiGrid-grid-md-4",
+					"MuiGrid-grid-md-3",
+					"MuiGrid-grid-md-2",
+					"MuiGrid-grid-md-1",
+					"MuiGrid-grid-md-true",
+					"MuiGrid-grid-md-auto",
+					"MuiGrid-grid-sm-12",
+					"MuiGrid-grid-sm-11",
+					"MuiGrid-grid-sm-10",
+					"MuiGrid-grid-sm-9",
+					"MuiGrid-grid-sm-8"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1030,6 +1316,9 @@
 				"regex": false,
 				"replace_history":
 				[
+					"./",
+					"setIsDisableDepositBtn",
+					"isDisableDepositBtn"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -1045,51 +1334,18 @@
 					]
 				},
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 961,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"edit_settings_other_view_id": 138,
-									"edit_settings_view": "user",
-									"git_gutter_is_enabled": false,
-									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 29.0
+				"height": 31.0
 			},
 			"input":
 			{
-				"height": 47.0
+				"height": 50.0
 			},
 			"layout":
 			{
@@ -1142,11 +1398,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,1089,14,55,1892",
-			"project": "",
+			"position": "0,2,3,-1,-1,-1,-1,1283,14,249,1892",
+			"project": "betinvest.sublime-project",
 			"replace":
 			{
-				"height": 54.0
+				"height": 58.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1183,14 +1439,14 @@
 			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
-			"side_bar_visible": false,
-			"side_bar_width": 334.0,
+			"side_bar_visible": true,
+			"side_bar_width": 275.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 106,
-			"workspace_name": ""
+			"window_id": 116,
+			"workspace_name": "/C/Users/JaineKaminsky/AppData/Roaming/Sublime Text 3/Packages/User/betinvest.sublime-workspace"
 		}
 	],
 	"workspaces":
